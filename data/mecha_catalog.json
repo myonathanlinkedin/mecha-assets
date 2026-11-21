@@ -2,7 +2,7 @@
   "version": "2.0.0",
   "asset_repository": "https://github.com/myonathanlinkedin/mecha-assets",
   "asset_cdn_base_url": "https://raw.githubusercontent.com/myonathanlinkedin/mecha-assets/main",
-  "last_synced": "2026-11-21T21:55:12.177177+00:00",
+  "last_synced": "2026-11-21T21:57:41.330628+00:00",
   "baselines": [
     {
       "id": "baseline_gundam_frame_v1",
@@ -154,20 +154,20 @@
         "format": "binary_gltf_glb",
         "asset_reference": {
           "relative_url": "models/parts/mission_pack_type_a_aero.glb",
-          "sha256_hash": "ca38bca48ac2771840a05a6195553e04ce7d2baa9266e725e927175d5cd371ca",
-          "file_size_bytes": 218400,
+          "sha256_hash": "e6d23eed3cea66f17cc3f3f45bc2aff786621c015b593c81d06c0d15f497a263",
+          "file_size_bytes": 218404,
           "compression": "meshopt"
         },
         "bounding_box_aabb_mm": {
           "min": [
-            -60.32602831829667,
+            -59.56569670674068,
             -22.0,
-            -34.0
+            -35.344400300951555
           ],
           "max": [
-            60.32602831829667,
+            59.56569670674068,
             37.0,
-            11.492109098140496
+            8.0
           ]
         }
       },
@@ -761,7 +761,7 @@
         "format": "binary_gltf_glb",
         "asset_reference": {
           "relative_url": "models/parts/propulsion_vernier_wing_pod.glb",
-          "sha256_hash": "0277c14d63b8f66684c28bcd7f9c941ca1b93cf635ac8aba0db981ae42a1f1fd",
+          "sha256_hash": "aeac9fff37871c8ad96758c8d0a87d29d8c8152781147fa4f300db2932e8e253",
           "file_size_bytes": 348324,
           "compression": "meshopt"
         },
@@ -769,7 +769,7 @@
           "min": [
             -46.18869082180539,
             -13.142373233232565,
-            -26.54117284256713
+            -27.18892122728392
           ],
           "max": [
             46.18869082180539,
