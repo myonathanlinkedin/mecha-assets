@@ -2,7 +2,7 @@
   "version": "2.0.0",
   "asset_repository": "https://github.com/myonathanlinkedin/mecha-assets",
   "asset_cdn_base_url": "https://raw.githubusercontent.com/myonathanlinkedin/mecha-assets/main",
-  "last_synced": "2026-11-21T21:45:20.521142+00:00",
+  "last_synced": "2026-11-21T21:50:02.079256+00:00",
   "baselines": [
     {
       "id": "baseline_gundam_frame_v1",
@@ -1242,20 +1242,20 @@
         "format": "binary_gltf_glb",
         "asset_reference": {
           "relative_url": "models/parts/weapon_beam_saber_rx.glb",
-          "sha256_hash": "c0176f7ac855afdc167c6e662663430a2538ad2a54d06e7ca03290924da84ece",
-          "file_size_bytes": 55284,
+          "sha256_hash": "188131afa1571ada80b81c3f69989083f2fbbc5eae5b552888ebfaff166b0dda",
+          "file_size_bytes": 61000,
           "compression": "meshopt"
         },
         "bounding_box_aabb_mm": {
           "min": [
             -12.0,
-            -7.0,
-            -9.7
+            -11.220847198639133,
+            -6.012705636014573
           ],
           "max": [
             12.0,
-            7.0,
-            80.9
+            89.75998882491926,
+            67.3656157155199
           ]
         }
       },
