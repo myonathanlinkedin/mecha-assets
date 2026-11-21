@@ -2,7 +2,7 @@
 
 > **Autonomous 3D Gundam-Like Mecha CAD Asset Store & 8-Zone Modular Manifest**  
 > **Live 3D WebGL Engineering Hangar:** [https://myonathanlinkedin.github.io/mecha.html](https://myonathanlinkedin.github.io/mecha.html)  
-> **Last Synchronized:** `2026-11-21 19:01 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `19`
+> **Last Synchronized:** `2026-11-21 20:00 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `22`
 
 ---
 
@@ -20,7 +20,7 @@ mecha-assets/
 
 ---
 
-## 🦾 8-Zone Full-Body Modular Parts Catalog (19 Non-Duplicate Assets)
+## 🦾 8-Zone Full-Body Modular Parts Catalog (22 Non-Duplicate Assets)
 
 | Serial | Part Name | Body Zone (`UHIS`) | Physical Adapter | Mass | SHA-256 | Binary GLB |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
@@ -43,3 +43,6 @@ mecha-assets/
 | `GXM-AGB-F980` | **BR-F980 High-Output 5.5MW Long-Barrel Mega Beam Rifle** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 1,311 kg | `7838d2815584…` | [`agentic_beam_rifle_f980bc.glb`](models/parts/agentic_beam_rifle_f980bc.glb) |
 | `GXM-AGR-796A` | **WS-796A Xiphias Mach-8.4 Folding Hip Electromagnetic Railguns (L+R)** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 2,991 kg | `1707801f3643…` | [`agentic_waist_railguns_796afa.glb`](models/parts/agentic_waist_railguns_796afa.glb) |
 | `GXM-AGW-A92B` | **Type-A/A92B Variable-Sweep Delta Wing Pack (125mm Span)** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 4,695 kg | `7147f8b3e959…` | [`agentic_aero_wing_a92bc1.glb`](models/parts/agentic_aero_wing_a92bc1.glb) |
+| `GXM-AGL-2072` | **LG-2072 FA-78 Dual Calf Missile & High-G Vernier Booster Pods (L+R)** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 3,510 kg | `3e363b331edf…` | [`agentic_leg_boosters_2072da.glb`](models/parts/agentic_leg_boosters_2072da.glb) |
+| `GXM-AGA-1C61` | **Type-H/1C61 Twin 335mm Over-Shoulder Rail Cannon Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 8,863 kg | `98fc3cb558e6…` | [`agentic_artillery_1c61f0.glb`](models/parts/agentic_artillery_1c61f0.glb) |
+| `GXM-AGH-C7B6` | **HD-C7B6 Cranial 71mm CIWS Vulcan & High-Gain Sensor Crest** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 838 kg | `84f6e58da941…` | [`agentic_head_crest_c7b616.glb`](models/parts/agentic_head_crest_c7b616.glb) |
