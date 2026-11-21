@@ -2,7 +2,7 @@
 
 > **Autonomous 3D Gundam-Like Mecha CAD Asset Store & 8-Zone Modular Manifest**  
 > **Live 3D WebGL Engineering Hangar:** [https://myonathanlinkedin.github.io/mecha.html](https://myonathanlinkedin.github.io/mecha.html)  
-> **Last Synchronized:** `2026-11-21 23:34 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `20`
+> **Last Synchronized:** `2026-11-21 23:35 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `22`
 
 ---
 
@@ -20,7 +20,7 @@ mecha-assets/
 
 ---
 
-## 🦾 8-Zone Full-Body Modular Parts Catalog (20 Non-Duplicate Assets)
+## 🦾 8-Zone Full-Body Modular Parts Catalog (22 Non-Duplicate Assets)
 
 | Serial | Part Name | Body Zone (`UHIS`) | Physical Adapter | Mass | SHA-256 | Binary GLB |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
@@ -44,3 +44,5 @@ mecha-assets/
 | `GXM-LLM-RLC-18` | **HP-03A Shoulder Rail Cannon Mk.II** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 3,900 kg | `671fe3b09f66…` | [`llm_shoulder_rail_cannons.glb`](models/parts/llm_shoulder_rail_cannons.glb) |
 | `GXM-LLM-OBV-19` | **RX-78-2 Overboost Leg Vernier Kit – HP-24 Calf Thruster** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 3,450 kg | `f718846300d3…` | [`llm_leg_overboost_verniers.glb`](models/parts/llm_leg_overboost_verniers.glb) |
 | `GXM-LLM-CMD-21` | **Commander Twin Blade Crest - Head Sensor Module** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 640 kg | `2792089bfd9d…` | [`llm_head_commander_crest.glb`](models/parts/llm_head_commander_crest.glb) |
+| `GXM-LLM-PLS-21` | **RX-78-9 Reactive Collar Plastron Mk.II** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 3,400 kg | `34d22b677ad0…` | [`llm_chest_reactive_plastron.glb`](models/parts/llm_chest_reactive_plastron.glb) |
+| `GXM-LLM-WST-23` | **RX-78-3 Waist Plasma Rail Skirt Mk.II** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 2,550 kg | `29003218a979…` | [`llm_waist_plasma_skirts.glb`](models/parts/llm_waist_plasma_skirts.glb) |
