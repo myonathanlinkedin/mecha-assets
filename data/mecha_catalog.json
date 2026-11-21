@@ -2,7 +2,7 @@
   "version": "2.0.0",
   "asset_repository": "https://github.com/myonathanlinkedin/mecha-assets",
   "asset_cdn_base_url": "https://raw.githubusercontent.com/myonathanlinkedin/mecha-assets/main",
-  "last_synced": "2026-11-21T21:05:49.636319+00:00",
+  "last_synced": "2026-11-21T21:20:30.530182+00:00",
   "baselines": [
     {
       "id": "baseline_gundam_frame_v1",
@@ -537,20 +537,20 @@
         "format": "binary_gltf_glb",
         "asset_reference": {
           "relative_url": "models/parts/mission_pack_type_c_cqc.glb",
-          "sha256_hash": "37e5ada71987e47ea168245063b435a56e4f8bbc5ff38802a62db0cf793c0a04",
-          "file_size_bytes": 121708,
+          "sha256_hash": "c9970626965d074f4be62fdb1ac99699d7490918516def87ba27da046f91c83f",
+          "file_size_bytes": 374596,
           "compression": "meshopt"
         },
         "bounding_box_aabb_mm": {
           "min": [
-            -15.200000000000001,
-            -51.15241772948784,
-            -15.216823180065909
+            -17.76578930955975,
+            -51.57169952494657,
+            -16.519668578092883
           ],
           "max": [
             12.0,
-            27.34557739612491,
-            20.308891398772705
+            27.39265770330618,
+            20.704601910623865
           ]
         }
       },
@@ -679,13 +679,13 @@
         "format": "binary_gltf_glb",
         "asset_reference": {
           "relative_url": "models/parts/armor_tower_shield_fed.glb",
-          "sha256_hash": "726f6cf848394249ee99ddbf0f271fc605dc095edc5de07c8f5e715ba1cacf5c",
-          "file_size_bytes": 167704,
+          "sha256_hash": "69d1b74798145e8e96f49e33f8f60a21244c2fa65e75d330595ce7b20b65afee",
+          "file_size_bytes": 167820,
           "compression": "meshopt"
         },
         "bounding_box_aabb_mm": {
           "min": [
-            -14.5,
+            -12.716824774453599,
             -36.55733072702707,
             -17.044581562688208
           ],
@@ -1406,13 +1406,13 @@
         "format": "binary_gltf_glb",
         "asset_reference": {
           "relative_url": "models/parts/agentic_shield_aa6bbe.glb",
-          "sha256_hash": "7ca3ec781b5eb9f97af44f0d2ea245b8ee15af5ecccbd1157ba417c279ebdee2",
-          "file_size_bytes": 167772,
+          "sha256_hash": "24c80a072edd22ef8c5da599ed82c9c55f9934e4cd1ee2877e92f78e4187fbed",
+          "file_size_bytes": 167820,
           "compression": "meshopt"
         },
         "bounding_box_aabb_mm": {
           "min": [
-            -14.5,
+            -12.716824774453599,
             -38.50705503246852,
             -17.166233085998375
           ],
@@ -1892,6 +1892,241 @@
       "telemetry_and_lore": {
         "operational_role": "Agentically synthesized cranial 58mm CIWS vulcan pod & 18.7mm LIDAR blade.",
         "reactor_power_draw_kw": 212,
+        "vernier_thrust_kgf": 0
+      }
+    },
+    {
+      "part_id": "agentic_psychofin_2bec43",
+      "serial_number": "GXM-AGP-2BEC",
+      "name": "Type-F/2BEC 6-Fin Psycho-Funnel AMBAC Wing Array",
+      "category": "propulsion",
+      "primary_hardpoint": "HP-00",
+      "slot_group": "dorsal_pack",
+      "adapter_id": "ADP-HP00-DORSAL",
+      "entropy_seed": "2bec43e9aeb6d5d9352cdf6642df71787d2d0b0fcb043cfa0a23a4fdf4589b3c",
+      "synthesis_origin": "agentic_parametric_genome",
+      "parametric_genome": {
+        "fin_length_mm": 44.7,
+        "fin_splay_deg": 17.15
+      },
+      "faction_compatibility": "universal_gundam_universe",
+      "compatible_hardpoints": [
+        "HP-00",
+        "HP-03"
+      ],
+      "structural_specs": {
+        "mass_kg": 4885,
+        "primary_material": "gundarium_alloy_gamma",
+        "center_of_mass": [
+          0.0,
+          48.0,
+          -22.0
+        ]
+      },
+      "hardpoints": [
+        {
+          "station_id": "HP-00",
+          "gender": "male_dovetail_key",
+          "relative_position": [
+            0.0,
+            48.0,
+            -18.0
+          ],
+          "clearance_tolerance_mm": 0.2
+        },
+        {
+          "station_id": "HP-03",
+          "gender": "female_chassis_socket",
+          "relative_position": [
+            34.0,
+            50.0,
+            0.0
+          ],
+          "clearance_tolerance_mm": 0.2
+        }
+      ],
+      "cad_mesh_definition": {
+        "format": "binary_gltf_glb",
+        "asset_reference": {
+          "relative_url": "models/parts/agentic_psychofin_2bec43.glb",
+          "sha256_hash": "af9f7b2926ab557b658dd21afe3b3afa75c2156f066109aa1338397d06a7c658",
+          "file_size_bytes": 248220,
+          "compression": "meshopt"
+        },
+        "bounding_box_aabb_mm": {
+          "min": [
+            -45.954992448681196,
+            -11.854569464139558,
+            -26.234174692102684
+          ],
+          "max": [
+            45.954992448681196,
+            40.8235860663083,
+            8.0
+          ]
+        }
+      },
+      "pbr_material": {
+        "color_hex": "#1a2530",
+        "roughness": 0.35,
+        "metalness": 0.85
+      },
+      "telemetry_and_lore": {
+        "operational_role": "Agentically synthesized 6-binder psycho-frame funnel array (fin_len=44.7mm, splay=17.2 deg).",
+        "reactor_power_draw_kw": 964,
+        "vernier_thrust_kgf": 196647
+      }
+    },
+    {
+      "part_id": "agentic_chest_armor_f11a15",
+      "serial_number": "GXM-AGC-F11A",
+      "name": "CH-F11A Chobham Reactive Breastplate & I-Field Chest Emitter",
+      "category": "armor",
+      "primary_hardpoint": "HP-09",
+      "slot_group": "chest_armor",
+      "adapter_id": "ADP-HP09-PECTORAL",
+      "entropy_seed": "f11a1581459c006ebe1f2b98c75516661d961f4a4f08189bdcb39a70a7641eaa",
+      "synthesis_origin": "agentic_parametric_genome",
+      "parametric_genome": {
+        "pectoral_span_factor": 1.092,
+        "emitter_aperture_mm": 6.29
+      },
+      "faction_compatibility": "universal_gundam_universe",
+      "compatible_hardpoints": [
+        "HP-09",
+        "HP-10"
+      ],
+      "structural_specs": {
+        "mass_kg": 3747,
+        "primary_material": "gundarium_alloy_gamma",
+        "center_of_mass": [
+          0.0,
+          48.0,
+          -22.0
+        ]
+      },
+      "hardpoints": [
+        {
+          "station_id": "HP-09",
+          "gender": "female_chassis_socket",
+          "relative_position": [
+            12.0,
+            42.0,
+            16.0
+          ],
+          "clearance_tolerance_mm": 0.2
+        },
+        {
+          "station_id": "HP-10",
+          "gender": "female_chassis_socket",
+          "relative_position": [
+            -12.0,
+            42.0,
+            16.0
+          ],
+          "clearance_tolerance_mm": 0.2
+        }
+      ],
+      "cad_mesh_definition": {
+        "format": "binary_gltf_glb",
+        "asset_reference": {
+          "relative_url": "models/parts/agentic_chest_armor_f11a15.glb",
+          "sha256_hash": "fb1193cd1cfddae9f75fc4a7b8b91466d88afb2fb0395536f2b628c9f5aa86ca",
+          "file_size_bytes": 240724,
+          "compression": "meshopt"
+        },
+        "bounding_box_aabb_mm": {
+          "min": [
+            -22.125463942376904,
+            -7.0,
+            -1.2837101233129489
+          ],
+          "max": [
+            22.125463942376904,
+            9.124,
+            11.738176222213355
+          ]
+        }
+      },
+      "pbr_material": {
+        "color_hex": "#1a2530",
+        "roughness": 0.35,
+        "metalness": 0.85
+      },
+      "telemetry_and_lore": {
+        "operational_role": "Agentically synthesized Chobham reactive chest armor with 6.3mm multi-phase emitter.",
+        "reactor_power_draw_kw": 566,
+        "vernier_thrust_kgf": 0
+      }
+    },
+    {
+      "part_id": "agentic_beam_rifle_7e271d",
+      "serial_number": "GXM-AGB-7E27",
+      "name": "BR-7E27 High-Output 4.3MW Long-Barrel Mega Beam Rifle",
+      "category": "weapon",
+      "primary_hardpoint": "HP-11",
+      "slot_group": "aux_weapon",
+      "adapter_id": "ADP-HP11-WEAPON",
+      "entropy_seed": "7e271d4d45e3cae57e04d651c8099c05596241df4b358176203727b9d99bfd8e",
+      "synthesis_origin": "agentic_parametric_genome",
+      "parametric_genome": {
+        "output_mw": 4.3,
+        "barrel_length_mm": 43.91
+      },
+      "faction_compatibility": "universal_gundam_universe",
+      "compatible_hardpoints": [
+        "HP-11"
+      ],
+      "structural_specs": {
+        "mass_kg": 1127,
+        "primary_material": "gundarium_alloy_gamma",
+        "center_of_mass": [
+          0.0,
+          48.0,
+          -22.0
+        ]
+      },
+      "hardpoints": [
+        {
+          "station_id": "HP-11",
+          "gender": "female_chassis_socket",
+          "relative_position": [
+            -38.0,
+            24.0,
+            4.0
+          ],
+          "clearance_tolerance_mm": 0.2
+        }
+      ],
+      "cad_mesh_definition": {
+        "format": "binary_gltf_glb",
+        "asset_reference": {
+          "relative_url": "models/parts/agentic_beam_rifle_7e271d.glb",
+          "sha256_hash": "0ba61e646e2fc558c09d19a10a319ef7d6f57bcfb1ec08112e0f25cc5d66490e",
+          "file_size_bytes": 205144,
+          "compression": "meshopt"
+        },
+        "bounding_box_aabb_mm": {
+          "min": [
+            -12.0,
+            -7.0,
+            -6.0
+          ],
+          "max": [
+            12.0,
+            15.458980933132963,
+            69.40588235294118
+          ]
+        }
+      },
+      "pbr_material": {
+        "color_hex": "#1a2530",
+        "roughness": 0.35,
+        "metalness": 0.85
+      },
+      "telemetry_and_lore": {
+        "operational_role": "Agentically synthesized 4.3MW mega-particle rifle (barrel=43.9mm).",
+        "reactor_power_draw_kw": 369,
         "vernier_thrust_kgf": 0
       }
     }
