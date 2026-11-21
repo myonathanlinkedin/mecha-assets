@@ -2,7 +2,7 @@
   "version": "2.0.0",
   "asset_repository": "https://github.com/myonathanlinkedin/mecha-assets",
   "asset_cdn_base_url": "https://raw.githubusercontent.com/myonathanlinkedin/mecha-assets/main",
-  "last_synced": "2026-11-21T21:50:02.079256+00:00",
+  "last_synced": "2026-11-21T21:51:16.634217+00:00",
   "baselines": [
     {
       "id": "baseline_gundam_frame_v1",
@@ -269,19 +269,19 @@
         "format": "binary_gltf_glb",
         "asset_reference": {
           "relative_url": "models/parts/mission_pack_type_s_space.glb",
-          "sha256_hash": "ca6b3740302e236238dc2d37b85803e91eb12df5be4d0777298a5686ce729d61",
-          "file_size_bytes": 200256,
+          "sha256_hash": "1a35de0d36d8397debaef03f32785440c85d80a9a57548f31946b913749bde65",
+          "file_size_bytes": 245488,
           "compression": "meshopt"
         },
         "bounding_box_aabb_mm": {
           "min": [
-            -31.442405227368354,
-            -40.85408979621438,
-            -34.372349350912515
+            -35.51548214463191,
+            -39.618716739533895,
+            -31.434182802224598
           ],
           "max": [
-            31.442405227368354,
-            23.608679718217072,
+            35.51548214463191,
+            24.494369519098612,
             8.0
           ]
         }
