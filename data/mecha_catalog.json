@@ -2,7 +2,7 @@
   "version": "2.0.0",
   "asset_repository": "https://github.com/myonathanlinkedin/mecha-assets",
   "asset_cdn_base_url": "https://raw.githubusercontent.com/myonathanlinkedin/mecha-assets/main",
-  "last_synced": "2026-11-21T23:01:02.258242+00:00",
+  "last_synced": "2026-11-21T23:05:13.274438+00:00",
   "baselines": [
     {
       "id": "baseline_gundam_frame_v1",
@@ -1268,6 +1268,126 @@
         "operational_role": "Iconic Federation plasma laser sword with white cylindrical hilt and blazing magenta-pink I-field beam blade.",
         "reactor_power_draw_kw": 380,
         "vernier_thrust_kgf": 0
+      }
+    },
+    {
+      "part_id": "llm_weapon_hyper_bazooka",
+      "blueprint_family": "hyper_bazooka",
+      "serial_number": "GXM-LLM-BAZ-15",
+      "name": "Hyper Bazooka Mk.II Auxiliary Hyper-Launcher",
+      "category": "weapon",
+      "primary_hardpoint": "HP-11",
+      "slot_group": "aux_weapon",
+      "adapter_id": "ADP-HP11-WEAPON",
+      "entropy_seed": "1e3c670c8087603db24d8e1e11c877f644b11f5cab7e072ddd227b174f4ecdf9",
+      "synthesis_origin": "llm_cad_architect",
+      "llm_design_source": "groq_llm_cad_architect",
+      "llm_blueprint_params": {
+        "barrel_length_mm": 66.0,
+        "barrel_radius_mm": 3.8,
+        "mag_depth_mm": 12.5,
+        "mass_kg": 3450.0,
+        "reactor_draw_kw": 180.0
+      },
+      "agentic_checklist_report": {
+        "status": "ALL_CHECKS_PASSED",
+        "llm_plan": [
+          "Verify barrel bore tolerance within ±0.05 mm.",
+          "Confirm mag‑depth clearance against adjacent vernier arrays.",
+          "Run thermal load simulation for 180 kW reactor draw.",
+          "Conduct structural stress test at 1.2× rated mass.",
+          "Validate integration with ADP-HP11‑WEAPON control bus."
+        ],
+        "verified_gates": [
+          {
+            "id": "CHK-01",
+            "check": "Watertight multi-mesh geometry compiled",
+            "passed": true,
+            "detail": "8 sub-meshes, 1496 triangles"
+          },
+          {
+            "id": "CHK-02",
+            "check": "GLB size within mobile budget (<= 480 KB)",
+            "passed": true,
+            "detail": "132,904 bytes"
+          },
+          {
+            "id": "CHK-03",
+            "check": "Zone 'aux_weapon' anti-sinking & orientation clearance",
+            "passed": true,
+            "detail": "Canonical weapon reach max_z=54.7mm, max_y=15.1mm"
+          },
+          {
+            "id": "CHK-04",
+            "check": "Zero NaN/Inf numerical geometry corruption",
+            "passed": true,
+            "detail": "AABB min=[-5.5, -5.2, -27.7] max=[5.5, 15.1, 54.7]"
+          },
+          {
+            "id": "CHK-05",
+            "check": "Parametric dimensions strictly inside ISO engineering bounds",
+            "passed": true,
+            "detail": "source=groq_llm_cad_architect, params={'barrel_length_mm': 66.0, 'barrel_radius_mm': 3.8, 'mag_depth_mm': 12.5, 'mass_kg': 3450.0, 'reactor_draw_kw': 180.0}"
+          }
+        ]
+      },
+      "faction_compatibility": "universal_gundam_universe",
+      "compatible_hardpoints": [
+        "HP-11",
+        "HP-12"
+      ],
+      "structural_specs": {
+        "mass_kg": 3450,
+        "bom_computed_mass_kg": 3450,
+        "primary_material": "gundarium_alloy_gamma",
+        "center_of_mass": [
+          0.0,
+          48.0,
+          -18.0
+        ]
+      },
+      "hardpoints": [
+        {
+          "id": "HP-11",
+          "type": "uhis_trapezoidal_dovetail",
+          "position_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "orientation_euler_deg": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "clearance_mm": 0.15
+        }
+      ],
+      "cad_mesh_definition": {
+        "scale_ratio": "1:100",
+        "units": "millimeters",
+        "bounding_box_aabb_mm": {
+          "min": [
+            -5.51,
+            -5.187,
+            -27.73
+          ],
+          "max": [
+            5.51,
+            15.106,
+            54.72
+          ]
+        },
+        "asset_reference": {
+          "mesh_url": "models/parts/llm_weapon_hyper_bazooka.glb",
+          "sha256_hash": "ea573e97baac0191cdf2299c10ff1c8350f3e4f1ce71129a9c8cb1690631187b",
+          "file_size_bytes": 132904
+        }
+      },
+      "performance_telemetry": {
+        "thrust_output_kgf": 0,
+        "reactor_draw_kw": 180,
+        "tactical_role": "Delivers long-range, high-velocity hyper projectiles to suppress enemy formations while preserving auxiliary power balance."
       }
     }
   ]
