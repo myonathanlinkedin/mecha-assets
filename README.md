@@ -2,7 +2,7 @@
 
 > **Autonomous 3D Gundam-Like Mecha CAD Asset Store & 8-Zone Modular Manifest**  
 > **Live 3D WebGL Engineering Hangar:** [https://myonathanlinkedin.github.io/mecha.html](https://myonathanlinkedin.github.io/mecha.html)  
-> **Last Synchronized:** `2026-11-21 23:20 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `17`
+> **Last Synchronized:** `2026-11-21 23:21 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `18`
 
 ---
 
@@ -20,7 +20,7 @@ mecha-assets/
 
 ---
 
-## 🦾 8-Zone Full-Body Modular Parts Catalog (17 Non-Duplicate Assets)
+## 🦾 8-Zone Full-Body Modular Parts Catalog (18 Non-Duplicate Assets)
 
 | Serial | Part Name | Body Zone (`UHIS`) | Physical Adapter | Mass | SHA-256 | Binary GLB |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
@@ -41,3 +41,4 @@ mecha-assets/
 | `GXM-LLM-BAZ-15` | **Hyper Bazooka Mk.II Auxiliary Hyper-Launcher** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 3,450 kg | `ea573e97baac…` | [`llm_weapon_hyper_bazooka.glb`](models/parts/llm_weapon_hyper_bazooka.glb) |
 | `GXM-LLM-NAG-16` | **RX-78 Beam Naginata Auxiliary Weapon Pack** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 1,380 kg | `828adc603c38…` | [`llm_weapon_beam_naginata.glb`](models/parts/llm_weapon_beam_naginata.glb) |
 | `GXM-LLM-GAT-17` | **Twin-Gatling Shield Aux-Unit HP-07** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 3,950 kg | `f5ab27d10541…` | [`llm_shield_twin_gatling.glb`](models/parts/llm_shield_twin_gatling.glb) |
+| `GXM-LLM-RLC-18` | **HP-03A Shoulder Rail Cannon Mk.II** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 3,900 kg | `671fe3b09f66…` | [`llm_shoulder_rail_cannons.glb`](models/parts/llm_shoulder_rail_cannons.glb) |
