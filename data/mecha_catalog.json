@@ -2,7 +2,7 @@
   "version": "2.0.0",
   "asset_repository": "https://github.com/myonathanlinkedin/mecha-assets",
   "asset_cdn_base_url": "https://raw.githubusercontent.com/myonathanlinkedin/mecha-assets/main",
-  "last_synced": "2026-11-21T22:27:22.279125+00:00",
+  "last_synced": "2026-11-21T22:31:56.877434+00:00",
   "baselines": [
     {
       "id": "baseline_gundam_frame_v1",
@@ -761,19 +761,19 @@
         "format": "binary_gltf_glb",
         "asset_reference": {
           "relative_url": "models/parts/propulsion_vernier_wing_pod.glb",
-          "sha256_hash": "aeac9fff37871c8ad96758c8d0a87d29d8c8152781147fa4f300db2932e8e253",
-          "file_size_bytes": 348324,
+          "sha256_hash": "e4c32eef624e62e95fcc970c1ab8e3342bd56327402db84f600389898e7d3ab0",
+          "file_size_bytes": 348308,
           "compression": "meshopt"
         },
         "bounding_box_aabb_mm": {
           "min": [
-            -46.18869082180539,
-            -13.142373233232565,
-            -27.18892122728392
+            -47.847174021950444,
+            -13.696298997235576,
+            -30.00756423369701
           ],
           "max": [
-            46.18869082180539,
-            41.8371579844416,
+            47.847174021950444,
+            41.6227604734447,
             8.0
           ]
         }
@@ -925,20 +925,20 @@
         "format": "binary_gltf_glb",
         "asset_reference": {
           "relative_url": "models/parts/chest_chobham_reactive_armor.glb",
-          "sha256_hash": "7e38ffb2d60717edc8f3bb968e95b287c375f6ff3c7b5d02d91e8e9f2b0ce475",
-          "file_size_bytes": 247164,
+          "sha256_hash": "ef658915350baf501b2d0e7ee615d1fa02bd6e33ec8b67082748bc1007b44ad9",
+          "file_size_bytes": 247156,
           "compression": "meshopt"
         },
         "bounding_box_aabb_mm": {
           "min": [
-            -19.131248498066277,
+            -18.96755224035782,
             -7.0,
-            -0.7579024907162868
+            -0.3317540247056203
           ],
           "max": [
-            19.131248498066277,
+            18.96755224035782,
             9.84490497432337,
-            8.465930349023784
+            8.801156416890702
           ]
         }
       },
