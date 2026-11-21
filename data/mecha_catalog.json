@@ -2,7 +2,7 @@
   "version": "2.0.0",
   "asset_repository": "https://github.com/myonathanlinkedin/mecha-assets",
   "asset_cdn_base_url": "https://raw.githubusercontent.com/myonathanlinkedin/mecha-assets/main",
-  "last_synced": "2026-11-21T22:39:51.078184+00:00",
+  "last_synced": "2026-11-21T22:44:52.486703+00:00",
   "baselines": [
     {
       "id": "baseline_gundam_frame_v1",
@@ -761,20 +761,20 @@
         "format": "binary_gltf_glb",
         "asset_reference": {
           "relative_url": "models/parts/propulsion_vernier_wing_pod.glb",
-          "sha256_hash": "e7f98d864d964dac0fc1a62e6dcab67bf30d9fa72cb85d14a6dae3ae893cc1a3",
-          "file_size_bytes": 348316,
+          "sha256_hash": "915375915fb8a8a7aa1cc9efdc6c89149be8591934f83a8678e178e12f9f0351",
+          "file_size_bytes": 348320,
           "compression": "meshopt"
         },
         "bounding_box_aabb_mm": {
           "min": [
-            -49.69529952972676,
-            -11.55,
-            -30.00756423369701
+            -48.074054536158584,
+            -13.676801342151492,
+            -18.76609608100459
           ],
           "max": [
-            49.69529952972676,
-            40.60696206846714,
-            8.0
+            48.074054536158584,
+            41.655424201324095,
+            8.974079027902098
           ]
         }
       },
