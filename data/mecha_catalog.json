@@ -2,7 +2,7 @@
   "version": "2.0.0",
   "asset_repository": "https://github.com/myonathanlinkedin/mecha-assets",
   "asset_cdn_base_url": "https://raw.githubusercontent.com/myonathanlinkedin/mecha-assets/main",
-  "last_synced": "2026-11-21T23:23:53.745868+00:00",
+  "last_synced": "2026-11-21T23:31:38.124964+00:00",
   "baselines": [
     {
       "id": "baseline_gundam_frame_v1",
@@ -1491,20 +1491,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -24.292,
-            -67.566,
-            -18.984
+            -5.68,
+            -44.677,
+            -42.96
           ],
           "max": [
-            32.692,
-            68.566,
-            27.984
+            8.134,
+            52.791,
+            57.376
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_weapon_beam_naginata.glb",
-          "sha256_hash": "1b7dea4732bb68e10b456378626c54273fd97f9d70ac4e25ea6c6e0e7df1a332",
-          "file_size_bytes": 43352,
+          "sha256_hash": "11278a83697761a7bb347b6095a21547c9814ee9459b9f9fa7ba7c1a74fb169e",
+          "file_size_bytes": 67064,
           "compression": "meshopt"
         }
       },

@@ -2,7 +2,7 @@
 
 > **Autonomous 3D Gundam-Like Mecha CAD Asset Store & 8-Zone Modular Manifest**  
 > **Live 3D WebGL Engineering Hangar:** [https://myonathanlinkedin.github.io/mecha.html](https://myonathanlinkedin.github.io/mecha.html)  
-> **Last Synchronized:** `2026-11-21 23:24 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `18`
+> **Last Synchronized:** `2026-11-21 23:31 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `18`
 
 ---
 
@@ -39,6 +39,6 @@ mecha-assets/
 | `GXM-PRV-CLFP-13` | **FA-78 Dual Calf Missile & Supersonic Booster Pods (L+R)** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 3,650 kg | `098b63a20470…` | [`leg_calf_vernier_missile_pods.glb`](models/parts/leg_calf_vernier_missile_pods.glb) |
 | `GXM-WPN-BSBR-14` | **RX-78 Iconic High-Output Beam Saber (Laser Sword)** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 680 kg | `188131afa157…` | [`weapon_beam_saber_rx.glb`](models/parts/weapon_beam_saber_rx.glb) |
 | `GXM-LLM-BAZ-15` | **Hyper Bazooka Mk.II Auxiliary Hyper-Launcher** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 3,450 kg | `f2a3961d5201…` | [`llm_weapon_hyper_bazooka.glb`](models/parts/llm_weapon_hyper_bazooka.glb) |
-| `GXM-LLM-NAG-16` | **RX-78 Beam Naginata Auxiliary Weapon Pack** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 1,380 kg | `1b7dea4732bb…` | [`llm_weapon_beam_naginata.glb`](models/parts/llm_weapon_beam_naginata.glb) |
+| `GXM-LLM-NAG-16` | **RX-78 Beam Naginata Auxiliary Weapon Pack** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 1,380 kg | `11278a836977…` | [`llm_weapon_beam_naginata.glb`](models/parts/llm_weapon_beam_naginata.glb) |
 | `GXM-LLM-GAT-17` | **Twin-Gatling Shield Aux-Unit HP-07** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 3,950 kg | `5691ce52e87a…` | [`llm_shield_twin_gatling.glb`](models/parts/llm_shield_twin_gatling.glb) |
 | `GXM-LLM-RLC-18` | **HP-03A Shoulder Rail Cannon Mk.II** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 3,900 kg | `c8ee858e007b…` | [`llm_shoulder_rail_cannons.glb`](models/parts/llm_shoulder_rail_cannons.glb) |
