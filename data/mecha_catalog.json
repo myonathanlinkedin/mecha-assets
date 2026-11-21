@@ -2,7 +2,7 @@
   "version": "2.0.0",
   "asset_repository": "https://github.com/myonathanlinkedin/mecha-assets",
   "asset_cdn_base_url": "https://raw.githubusercontent.com/myonathanlinkedin/mecha-assets/main",
-  "last_synced": "2026-11-21T23:19:41.564146+00:00",
+  "last_synced": "2026-11-21T23:20:37.140196+00:00",
   "baselines": [
     {
       "id": "baseline_gundam_frame_v1",
@@ -1516,6 +1516,132 @@
       "telemetry_and_lore": {
         "operational_role": "Provides long-reach high-energy beam melee capability for precision strikes against armored targets while maintaining modular compatibility with existing auxiliary slots.",
         "reactor_power_draw_kw": 1220,
+        "vernier_thrust_kgf": 0
+      }
+    },
+    {
+      "part_id": "llm_shield_twin_gatling",
+      "blueprint_family": "twin_gatling_shield",
+      "serial_number": "GXM-LLM-GAT-17",
+      "name": "Twin-Gatling Shield Aux-Unit HP-07",
+      "category": "armor",
+      "primary_hardpoint": "HP-07",
+      "slot_group": "aux_shield",
+      "adapter_id": "ADP-HP07-FOREARM",
+      "entropy_seed": "85f1bebc37c37af475b8507a0af64c3bfb10dfd9e660f491c2f0f88643786693",
+      "synthesis_origin": "llm_cad_architect",
+      "llm_design_source": "groq_llm_cad_architect",
+      "llm_blueprint_params": {
+        "shield_height_mm": 49.0,
+        "barrel_length_mm": 29.0,
+        "mass_kg": 3950.0,
+        "reactor_draw_kw": 410.0
+      },
+      "agentic_checklist_report": {
+        "status": "ALL_CHECKS_PASSED",
+        "llm_plan": [
+          "Verify twin gatling barrel alignment within ±0.2 mm tolerance.",
+          "Confirm shield height meets 44‑54 mm envelope and does not impede joint articulation.",
+          "Run mass distribution analysis to keep total mass under 4400 kg and balance forearm load.",
+          "Test reactor draw at 410 kW for thermal stability under continuous fire.",
+          "Perform electromagnetic interference sweep with adjacent electronic packs."
+        ],
+        "verified_gates": [
+          {
+            "id": "CHK-01",
+            "check": "Watertight multi-mesh geometry compiled",
+            "passed": true,
+            "detail": "9 sub-meshes, 1752 triangles"
+          },
+          {
+            "id": "CHK-02",
+            "check": "GLB size within mobile budget (<= 480 KB)",
+            "passed": true,
+            "detail": "151,936 bytes"
+          },
+          {
+            "id": "CHK-03",
+            "check": "Zone 'aux_shield' anti-sinking & orientation clearance",
+            "passed": true,
+            "detail": "Forearm outward -X clearance max_x=-1.7mm, min_x=-16.7mm"
+          },
+          {
+            "id": "CHK-04",
+            "check": "Zero NaN/Inf numerical geometry corruption",
+            "passed": true,
+            "detail": "AABB min=[-16.7, -26.9, -15.0] max=[-1.7, 34.0, 18.4]"
+          },
+          {
+            "id": "CHK-05",
+            "check": "Parametric dimensions strictly inside ISO engineering bounds",
+            "passed": true,
+            "detail": "source=groq_llm_cad_architect, params={'shield_height_mm': 49.0, 'barrel_length_mm': 29.0, 'mass_kg': 3950.0, 'reactor_draw_kw': 410.0}"
+          }
+        ]
+      },
+      "faction_compatibility": "universal_gundam_universe",
+      "compatible_hardpoints": [
+        "HP-07",
+        "HP-08"
+      ],
+      "structural_specs": {
+        "mass_kg": 3950,
+        "bom_computed_mass_kg": 3950,
+        "primary_material": "gundarium_alloy_gamma",
+        "center_of_mass": [
+          0.0,
+          48.0,
+          -18.0
+        ]
+      },
+      "hardpoints": [
+        {
+          "id": "HP-07",
+          "type": "uhis_trapezoidal_dovetail",
+          "position_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "orientation_euler_deg": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "clearance_mm": 0.15
+        }
+      ],
+      "cad_mesh_definition": {
+        "format": "binary_gltf_glb",
+        "scale_ratio": "1:100",
+        "units": "millimeters",
+        "bounding_box_aabb_mm": {
+          "min": [
+            -16.72,
+            -26.894,
+            -15.001
+          ],
+          "max": [
+            -1.7,
+            34.036,
+            18.445
+          ]
+        },
+        "asset_reference": {
+          "relative_url": "models/parts/llm_shield_twin_gatling.glb",
+          "sha256_hash": "f5ab27d10541a3d25ea76ba4e7a4f7d6d2c457729f68982dc8d7a6edcca4762a",
+          "file_size_bytes": 151936,
+          "compression": "meshopt"
+        }
+      },
+      "pbr_material": {
+        "color_hex": "#1a2530",
+        "roughness": 0.35,
+        "metalness": 0.85
+      },
+      "telemetry_and_lore": {
+        "operational_role": "Provides rapid-fire twin gatling defense while augmenting forearm shield integrity for close-range interception.",
+        "reactor_power_draw_kw": 410,
         "vernier_thrust_kgf": 0
       }
     }
