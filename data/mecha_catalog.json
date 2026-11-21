@@ -2,15 +2,15 @@
   "version": "2.0.0",
   "asset_repository": "https://github.com/myonathanlinkedin/mecha-assets",
   "asset_cdn_base_url": "https://raw.githubusercontent.com/myonathanlinkedin/mecha-assets/main",
-  "last_synced": "2026-11-21T22:31:56.877434+00:00",
+  "last_synced": "2026-11-21T22:39:51.078184+00:00",
   "baselines": [
     {
       "id": "baseline_gundam_frame_v1",
       "faction": "hero_federation",
       "name": "RX-Type Advanced Movable Frame",
       "mesh_url": "models/baselines/baseline_gundam_frame_v1.glb",
-      "sha256_hash": "42e119f9e82b86eaab868b05dc4a53d8453787ec3d65b8d64c7b5b69d692497c",
-      "file_size_bytes": 2332796,
+      "sha256_hash": "c34640c1dbd986749c37c10bd85541a63f268b4a37250a92cef070eab9249448",
+      "file_size_bytes": 2332744,
       "base_mass_kg": 24500,
       "bom_computed_mass_kg": 28758,
       "effective_k2_m2": 1.7462,
@@ -761,19 +761,19 @@
         "format": "binary_gltf_glb",
         "asset_reference": {
           "relative_url": "models/parts/propulsion_vernier_wing_pod.glb",
-          "sha256_hash": "e4c32eef624e62e95fcc970c1ab8e3342bd56327402db84f600389898e7d3ab0",
-          "file_size_bytes": 348308,
+          "sha256_hash": "e7f98d864d964dac0fc1a62e6dcab67bf30d9fa72cb85d14a6dae3ae893cc1a3",
+          "file_size_bytes": 348316,
           "compression": "meshopt"
         },
         "bounding_box_aabb_mm": {
           "min": [
-            -47.847174021950444,
-            -13.696298997235576,
+            -49.69529952972676,
+            -11.55,
             -30.00756423369701
           ],
           "max": [
-            47.847174021950444,
-            41.6227604734447,
+            49.69529952972676,
+            40.60696206846714,
             8.0
           ]
         }
