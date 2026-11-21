@@ -2,7 +2,7 @@
 
 > **Autonomous 3D Gundam-Like Mecha CAD Asset Store & 8-Zone Modular Manifest**  
 > **Live 3D WebGL Engineering Hangar:** [https://myonathanlinkedin.github.io/mecha.html](https://myonathanlinkedin.github.io/mecha.html)  
-> **Last Synchronized:** `2026-11-21 23:35 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `22`
+> **Last Synchronized:** `2026-11-21 23:36 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `23`
 
 ---
 
@@ -20,7 +20,7 @@ mecha-assets/
 
 ---
 
-## 🦾 8-Zone Full-Body Modular Parts Catalog (22 Non-Duplicate Assets)
+## 🦾 8-Zone Full-Body Modular Parts Catalog (23 Non-Duplicate Assets)
 
 | Serial | Part Name | Body Zone (`UHIS`) | Physical Adapter | Mass | SHA-256 | Binary GLB |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
@@ -46,3 +46,4 @@ mecha-assets/
 | `GXM-LLM-CMD-21` | **Commander Twin Blade Crest - Head Sensor Module** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 640 kg | `2792089bfd9d…` | [`llm_head_commander_crest.glb`](models/parts/llm_head_commander_crest.glb) |
 | `GXM-LLM-PLS-21` | **RX-78-9 Reactive Collar Plastron Mk.II** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 3,400 kg | `34d22b677ad0…` | [`llm_chest_reactive_plastron.glb`](models/parts/llm_chest_reactive_plastron.glb) |
 | `GXM-LLM-WST-23` | **RX-78-3 Waist Plasma Rail Skirt Mk.II** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 2,550 kg | `29003218a979…` | [`llm_waist_plasma_skirts.glb`](models/parts/llm_waist_plasma_skirts.glb) |
+| `GXM-LLM-FNL-23` | **HP-00 Dorsal Heavy Funnel Container Mk.II** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 4,850 kg | `6d7deb94efe3…` | [`llm_dorsal_funnel_containers.glb`](models/parts/llm_dorsal_funnel_containers.glb) |
