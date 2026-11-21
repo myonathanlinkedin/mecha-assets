@@ -2,18 +2,18 @@
   "version": "2.0.0",
   "asset_repository": "https://github.com/myonathanlinkedin/mecha-assets",
   "asset_cdn_base_url": "https://raw.githubusercontent.com/myonathanlinkedin/mecha-assets/main",
-  "last_synced": "2026-11-21T16:32:38.489285+00:00",
+  "last_synced": "2026-11-21T16:55:32.871715+00:00",
   "baselines": [
     {
       "id": "baseline_gundam_frame_v1",
       "faction": "hero_federation",
       "name": "RX-Type Advanced Movable Frame",
       "mesh_url": "models/baselines/baseline_gundam_frame_v1.glb",
-      "sha256_hash": "8839b8e63f2fc489f0d3afcaa1de18db7651c9bd2e5c3252048fda4f54d9227e",
-      "file_size_bytes": 3659308,
+      "sha256_hash": "2dec53ddc31a1d04346e3bd77cfd0d4e96dca8fee40f9c6639bfee72d5652b32",
+      "file_size_bytes": 2036472,
       "base_mass_kg": 24500,
       "base_reactor_kw": 3450,
-      "subsystem_count": 95,
+      "subsystem_count": 122,
       "hardpoints": [
         "HP-00",
         "HP-01",
@@ -49,8 +49,8 @@
       "faction": "antagonist_zeon_heavy",
       "name": "MS-Type Heavy Industrial Movable Frame",
       "mesh_url": "models/baselines/baseline_rival_heavy_frame_v1.glb",
-      "sha256_hash": "ce9210b0da8dae6828b914cf9cefb945f1210bb332f48680460d746f5efaaf3c",
-      "file_size_bytes": 1400708,
+      "sha256_hash": "6cd632867c755d5616b75dd76dd901a9e1958b7a991a8d6d4dc276be9c740505",
+      "file_size_bytes": 588536,
       "base_mass_kg": 31200,
       "base_reactor_kw": 4200,
       "subsystem_count": 47,
@@ -147,8 +147,8 @@
         "format": "binary_gltf_glb",
         "asset_reference": {
           "relative_url": "models/parts/mission_pack_type_a_aero.glb",
-          "sha256_hash": "5b893de5a0196ef6a09c77d8cae6539a4933d4ceef4da7a940cdb05e089d947d",
-          "file_size_bytes": 251176,
+          "sha256_hash": "31ae5346e371c57ef59d7ec2e51487d4369f407da0303cbeeb6514a89d2f2d2e",
+          "file_size_bytes": 114868,
           "compression": "meshopt"
         },
         "bounding_box_aabb_mm": {
@@ -258,19 +258,19 @@
         "format": "binary_gltf_glb",
         "asset_reference": {
           "relative_url": "models/parts/mission_pack_type_s_space.glb",
-          "sha256_hash": "be1d2043efc40ead41b488d7de5f28c597773d54db2d0b92ee17144df2ac7c59",
-          "file_size_bytes": 224072,
+          "sha256_hash": "3a45b620ed63204a6c6dfe5d4524b3aaf244f583f1c70635f28cbdacb461575b",
+          "file_size_bytes": 96732,
           "compression": "meshopt"
         },
         "bounding_box_aabb_mm": {
           "min": [
-            -31.20722471273374,
+            -31.442405227368354,
             -40.85408979621438,
             -34.372349350912515
           ],
           "max": [
-            31.20722471273374,
-            23.360878608309953,
+            31.442405227368354,
+            23.608679718217072,
             8.0
           ]
         }
@@ -347,19 +347,19 @@
         "format": "binary_gltf_glb",
         "asset_reference": {
           "relative_url": "models/parts/mission_pack_type_h_artillery.glb",
-          "sha256_hash": "2463e50e4a67cb1c63d5aecbdfce9d42634d9453e292f7bb674b6bf4cc4144cd",
-          "file_size_bytes": 478152,
+          "sha256_hash": "eb9627f5aa856c432f5ece25612d3f701e20434a077a858a3c6dc841bc797404",
+          "file_size_bytes": 181072,
           "compression": "meshopt"
         },
         "bounding_box_aabb_mm": {
           "min": [
             -31.0,
-            -21.25,
+            -21.05,
             -20.0
           ],
           "max": [
             31.0,
-            33.44,
+            33.2675,
             64.0
           ]
         }
@@ -436,8 +436,8 @@
         "format": "binary_gltf_glb",
         "asset_reference": {
           "relative_url": "models/parts/mission_pack_type_e_recon.glb",
-          "sha256_hash": "69d88a493f720cbf38cc7e9768c6eaebeb73fdafe67ed18fd5f13cc760786178",
-          "file_size_bytes": 91688,
+          "sha256_hash": "86a093f5b530bfdd02dfe5e2c76454736813b54dfceaa49bd0dde6b7ce30ef68",
+          "file_size_bytes": 45988,
           "compression": "meshopt"
         },
         "bounding_box_aabb_mm": {
@@ -514,8 +514,8 @@
         "format": "binary_gltf_glb",
         "asset_reference": {
           "relative_url": "models/parts/mission_pack_type_c_cqc.glb",
-          "sha256_hash": "abac31d1df1dfe8cbf9bdf9da4ef4521c7a3dcaeda6ce357d0ab1e73555e3e07",
-          "file_size_bytes": 87300,
+          "sha256_hash": "8e7a066027e55a56281a34144bb0939847c77ecd0a5b9459ebeefd829415f382",
+          "file_size_bytes": 42412,
           "compression": "meshopt"
         },
         "bounding_box_aabb_mm": {
@@ -581,8 +581,8 @@
         "format": "binary_gltf_glb",
         "asset_reference": {
           "relative_url": "models/parts/weapon_beam_rifle_rx.glb",
-          "sha256_hash": "4b9af7e737bfca1b06ee420c22ae99faf87b594992d997a5b4dd7dde77bab431",
-          "file_size_bytes": 153808,
+          "sha256_hash": "f0fcd96621387a17651edd578c683c29e4aa2ad968f173a7a805d898a462ccdd",
+          "file_size_bytes": 67268,
           "compression": "meshopt"
         },
         "bounding_box_aabb_mm": {
@@ -648,8 +648,8 @@
         "format": "binary_gltf_glb",
         "asset_reference": {
           "relative_url": "models/parts/armor_tower_shield_fed.glb",
-          "sha256_hash": "b2776e84833174441c09c49e320dcef573fe98ca082159c8b2e90f877f53452f",
-          "file_size_bytes": 220540,
+          "sha256_hash": "1ff0c36454047f82c58f77d06064bdb39d16f873acbe793c956b9f7509205097",
+          "file_size_bytes": 88336,
           "compression": "meshopt"
         },
         "bounding_box_aabb_mm": {
@@ -726,19 +726,19 @@
         "format": "binary_gltf_glb",
         "asset_reference": {
           "relative_url": "models/parts/propulsion_vernier_wing_pod.glb",
-          "sha256_hash": "fdfc2b5dc08f5f0bbfb4f6500fa95b8662c08f4dd1db2247ea2b46e7a28d53bd",
-          "file_size_bytes": 626756,
+          "sha256_hash": "61a8d8b2ed2b0c5bdebc55ef1928bc406693c85b2f5ed403e05f5360040d69c7",
+          "file_size_bytes": 244788,
           "compression": "meshopt"
         },
         "bounding_box_aabb_mm": {
           "min": [
-            -46.00939725594456,
+            -46.18869082180539,
             -13.142373233232565,
-            -26.205791705377663
+            -26.54117284256713
           ],
           "max": [
-            46.00939725594455,
-            41.75292123390417,
+            46.18869082180539,
+            41.8371579844416,
             8.0
           ]
         }
@@ -804,20 +804,20 @@
         "format": "binary_gltf_glb",
         "asset_reference": {
           "relative_url": "models/parts/head_vulcan_crest_pod.glb",
-          "sha256_hash": "9aeb31e943e85b94720732e115559809fd02c267000672756294d292906dac6c",
-          "file_size_bytes": 415400,
+          "sha256_hash": "f2b421741ae7b12d52b40ffcbdfb2530d06d766f3235cc94fa6d0f124be68745",
+          "file_size_bytes": 135440,
           "compression": "meshopt"
         },
         "bounding_box_aabb_mm": {
           "min": [
-            -14.799999999999999,
+            -13.0,
             -7.0,
-            -15.0
+            -17.5
           ],
           "max": [
-            14.799999999999999,
-            20.0,
-            11.7
+            13.0,
+            24.3,
+            10.4
           ]
         }
       },
@@ -882,19 +882,19 @@
         "format": "binary_gltf_glb",
         "asset_reference": {
           "relative_url": "models/parts/chest_chobham_reactive_armor.glb",
-          "sha256_hash": "10b078da23cadb07308e758fc582116b67b4f7ef50d08607a3cdb32e143485c8",
-          "file_size_bytes": 323648,
+          "sha256_hash": "ca06dbc333a8bebb841d2053df2a1ddeaa87e69e900f71c694ad61fbefedda8f",
+          "file_size_bytes": 153608,
           "compression": "meshopt"
         },
         "bounding_box_aabb_mm": {
           "min": [
-            -21.0,
-            -7.75,
-            -8.1
+            -19.79499664155091,
+            -7.0,
+            -5.2874858935072355
           ],
           "max": [
-            21.0,
-            10.75,
+            19.79499664155091,
+            8.388437784981589,
             8.0
           ]
         }
@@ -960,8 +960,8 @@
         "format": "binary_gltf_glb",
         "asset_reference": {
           "relative_url": "models/parts/shoulder_missile_pauldron_pods.glb",
-          "sha256_hash": "87823c6f821b6d187ba1fa3c773c2a681665262e7f6db20b7be70f491ceadca8",
-          "file_size_bytes": 314028,
+          "sha256_hash": "d33250c2240dc9b8e981b3c6b25e8e29f628b6b3a299afa02c25e93153b19fed",
+          "file_size_bytes": 144256,
           "compression": "meshopt"
         },
         "bounding_box_aabb_mm": {
@@ -972,7 +972,7 @@
           ],
           "max": [
             54.11342954302841,
-            12.310653390094076,
+            12.163233664580007,
             11.6
           ]
         }
@@ -1038,18 +1038,18 @@
         "format": "binary_gltf_glb",
         "asset_reference": {
           "relative_url": "models/parts/waist_xiphias_hip_railguns.glb",
-          "sha256_hash": "605dd67fb520b95795a0932c77a0a36d4de37e8af8a2bc0438c8d74c0b59c232",
-          "file_size_bytes": 663496,
+          "sha256_hash": "99c01516cdd966757f71bae2048bc21c738acc201045efe30fb68f68b483a66f",
+          "file_size_bytes": 239104,
           "compression": "meshopt"
         },
         "bounding_box_aabb_mm": {
           "min": [
-            -32.27358727983028,
-            -18.742787777554224,
+            -32.39857895023643,
+            -18.776794304023802,
             -11.804190244872782
           ],
           "max": [
-            32.27358727983028,
+            32.39857895023643,
             7.0,
             39.82390285838273
           ]
@@ -1116,8 +1116,8 @@
         "format": "binary_gltf_glb",
         "asset_reference": {
           "relative_url": "models/parts/leg_calf_vernier_missile_pods.glb",
-          "sha256_hash": "4e65d7f256afec3fb26dcfb31949f456d2cb15ca9bf69f08764afe2a2eef909d",
-          "file_size_bytes": 290672,
+          "sha256_hash": "37cd1b732337c69838c494a6b10d3068f8dd3be3cdb2f6c5ca4adf2ebb6506bf",
+          "file_size_bytes": 120896,
           "compression": "meshopt"
         },
         "bounding_box_aabb_mm": {
@@ -1128,7 +1128,7 @@
           ],
           "max": [
             35.33896190476568,
-            15.188204174768265,
+            15.035839897851538,
             8.7
           ]
         }
