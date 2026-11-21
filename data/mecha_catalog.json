@@ -2,7 +2,7 @@
   "version": "2.0.0",
   "asset_repository": "https://github.com/myonathanlinkedin/mecha-assets",
   "asset_cdn_base_url": "https://raw.githubusercontent.com/myonathanlinkedin/mecha-assets/main",
-  "last_synced": "2026-11-21T21:38:44.639812+00:00",
+  "last_synced": "2026-11-21T21:45:20.521142+00:00",
   "baselines": [
     {
       "id": "baseline_gundam_frame_v1",
@@ -1197,6 +1197,77 @@
         "operational_role": "Bilateral lower-limb calf missile bays and dual angled supersonic vernier booster nozzles.",
         "reactor_power_draw_kw": 410,
         "vernier_thrust_kgf": 74000
+      }
+    },
+    {
+      "part_id": "weapon_beam_saber_rx",
+      "serial_number": "GXM-WPN-BSBR-14",
+      "name": "RX-78 Iconic High-Output Beam Saber (Laser Sword)",
+      "category": "weapon",
+      "primary_hardpoint": "HP-11",
+      "slot_group": "aux_weapon",
+      "adapter_id": "ADP-HP11-WEAPON",
+      "entropy_seed": "4e979d5a0f973158773726fa8a04ebcaa764518ccf2a324251ee5547cd6d0246",
+      "synthesis_origin": "agentic_core_archetype",
+      "faction_compatibility": "universal_gundam_universe",
+      "compatible_hardpoints": [
+        "HP-11"
+      ],
+      "structural_specs": {
+        "mass_kg": 680,
+        "bom_computed_mass_kg": 1953,
+        "effective_k2_m2": 0.0417,
+        "tolerance_stackup_mm": 0.1,
+        "bom_item_count": 2,
+        "primary_material": "gundarium_alloy_gamma",
+        "center_of_mass": [
+          0.0,
+          48.0,
+          -22.0
+        ]
+      },
+      "hardpoints": [
+        {
+          "station_id": "HP-11",
+          "gender": "female_chassis_socket",
+          "relative_position": [
+            -38.0,
+            24.0,
+            4.0
+          ],
+          "clearance_tolerance_mm": 0.2
+        }
+      ],
+      "cad_mesh_definition": {
+        "format": "binary_gltf_glb",
+        "asset_reference": {
+          "relative_url": "models/parts/weapon_beam_saber_rx.glb",
+          "sha256_hash": "c0176f7ac855afdc167c6e662663430a2538ad2a54d06e7ca03290924da84ece",
+          "file_size_bytes": 55284,
+          "compression": "meshopt"
+        },
+        "bounding_box_aabb_mm": {
+          "min": [
+            -12.0,
+            -7.0,
+            -9.7
+          ],
+          "max": [
+            12.0,
+            7.0,
+            80.9
+          ]
+        }
+      },
+      "pbr_material": {
+        "color_hex": "#1a2530",
+        "roughness": 0.35,
+        "metalness": 0.85
+      },
+      "telemetry_and_lore": {
+        "operational_role": "Iconic Federation plasma laser sword with white cylindrical hilt and blazing magenta-pink I-field beam blade.",
+        "reactor_power_draw_kw": 380,
+        "vernier_thrust_kgf": 0
       }
     }
   ]

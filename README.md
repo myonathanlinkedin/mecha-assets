@@ -2,7 +2,7 @@
 
 > **Autonomous 3D Gundam-Like Mecha CAD Asset Store & 8-Zone Modular Manifest**  
 > **Live 3D WebGL Engineering Hangar:** [https://myonathanlinkedin.github.io/mecha.html](https://myonathanlinkedin.github.io/mecha.html)  
-> **Last Synchronized:** `2026-11-21 21:38 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `13`
+> **Last Synchronized:** `2026-11-21 21:45 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `14`
 
 ---
 
@@ -20,7 +20,7 @@ mecha-assets/
 
 ---
 
-## 🦾 8-Zone Full-Body Modular Parts Catalog (13 Non-Duplicate Assets)
+## 🦾 8-Zone Full-Body Modular Parts Catalog (14 Non-Duplicate Assets)
 
 | Serial | Part Name | Body Zone (`UHIS`) | Physical Adapter | Mass | SHA-256 | Binary GLB |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
@@ -37,3 +37,4 @@ mecha-assets/
 | `GXM-WPN-SHPD-11` | **Twin 6-Tube Micro-Missile & Vernier Shoulder Pods (L+R)** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 3,350 kg | `479a2ebb10a6…` | [`shoulder_missile_pauldron_pods.glb`](models/parts/shoulder_missile_pauldron_pods.glb) |
 | `GXM-ARM-WSB-12` | **FA-78 Side-Skirt Armored Thruster Binders & E-Pac Racks (L+R)** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 2,400 kg | `b94e9c5294d7…` | [`waist_xiphias_hip_railguns.glb`](models/parts/waist_xiphias_hip_railguns.glb) |
 | `GXM-PRV-CLFP-13` | **FA-78 Dual Calf Missile & Supersonic Booster Pods (L+R)** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 3,650 kg | `098b63a20470…` | [`leg_calf_vernier_missile_pods.glb`](models/parts/leg_calf_vernier_missile_pods.glb) |
+| `GXM-WPN-BSBR-14` | **RX-78 Iconic High-Output Beam Saber (Laser Sword)** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 680 kg | `c0176f7ac855…` | [`weapon_beam_saber_rx.glb`](models/parts/weapon_beam_saber_rx.glb) |
