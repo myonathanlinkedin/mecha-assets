@@ -2,7 +2,7 @@
 
 > **Autonomous 3D Gundam-Like Mecha CAD Asset Store & 8-Zone Modular Manifest**  
 > **Live 3D WebGL Engineering Hangar:** [https://myonathanlinkedin.github.io/mecha.html](https://myonathanlinkedin.github.io/mecha.html)  
-> **Last Synchronized:** `2026-11-21 21:20 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `25`
+> **Last Synchronized:** `2026-11-21 21:27 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `28`
 
 ---
 
@@ -20,7 +20,7 @@ mecha-assets/
 
 ---
 
-## 🦾 8-Zone Full-Body Modular Parts Catalog (25 Non-Duplicate Assets)
+## 🦾 8-Zone Full-Body Modular Parts Catalog (28 Non-Duplicate Assets)
 
 | Serial | Part Name | Body Zone (`UHIS`) | Physical Adapter | Mass | SHA-256 | Binary GLB |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
@@ -33,12 +33,12 @@ mecha-assets/
 | `GXM-ARM-SHLD-07` | **Gundarium Hexagonal Federation Composite Shield** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 2,150 kg | `69d1b7479814…` | [`armor_tower_shield_fed.glb`](models/parts/armor_tower_shield_fed.glb) |
 | `GXM-PRV-FINB-08` | **Twin Wing-Binder Psycho-Fin Vernier Array** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 4,950 kg | `0277c14d63b8…` | [`propulsion_vernier_wing_pod.glb`](models/parts/propulsion_vernier_wing_pod.glb) |
 | `GXM-HED-CIWS-09` | **60mm Cranial Vulcan Pod & Psycho-Sensor Crest** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 680 kg | `ee3780e0a076…` | [`head_vulcan_crest_pod.glb`](models/parts/head_vulcan_crest_pod.glb) |
-| `GXM-ARM-CHOB-10` | **FA-78 Chobham Reactive Breastplate & Callidus Emitter** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 3,150 kg | `a951a80e324d…` | [`chest_chobham_reactive_armor.glb`](models/parts/chest_chobham_reactive_armor.glb) |
-| `GXM-WPN-SHPD-11` | **Twin 6-Tube Micro-Missile & Vernier Shoulder Pods (L+R)** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 3,350 kg | `974e21210cb5…` | [`shoulder_missile_pauldron_pods.glb`](models/parts/shoulder_missile_pauldron_pods.glb) |
+| `GXM-ARM-CHOB-10` | **FA-78 Chobham Reactive Breastplate & Callidus Emitter** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 3,150 kg | `7e38ffb2d607…` | [`chest_chobham_reactive_armor.glb`](models/parts/chest_chobham_reactive_armor.glb) |
+| `GXM-WPN-SHPD-11` | **Twin 6-Tube Micro-Missile & Vernier Shoulder Pods (L+R)** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 3,350 kg | `479a2ebb10a6…` | [`shoulder_missile_pauldron_pods.glb`](models/parts/shoulder_missile_pauldron_pods.glb) |
 | `GXM-WPN-XIPH-12` | **Xiphias-3 Folding Hip Electromagnetic Railguns (L+R)** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 2,850 kg | `72df5a5a907c…` | [`waist_xiphias_hip_railguns.glb`](models/parts/waist_xiphias_hip_railguns.glb) |
 | `GXM-PRV-CLFP-13` | **FA-78 Dual Calf Missile & Supersonic Booster Pods (L+R)** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 3,650 kg | `098b63a20470…` | [`leg_calf_vernier_missile_pods.glb`](models/parts/leg_calf_vernier_missile_pods.glb) |
 | `GXM-AGH-F182` | **HD-F182 Cranial 65mm CIWS Vulcan & High-Gain Sensor Crest** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 884 kg | `09dfd68219d4…` | [`agentic_head_crest_f18218.glb`](models/parts/agentic_head_crest_f18218.glb) |
-| `GXM-AGS-337E` | **SH-337E Twin 6-Tube Micro-Missile & Vernier Shoulder Pods (L+R)** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 3,270 kg | `ecece8d91a40…` | [`agentic_shoulder_pods_337ee5.glb`](models/parts/agentic_shoulder_pods_337ee5.glb) |
+| `GXM-AGS-337E` | **SH-337E Twin 6-Tube Micro-Missile & Vernier Shoulder Pods (L+R)** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 3,270 kg | `1a1dc23efe8f…` | [`agentic_shoulder_pods_337ee5.glb`](models/parts/agentic_shoulder_pods_337ee5.glb) |
 | `GXM-AGD-AA6B` | **SD-AA6B Anti-Beam Gundarium Hexagonal Tower Shield** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 2,483 kg | `24c80a072edd…` | [`agentic_shield_aa6bbe.glb`](models/parts/agentic_shield_aa6bbe.glb) |
 | `GXM-AGB-F980` | **BR-F980 High-Output 5.5MW Long-Barrel Mega Beam Rifle** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 1,311 kg | `5b8135643ba3…` | [`agentic_beam_rifle_f980bc.glb`](models/parts/agentic_beam_rifle_f980bc.glb) |
 | `GXM-AGR-796A` | **WS-796A Xiphias Mach-8.4 Folding Hip Electromagnetic Railguns (L+R)** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 2,991 kg | `8df9c68bc09a…` | [`agentic_waist_railguns_796afa.glb`](models/parts/agentic_waist_railguns_796afa.glb) |
@@ -47,5 +47,8 @@ mecha-assets/
 | `GXM-AGA-BAE5` | **Type-H/BAE5 Twin 422mm Over-Shoulder Rail Cannon Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 10,350 kg | `f2b6f95c31f4…` | [`agentic_artillery_bae549.glb`](models/parts/agentic_artillery_bae549.glb) |
 | `GXM-AGH-974B` | **HD-974B Cranial 58mm CIWS Vulcan & High-Gain Sensor Crest** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 785 kg | `f5523b131927…` | [`agentic_head_crest_974b09.glb`](models/parts/agentic_head_crest_974b09.glb) |
 | `GXM-AGP-2BEC` | **Type-F/2BEC 6-Fin Psycho-Funnel AMBAC Wing Array** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 4,885 kg | `af9f7b2926ab…` | [`agentic_psychofin_2bec43.glb`](models/parts/agentic_psychofin_2bec43.glb) |
-| `GXM-AGC-F11A` | **CH-F11A Chobham Reactive Breastplate & I-Field Chest Emitter** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 3,747 kg | `fb1193cd1cfd…` | [`agentic_chest_armor_f11a15.glb`](models/parts/agentic_chest_armor_f11a15.glb) |
+| `GXM-AGC-F11A` | **CH-F11A Chobham Reactive Breastplate & I-Field Chest Emitter** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 3,747 kg | `b02f1b55330a…` | [`agentic_chest_armor_f11a15.glb`](models/parts/agentic_chest_armor_f11a15.glb) |
 | `GXM-AGB-7E27` | **BR-7E27 High-Output 4.3MW Long-Barrel Mega Beam Rifle** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 1,127 kg | `0ba61e646e2f…` | [`agentic_beam_rifle_7e271d.glb`](models/parts/agentic_beam_rifle_7e271d.glb) |
+| `GXM-AGS-862D` | **SH-862D Twin 6-Tube Micro-Missile & Vernier Shoulder Pods (L+R)** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 3,546 kg | `d0d3a3810ccb…` | [`agentic_shoulder_pods_862db1.glb`](models/parts/agentic_shoulder_pods_862db1.glb) |
+| `GXM-AGD-64F3` | **SD-64F3 Anti-Beam Gundarium Hexagonal Tower Shield** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 2,304 kg | `3bc0d14e07e0…` | [`agentic_shield_64f3db.glb`](models/parts/agentic_shield_64f3db.glb) |
+| `GXM-AGL-42C1` | **LG-42C1 FA-78 Dual Calf Missile & High-G Vernier Booster Pods (L+R)** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 3,627 kg | `0065535a8ff1…` | [`agentic_leg_boosters_42c13b.glb`](models/parts/agentic_leg_boosters_42c13b.glb) |
