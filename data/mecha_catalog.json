@@ -2,7 +2,7 @@
   "version": "2.0.0",
   "asset_repository": "https://github.com/myonathanlinkedin/mecha-assets",
   "asset_cdn_base_url": "https://raw.githubusercontent.com/myonathanlinkedin/mecha-assets/main",
-  "last_synced": "2026-11-22T17:08:41.186732+00:00",
+  "last_synced": "2026-11-22T17:44:54.642003+00:00",
   "baselines": [
     {
       "id": "baseline_gundam_frame_v1",
@@ -7468,8 +7468,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_005_7d8a6c.glb",
-          "sha256_hash": "333264fb5615319bd4cef109ac49261a7c38a3af940789ac02fb88b030a98bba",
-          "file_size_bytes": 257612,
+          "sha256_hash": "b5029596c2ec003cafe904849d98b58b70bae45ba5b882397c73f77c5991b94d",
+          "file_size_bytes": 216884,
           "compression": "meshopt"
         }
       },
@@ -13580,14 +13580,14 @@
           ],
           "max": [
             10.355,
-            48.1,
-            52.561
+            46.141,
+            50.544
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_aux_weapon_009_6cbf7e.glb",
-          "sha256_hash": "55be04ca90622d25ecd68d5397e2c67bef0d8edf3f11ff3d1ce9cb8d62408525",
-          "file_size_bytes": 101824,
+          "sha256_hash": "06b9ec2e5fee75ddfcbabb6f8f310a626a51ba1f071022e6e7a4e8d20be58cfd",
+          "file_size_bytes": 105220,
           "compression": "meshopt"
         }
       },
@@ -16345,20 +16345,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -20.05,
+            -20.623,
             -30.09,
             -30.242
           ],
           "max": [
-            20.05,
+            20.623,
             32.427,
             10.67
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_013_3adb86.glb",
-          "sha256_hash": "ebb6812bfdde4413419acea375a8d72fb7be62e7af3eb2c5846938830eaca8b8",
-          "file_size_bytes": 245644,
+          "sha256_hash": "ac8fa41ec2373217bdaded4332669418f7104bc835a294812e8842ed31a33e96",
+          "file_size_bytes": 204916,
           "compression": "meshopt"
         }
       },
@@ -22455,14 +22455,14 @@
           ],
           "max": [
             10.965,
-            51.226,
-            55.78
+            49.142,
+            53.634
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_aux_weapon_017_ce09da.glb",
-          "sha256_hash": "9182a26244e387e1120a1784cdedc0bf417ae79bbf5cfd3742dca72acf61b211",
-          "file_size_bytes": 89768,
+          "sha256_hash": "ca44c5ff701647b44c3c1bc6f48075213554d7c8ed19171f9614f4f9c0226dd8",
+          "file_size_bytes": 93168,
           "compression": "meshopt"
         }
       },
@@ -23758,8 +23758,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_016_09b4bc.glb",
-          "sha256_hash": "34422ad07b32e6e8de4aec75349597ef8e995e561ab08d56b0cbb3351ee86077",
-          "file_size_bytes": 240136,
+          "sha256_hash": "f1b68d7c5f89d9f40b496c4c365f131682b2328fbb8b3e668d1067bf75ed393a",
+          "file_size_bytes": 199412,
           "compression": "meshopt"
         }
       },
@@ -26930,14 +26930,14 @@
           ],
           "max": [
             13.788,
-            55.915,
-            60.609
+            53.643,
+            58.27
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_aux_weapon_031_ff095f.glb",
-          "sha256_hash": "192496ba4fbd91a14d3eb6eff414ee6817f50d5d714549cf4fe3a8012c5cd94d",
-          "file_size_bytes": 101384,
+          "sha256_hash": "61e4fb823bb3c26b36be96d0cfba6bcd26febd869a0a756f34432d814a064138",
+          "file_size_bytes": 104780,
           "compression": "meshopt"
         }
       },
@@ -28253,8 +28253,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_023_5cc990.glb",
-          "sha256_hash": "1c4aeb9e398429fa3fa179cfd973913574a2e7465818054acf76b891dc790344",
-          "file_size_bytes": 264156,
+          "sha256_hash": "d21d8be50a945784a7bac77ad9a659f9e90da89bd35b1a4ac0f7f403dc4fcca0",
+          "file_size_bytes": 223436,
           "compression": "meshopt"
         }
       },
@@ -37483,8 +37483,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_040_c2aca2.glb",
-          "sha256_hash": "08c3e401377b588898637ebf0957c1d85985ef82e853727c7e1302152da7e1e8",
-          "file_size_bytes": 263452,
+          "sha256_hash": "f7b9ce087d3f89f4397c495dc9dc7d47d42996b2d3babded37b52f7fff827e9d",
+          "file_size_bytes": 222736,
           "compression": "meshopt"
         }
       },
@@ -39031,8 +39031,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_041_a9a894.glb",
-          "sha256_hash": "59baed079c4f9adcda87669e659c5289bdf3b0fa02c7161de74bd998e07c5f2f",
-          "file_size_bytes": 330988,
+          "sha256_hash": "5bac372873573a1e454e08127f5f472bb600ce582f2deb1a71a44efa2eabee9c",
+          "file_size_bytes": 290268,
           "compression": "meshopt"
         }
       },
@@ -39220,14 +39220,14 @@
           ],
           "max": [
             13.669,
-            55.394,
-            60.073
+            53.143,
+            57.755
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_aux_weapon_043_f69f85.glb",
-          "sha256_hash": "7c7be3f1fa8fdfb530f8002b9f92da29e20d6edc50863f3360e5e17de98955d4",
-          "file_size_bytes": 113392,
+          "sha256_hash": "83820c2396d7021fc0f85090cc43a5cd50f2c4fe7117f43d816f356cedfb186e",
+          "file_size_bytes": 116792,
           "compression": "meshopt"
         }
       },
@@ -40556,20 +40556,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -19.314,
+            -19.865,
             -28.985,
             -29.426
           ],
           "max": [
-            19.314,
+            19.865,
             31.237,
             14.05
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_042_4be007.glb",
-          "sha256_hash": "063013de0e0adc09fb545e13461381609515da45632a323011ae8fb653a7ffcb",
-          "file_size_bytes": 306560,
+          "sha256_hash": "a73c6889e143f251eaaead4865cf1c187fde747570ed60863b29cb40be1114b4",
+          "file_size_bytes": 265832,
           "compression": "meshopt"
         }
       },
@@ -42110,8 +42110,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_044_67dcc9.glb",
-          "sha256_hash": "97ffcf8ba58d8241349ca0a9e39601cc73e8d71d50c3490820776ac0b43603c0",
-          "file_size_bytes": 269928,
+          "sha256_hash": "e15bf108eabfed6d2a6826cd8026539edf4b3b878f3ec087e4411e9a05c5a64f",
+          "file_size_bytes": 229200,
           "compression": "meshopt"
         }
       },
@@ -43659,8 +43659,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_045_2e22f3.glb",
-          "sha256_hash": "4b405dfdce2e2d089171c7adb6a41fe0df33524bc22c1f07392cee17faee5c0b",
-          "file_size_bytes": 245900,
+          "sha256_hash": "883c080b4fcd658e8f58e85215901f936df271cceecc05d1352377ba8bd2618b",
+          "file_size_bytes": 205180,
           "compression": "meshopt"
         }
       },
@@ -44816,8 +44816,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_046_ee7629.glb",
-          "sha256_hash": "d5ba3ef9c29790b6424a86b27f7b7434d72e46a6fa1544261ba7d93fbddb36de",
-          "file_size_bytes": 317904,
+          "sha256_hash": "b60723ed38a09faf275e754de1233f15fa516ed6547dc7727ad609c18532fe3a",
+          "file_size_bytes": 277188,
           "compression": "meshopt"
         }
       },
@@ -45768,8 +45768,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_047_183565.glb",
-          "sha256_hash": "45991c099cba7317e0cceac8eded2d27387d5266736ddcd63ae9c236182aee66",
-          "file_size_bytes": 404480,
+          "sha256_hash": "38ab39c50050d84b68ab0aba00acf627108cb657f430df1585bf4ad8375d2043",
+          "file_size_bytes": 363748,
           "compression": "meshopt"
         }
       },
@@ -46346,8 +46346,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_048_e827fc.glb",
-          "sha256_hash": "c64114f3a1a6bb674f74fbc4de442134aad918c9308768d86c7d3442195c5a77",
-          "file_size_bytes": 334772,
+          "sha256_hash": "b76101c98b4bfe6cef8e81625d33f5ba9c241771c6f7f821dab2cfdabce1f0a8",
+          "file_size_bytes": 294052,
           "compression": "meshopt"
         }
       },
