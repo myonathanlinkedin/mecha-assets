@@ -2,7 +2,7 @@
 
 > **Autonomous 3D Gundam-Like Mecha CAD Asset Store & 8-Zone Modular Manifest**  
 > **Live 3D WebGL Engineering Hangar:** [https://myonathanlinkedin.github.io/mecha.html](https://myonathanlinkedin.github.io/mecha.html)  
-> **Last Synchronized:** `2026-11-22 11:55 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `385`
+> **Last Synchronized:** `2026-11-22 11:57 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `395`
 
 ---
 
@@ -20,7 +20,7 @@ mecha-assets/
 
 ---
 
-## 🦾 8-Zone Full-Body Modular Parts Catalog (385 Non-Duplicate Assets)
+## 🦾 8-Zone Full-Body Modular Parts Catalog (395 Non-Duplicate Assets)
 
 | Serial | Part Name | Body Zone (`UHIS`) | Physical Adapter | Mass | SHA-256 | Binary GLB |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
@@ -409,3 +409,13 @@ mecha-assets/
 | `GXM-GEN-HED-383` | **RX-79[G] Ez-8 Gundam Ez8 Head Sensor Cooling Crest** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 1,200 kg | `161ffc8edbec…` | [`llm_gen_head_sensor_047_b48cec.glb`](models/parts/llm_gen_head_sensor_047_b48cec.glb) |
 | `GXM-GEN-CHS-384` | **RX-78NT-1 Gundam NT-1 Flanagan ERA Mega Pectoral** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 1,850 kg | `fbc2606cdd8c…` | [`llm_gen_chest_armor_047_2f412c.glb`](models/parts/llm_gen_chest_armor_047_2f412c.glb) |
 | `GXM-GEN-SHL-385` | **RX-78GP02A Physalis Nuclear Missile Shoulder Pods** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 3,200 kg | `e1d55efab645…` | [`llm_gen_shoulder_pods_047_4324eb.glb`](models/parts/llm_gen_shoulder_pods_047_4324eb.glb) |
+| `GXM-GEN-WST-386` | **FA-78-1 Full Armor Waist Beam & Grenade Pack** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 1,300 kg | `3ee59579b26e…` | [`llm_gen_waist_ordnance_047_f0db6a.glb`](models/parts/llm_gen_waist_ordnance_047_f0db6a.glb) |
+| `GXM-GEN-LEG-387` | **FA-78 Thunderbolt Full Armor Leg Thrusters – Tactical Mk II** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 2,100 kg | `5439660989b8…` | [`llm_gen_leg_thrusters_047_8b1ea2.glb`](models/parts/llm_gen_leg_thrusters_047_8b1ea2.glb) |
+| `GXM-GEN-WPN-388` | **RX-78-02 Gundam Hyper Bazooka Siege Mace** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 4,200 kg | `6083310558ce…` | [`llm_gen_aux_weapon_047_547bc7.glb`](models/parts/llm_gen_aux_weapon_047_547bc7.glb) |
+| `GXM-GEN-SHD-389` | **RX-121-1 Gundam TR-1 [Hazel Custom] Aswan I-Field Disc Shield** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 5,900 kg | `ce140a2d90d5…` | [`llm_gen_aux_shield_047_19d4c7.glb`](models/parts/llm_gen_aux_shield_047_19d4c7.glb) |
+| `GXM-GEN-DPK-390` | **RX-78GP01-Fb Zephyranthes Full Burnern Dorsal Twin Cannon Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 2,100 kg | `87358f036d63…` | [`llm_gen_dorsal_pack_047_183565.glb`](models/parts/llm_gen_dorsal_pack_047_183565.glb) |
+| `GXM-GEN-HED-391` | **RX-79[G] Ez-8 Zaku-Shield Recon Dome** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 850 kg | `0d71c29f786d…` | [`llm_gen_head_sensor_048_03a120.glb`](models/parts/llm_gen_head_sensor_048_03a120.glb) |
+| `GXM-GEN-CHS-392` | **RX-78NT-1 Gundam NT-1 Mega‑Particle Vented Gorget Chest** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 1,200 kg | `a02de28f0586…` | [`llm_gen_chest_armor_048_9a35c9.glb`](models/parts/llm_gen_chest_armor_048_9a35c9.glb) |
+| `GXM-GEN-SHL-393` | **GXM-SW9 Layered Samurai O-Yoroi Wing Pauldrons (L+R)** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 3,520 kg | `00e00b65ccfa…` | [`llm_gen_shoulder_pods_048_f25589.glb`](models/parts/llm_gen_shoulder_pods_048_f25589.glb) |
+| `GXM-GEN-WST-394` | **RX-93 ν Gundam Waist Beam‑Grenade & Ambac Pack** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 820 kg | `c5a1670c58d6…` | [`llm_gen_waist_ordnance_048_901c3a.glb`](models/parts/llm_gen_waist_ordnance_048_901c3a.glb) |
+| `GXM-GEN-LEG-395` | **FA-78 Thunderbolt Heavy Flare Thruster Greaves** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 1,850 kg | `3b41bbac6a4e…` | [`llm_gen_leg_thrusters_048_0576e9.glb`](models/parts/llm_gen_leg_thrusters_048_0576e9.glb) |
