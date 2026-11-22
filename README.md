@@ -2,7 +2,7 @@
 
 > **Autonomous 3D Gundam-Like Mecha CAD Asset Store & 8-Zone Modular Manifest**  
 > **Live 3D WebGL Engineering Hangar:** [https://myonathanlinkedin.github.io/mecha.html](https://myonathanlinkedin.github.io/mecha.html)  
-> **Last Synchronized:** `2026-11-22 08:20 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `24`
+> **Last Synchronized:** `2026-11-22 08:40 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `24`
 
 ---
 
@@ -47,4 +47,4 @@ mecha-assets/
 | `GXM-LLM-PLS-21` | **RX-78-9 Reactive Collar Plastron Mk.II** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 3,400 kg | `34d22b677ad0…` | [`llm_chest_reactive_plastron.glb`](models/parts/llm_chest_reactive_plastron.glb) |
 | `GXM-LLM-WST-23` | **RX-78-3 Waist Plasma Rail Skirt Mk.II** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 2,550 kg | `29003218a979…` | [`llm_waist_plasma_skirts.glb`](models/parts/llm_waist_plasma_skirts.glb) |
 | `GXM-LLM-FNL-23` | **HP-00 Dorsal Heavy Funnel Container Mk.II** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 4,850 kg | `6d7deb94efe3…` | [`llm_dorsal_funnel_containers.glb`](models/parts/llm_dorsal_funnel_containers.glb) |
-| `GXM-LLM-RLC-24` | **HP-03B Shoulder Rail Cannon Mk.III – Hyper Velocity Variant** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 3,892 kg | `6a463ba5b3f0…` | [`llm_evo_shoulder_rail_cannon_g02_44aa8c.glb`](models/parts/llm_evo_shoulder_rail_cannon_g02_44aa8c.glb) |
+| `GXM-GEN-HED-024` | **Quantum Lens Crown Array (HP-01)** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 1,800 kg | `06392aab513f…` | [`llm_gen_head_sensor_002_a2fdc6.glb`](models/parts/llm_gen_head_sensor_002_a2fdc6.glb) |
