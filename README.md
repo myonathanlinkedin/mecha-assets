@@ -2,7 +2,7 @@
 
 > **Autonomous 3D Gundam-Like Mecha CAD Asset Store & 8-Zone Modular Manifest**  
 > **Live 3D WebGL Engineering Hangar:** [https://myonathanlinkedin.github.io/mecha.html](https://myonathanlinkedin.github.io/mecha.html)  
-> **Last Synchronized:** `2026-11-22 09:04 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `27`
+> **Last Synchronized:** `2026-11-22 09:07 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `24`
 
 ---
 
@@ -20,7 +20,7 @@ mecha-assets/
 
 ---
 
-## 🦾 8-Zone Full-Body Modular Parts Catalog (27 Non-Duplicate Assets)
+## 🦾 8-Zone Full-Body Modular Parts Catalog (24 Non-Duplicate Assets)
 
 | Serial | Part Name | Body Zone (`UHIS`) | Physical Adapter | Mass | SHA-256 | Binary GLB |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
@@ -32,7 +32,7 @@ mecha-assets/
 | `GXM-WPN-BRIF-06` | **RX-78 Ver.Ka Long-Barrel Beam Rifle (E-Pac)** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 920 kg | `e757cc8d1ea2…` | [`weapon_beam_rifle_rx.glb`](models/parts/weapon_beam_rifle_rx.glb) |
 | `GXM-ARM-SHLD-07` | **Gundarium Hexagonal Federation Composite Shield** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 2,150 kg | `5a27735d0eec…` | [`armor_tower_shield_fed.glb`](models/parts/armor_tower_shield_fed.glb) |
 | `GXM-PRV-FINB-08` | **Twin Wing-Binder Psycho-Fin Vernier Array** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 4,950 kg | `09d943eb48a4…` | [`propulsion_vernier_wing_pod.glb`](models/parts/propulsion_vernier_wing_pod.glb) |
-| `GXM-HED-CIWS-09` | **60mm Cranial Vulcan Pod & Psycho-Sensor Crest** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 680 kg | `92acb61c975c…` | [`head_vulcan_crest_pod.glb`](models/parts/head_vulcan_crest_pod.glb) |
+| `GXM-HED-CIWS-09` | **60mm Cranial Vulcan Pod & Psycho-Sensor Crest** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 680 kg | `e44c2ad49311…` | [`head_vulcan_crest_pod.glb`](models/parts/head_vulcan_crest_pod.glb) |
 | `GXM-ARM-CHOB-10` | **FA-78 Chobham Reactive Breastplate & Callidus Emitter** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 3,150 kg | `c9a3c6d90f83…` | [`chest_chobham_reactive_armor.glb`](models/parts/chest_chobham_reactive_armor.glb) |
 | `GXM-WPN-SHPD-11` | **Twin 6-Tube Micro-Missile & Vernier Shoulder Pods (L+R)** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 3,350 kg | `0d8982c612ba…` | [`shoulder_missile_pauldron_pods.glb`](models/parts/shoulder_missile_pauldron_pods.glb) |
 | `GXM-ARM-WSB-12` | **FA-78 Side-Skirt Armored Thruster Binders & E-Pac Racks (L+R)** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 2,400 kg | `bbbe02d490c8…` | [`waist_xiphias_hip_railguns.glb`](models/parts/waist_xiphias_hip_railguns.glb) |
@@ -43,11 +43,8 @@ mecha-assets/
 | `GXM-LLM-GAT-17` | **Twin-Gatling Shield Aux-Unit HP-07** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 3,950 kg | `f5ab27d10541…` | [`llm_shield_twin_gatling.glb`](models/parts/llm_shield_twin_gatling.glb) |
 | `GXM-LLM-RLC-18` | **HP-03A Shoulder Rail Cannon Mk.II** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 3,900 kg | `671fe3b09f66…` | [`llm_shoulder_rail_cannons.glb`](models/parts/llm_shoulder_rail_cannons.glb) |
 | `GXM-LLM-OBV-19` | **RX-78-2 Overboost Leg Vernier Kit – HP-24 Calf Thruster** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 3,450 kg | `f718846300d3…` | [`llm_leg_overboost_verniers.glb`](models/parts/llm_leg_overboost_verniers.glb) |
-| `GXM-LLM-CMD-21` | **Commander Twin Blade Crest - Head Sensor Module** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 640 kg | `2792089bfd9d…` | [`llm_head_commander_crest.glb`](models/parts/llm_head_commander_crest.glb) |
+| `GXM-LLM-CMD-21` | **Commander Twin Blade Crest - Head Sensor Module** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 640 kg | `e973857930d1…` | [`llm_head_commander_crest.glb`](models/parts/llm_head_commander_crest.glb) |
 | `GXM-LLM-PLS-21` | **RX-78-9 Reactive Collar Plastron Mk.II** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 3,400 kg | `34d22b677ad0…` | [`llm_chest_reactive_plastron.glb`](models/parts/llm_chest_reactive_plastron.glb) |
 | `GXM-LLM-WST-23` | **RX-78-3 Waist Plasma Rail Skirt Mk.II** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 2,550 kg | `29003218a979…` | [`llm_waist_plasma_skirts.glb`](models/parts/llm_waist_plasma_skirts.glb) |
 | `GXM-LLM-FNL-23` | **HP-00 Dorsal Heavy Funnel Container Mk.II** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 4,850 kg | `6d7deb94efe3…` | [`llm_dorsal_funnel_containers.glb`](models/parts/llm_dorsal_funnel_containers.glb) |
-| `GXM-GEN-HED-024` | **Arcane Optic Crown Sensor Array** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 1,200 kg | `3a80b19226ae…` | [`llm_gen_head_sensor_002_3dc270.glb`](models/parts/llm_gen_head_sensor_002_3dc270.glb) |
-| `GXM-GEN-CHS-025` | **Dual Gatling Reactor Collar – HP-09 Pectoral** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 3,400 kg | `e4c9f69f2ada…` | [`llm_gen_chest_armor_002_76a5a1.glb`](models/parts/llm_gen_chest_armor_002_76a5a1.glb) |
-| `GXM-GEN-SHL-026` | **Arc‑Flux Converger Shoulder Pod** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 1,800 kg | `2b47479c3f6d…` | [`llm_gen_shoulder_pods_002_cf990a.glb`](models/parts/llm_gen_shoulder_pods_002_cf990a.glb) |
-| `GXM-GEN-WST-027` | **GX-13 Gyro‑Shielded Railcannon Skirt** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 3,400 kg | `a45256a2551f…` | [`llm_gen_waist_ordnance_002_758d82.glb`](models/parts/llm_gen_waist_ordnance_002_758d82.glb) |
+| `GXM-GEN-HED-024` | **Ez-8 Ground Sensor Hood** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 1,200 kg | `90440c2e0a82…` | [`llm_gen_head_sensor_002_f12ec8.glb`](models/parts/llm_gen_head_sensor_002_f12ec8.glb) |
