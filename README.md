@@ -2,7 +2,7 @@
 
 > **Autonomous 3D Gundam-Like Mecha CAD Asset Store & 8-Zone Modular Manifest**  
 > **Live 3D WebGL Engineering Hangar:** [https://myonathanlinkedin.github.io/mecha.html](https://myonathanlinkedin.github.io/mecha.html)  
-> **Last Synchronized:** `2026-11-22 21:01 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `281`
+> **Last Synchronized:** `2026-11-22 23:01 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `291`
 
 ---
 
@@ -20,7 +20,7 @@ mecha-assets/
 
 ---
 
-## 🦾 8-Zone Full-Body Modular Parts Catalog (281 Non-Duplicate Assets)
+## 🦾 8-Zone Full-Body Modular Parts Catalog (291 Non-Duplicate Assets)
 
 | Serial | Part Name | Body Zone (`UHIS`) | Physical Adapter | Mass | SHA-256 | Binary GLB |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
@@ -305,3 +305,13 @@ mecha-assets/
 | `GXM-GEN-DPK-279` | **MSZ-006 Zeta Gundam Missile Stabilizer Dorsal Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 1,200 kg | `b8cb15322ae0…` | [`llm_gen_dorsal_pack_033_e0203a.glb`](models/parts/llm_gen_dorsal_pack_033_e0203a.glb) |
 | `GXM-GEN-HED-280` | **OZ-00MS Tallgeese Super Vernier AWACS Crown** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 850 kg | `433e227d5141…` | [`llm_gen_head_sensor_034_71aabe.glb`](models/parts/llm_gen_head_sensor_034_71aabe.glb) |
 | `GXM-GEN-CHS-281` | **GP01 Zephyranthes V‑Crest Chest Plastron** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 1,200 kg | `f52c8073a70d…` | [`llm_gen_chest_armor_034_ecf168.glb`](models/parts/llm_gen_chest_armor_034_ecf168.glb) |
+| `GXM-GEN-SHL-282` | **Justice Gundam Assault Shoulder Pods** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 820 kg | `73702e396acf…` | [`llm_gen_shoulder_pods_034_fe3e2e.glb`](models/parts/llm_gen_shoulder_pods_034_fe3e2e.glb) |
+| `GXM-GEN-WST-283` | **Justice Gundam Fatum-00 Waist Rail & Propulsion Pack** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 1,500 kg | `6422fcec0454…` | [`llm_gen_waist_ordnance_034_2d5273.glb`](models/parts/llm_gen_waist_ordnance_034_2d5273.glb) |
+| `GXM-GEN-LEG-284` | **MSN-00100 Hyaku Shiki Movable Frame Calf Thrusters** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 1,850 kg | `aac7b89d2e67…` | [`llm_gen_leg_thrusters_034_3fa2ba.glb`](models/parts/llm_gen_leg_thrusters_034_3fa2ba.glb) |
+| `GXM-GEN-WPN-285` | **RX-78-02 Auxiliary Rotary Cannon Kit** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 800 kg | `66e22e944fb6…` | [`llm_gen_aux_weapon_034_08a3bf.glb`](models/parts/llm_gen_aux_weapon_034_08a3bf.glb) |
+| `GXM-GEN-DPK-286` | **Tallgeese II Dorsal Pack (HP-00)** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 1,500 kg | `431bf1f84e4c…` | [`llm_gen_dorsal_pack_034_3546b9.glb`](models/parts/llm_gen_dorsal_pack_034_3546b9.glb) |
+| `GXM-GEN-HED-287` | **ASW-G-08 Barbatos Calamity War Reactor Cranial Array** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 850 kg | `371d0053ffe7…` | [`llm_gen_head_sensor_035_cbe11b.glb`](models/parts/llm_gen_head_sensor_035_cbe11b.glb) |
+| `GXM-GEN-CHS-288` | **ZGMF-X13A Providence V‑Crest Dragon Chest** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 1,350 kg | `5f81754cb9b4…` | [`llm_gen_chest_armor_035_b11036.glb`](models/parts/llm_gen_chest_armor_035_b11036.glb) |
+| `GXM-GEN-SHL-289` | **ASW-G-66 Kimaris Space Defender Shoulder Pods** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 1,800 kg | `24ea5aa66649…` | [`llm_gen_shoulder_pods_035_64de59.glb`](models/parts/llm_gen_shoulder_pods_035_64de59.glb) |
+| `GXM-GEN-WST-290` | **RX-105 Ξ Gundam (HF) Waist Ambac & Aero Pack** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 1,850 kg | `07b88dab113d…` | [`llm_gen_waist_ordnance_035_ad43c0.glb`](models/parts/llm_gen_waist_ordnance_035_ad43c0.glb) |
+| `GXM-GEN-LEG-291` | **Freedom Gundam High‑Mobility Calf Thruster Kit** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 850 kg | `1aaf915b3dd7…` | [`llm_gen_leg_thrusters_035_456d46.glb`](models/parts/llm_gen_leg_thrusters_035_456d46.glb) |
