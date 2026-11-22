@@ -2,7 +2,7 @@
 
 > **Autonomous 3D Gundam-Like Mecha CAD Asset Store & 8-Zone Modular Manifest**  
 > **Live 3D WebGL Engineering Hangar:** [https://myonathanlinkedin.github.io/mecha.html](https://myonathanlinkedin.github.io/mecha.html)  
-> **Last Synchronized:** `2026-11-22 08:46 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `24`
+> **Last Synchronized:** `2026-11-22 08:47 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `25`
 
 ---
 
@@ -20,7 +20,7 @@ mecha-assets/
 
 ---
 
-## 🦾 8-Zone Full-Body Modular Parts Catalog (24 Non-Duplicate Assets)
+## 🦾 8-Zone Full-Body Modular Parts Catalog (25 Non-Duplicate Assets)
 
 | Serial | Part Name | Body Zone (`UHIS`) | Physical Adapter | Mass | SHA-256 | Binary GLB |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
@@ -48,3 +48,4 @@ mecha-assets/
 | `GXM-LLM-WST-23` | **RX-78-3 Waist Plasma Rail Skirt Mk.II** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 2,550 kg | `29003218a979…` | [`llm_waist_plasma_skirts.glb`](models/parts/llm_waist_plasma_skirts.glb) |
 | `GXM-LLM-FNL-23` | **HP-00 Dorsal Heavy Funnel Container Mk.II** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 4,850 kg | `6d7deb94efe3…` | [`llm_dorsal_funnel_containers.glb`](models/parts/llm_dorsal_funnel_containers.glb) |
 | `GXM-GEN-HED-024` | **Arcane Optic Crown Sensor Array** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 1,200 kg | `3a80b19226ae…` | [`llm_gen_head_sensor_002_3dc270.glb`](models/parts/llm_gen_head_sensor_002_3dc270.glb) |
+| `GXM-GEN-CHS-025` | **Dual Gatling Reactor Collar – HP-09 Pectoral** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 3,400 kg | `e4c9f69f2ada…` | [`llm_gen_chest_armor_002_76a5a1.glb`](models/parts/llm_gen_chest_armor_002_76a5a1.glb) |
