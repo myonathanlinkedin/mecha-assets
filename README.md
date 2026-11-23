@@ -2,7 +2,7 @@
 
 > **Autonomous 3D Gundam-Like Mecha CAD Asset Store & 8-Zone Modular Manifest**  
 > **Live 3D WebGL Engineering Hangar:** [https://myonathanlinkedin.github.io/mecha.html](https://myonathanlinkedin.github.io/mecha.html)  
-> **Last Synchronized:** `2026-11-23 12:27 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `341`
+> **Last Synchronized:** `2026-11-23 12:56 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `341`
 
 ---
 
@@ -29,7 +29,7 @@ mecha-assets/
 | `GXM-MPK-ARTY-03` | **Type-H Heavy Bombardment Artillery Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 9,500 kg | `aa782e5bbd61…` | [`mission_pack_type_h_artillery.glb`](models/parts/mission_pack_type_h_artillery.glb) |
 | `GXM-MPK-EWRN-04` | **Type-E Electronic Reconnaissance & Radome Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 3,400 kg | `1b090bdc04c4…` | [`mission_pack_type_e_recon.glb`](models/parts/mission_pack_type_e_recon.glb) |
 | `GXM-MPK-CQCP-05` | **Type-C Close-Quarters Combat Breacher Pack** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 5,100 kg | `77427aeefb76…` | [`mission_pack_type_c_cqc.glb`](models/parts/mission_pack_type_c_cqc.glb) |
-| `GXM-WPN-BRIF-06` | **RX-78 Ver.Ka Long-Barrel Beam Rifle (E-Pac)** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 920 kg | `e7a0337a5322…` | [`weapon_beam_rifle_rx.glb`](models/parts/weapon_beam_rifle_rx.glb) |
+| `GXM-WPN-BRIF-06` | **RX-78 Ver.Ka Long-Barrel Beam Rifle (E-Pac)** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 920 kg | `571166b3a322…` | [`weapon_beam_rifle_rx.glb`](models/parts/weapon_beam_rifle_rx.glb) |
 | `GXM-ARM-SHLD-07` | **Gundarium Hexagonal Federation Composite Shield** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 2,150 kg | `2026fd97062c…` | [`armor_tower_shield_fed.glb`](models/parts/armor_tower_shield_fed.glb) |
 | `GXM-PRV-FINB-08` | **Twin Wing-Binder Psycho-Fin Vernier Array** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 4,950 kg | `45f869176760…` | [`propulsion_vernier_wing_pod.glb`](models/parts/propulsion_vernier_wing_pod.glb) |
 | `GXM-HED-CIWS-09` | **60mm Cranial Vulcan Pod & Psycho-Sensor Crest** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 680 kg | `5c2aa02a6b68…` | [`head_vulcan_crest_pod.glb`](models/parts/head_vulcan_crest_pod.glb) |
@@ -37,7 +37,7 @@ mecha-assets/
 | `GXM-WPN-SHPD-11` | **Twin 6-Tube Micro-Missile & Vernier Shoulder Pods (L+R)** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 3,350 kg | `5b943eed09a4…` | [`shoulder_missile_pauldron_pods.glb`](models/parts/shoulder_missile_pauldron_pods.glb) |
 | `GXM-ARM-WSB-12` | **FA-78 Side-Skirt Armored Thruster Binders & E-Pac Racks (L+R)** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 2,400 kg | `1feb057aa4db…` | [`waist_xiphias_hip_railguns.glb`](models/parts/waist_xiphias_hip_railguns.glb) |
 | `GXM-PRV-CLFP-13` | **FA-78 Dual Calf Missile & Supersonic Booster Pods (L+R)** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 3,650 kg | `24c35e9d671f…` | [`leg_calf_vernier_missile_pods.glb`](models/parts/leg_calf_vernier_missile_pods.glb) |
-| `GXM-WPN-BSBR-14` | **RX-78 Iconic High-Output Beam Saber (Laser Sword)** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 680 kg | `188131afa157…` | [`weapon_beam_saber_rx.glb`](models/parts/weapon_beam_saber_rx.glb) |
+| `GXM-WPN-BSBR-14` | **RX-78 Iconic High-Output Beam Saber (Laser Sword)** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 680 kg | `8008732232aa…` | [`weapon_beam_saber_rx.glb`](models/parts/weapon_beam_saber_rx.glb) |
 | `GXM-LLM-BAZ-15` | **Hyper Bazooka Mk.II Auxiliary Hyper-Launcher** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 3,450 kg | `d0f23ce7ea6d…` | [`llm_weapon_hyper_bazooka.glb`](models/parts/llm_weapon_hyper_bazooka.glb) |
 | `GXM-LLM-NAG-16` | **RX-78 Beam Naginata Auxiliary Weapon Pack** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 1,380 kg | `91256df96a04…` | [`llm_weapon_beam_naginata.glb`](models/parts/llm_weapon_beam_naginata.glb) |
 | `GXM-LLM-GAT-17` | **Twin-Gatling Shield Aux-Unit HP-07** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 3,950 kg | `28fda8066824…` | [`llm_shield_twin_gatling.glb`](models/parts/llm_shield_twin_gatling.glb) |

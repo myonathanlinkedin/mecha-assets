@@ -2,15 +2,15 @@
   "version": "2.0.0",
   "asset_repository": "https://github.com/myonathanlinkedin/mecha-assets",
   "asset_cdn_base_url": "https://raw.githubusercontent.com/myonathanlinkedin/mecha-assets/main",
-  "last_synced": "2026-11-23T12:25:43.534336+00:00",
+  "last_synced": "2026-11-23T12:55:57.712359+00:00",
   "baselines": [
     {
       "id": "baseline_gundam_frame_v1",
       "faction": "hero_federation",
       "name": "RX-Type Advanced Movable Frame",
       "mesh_url": "models/baselines/baseline_gundam_frame_v1.glb",
-      "sha256_hash": "b46c53ead8c2c1c5a4de853da9966f2c5843fcee133870aec17bf3a4e6f9bae4",
-      "file_size_bytes": 2332772,
+      "sha256_hash": "f5ae4ae00bfcd478909a65d7343c0d8af7caeeea3942e57f9471b79f7eff8142",
+      "file_size_bytes": 2287052,
       "base_mass_kg": 24500,
       "bom_computed_mass_kg": 28758,
       "effective_k2_m2": 1.7462,
@@ -614,20 +614,20 @@
         "format": "binary_gltf_glb",
         "asset_reference": {
           "relative_url": "models/parts/weapon_beam_rifle_rx.glb",
-          "sha256_hash": "e7a0337a53229eb04b229e1553122a02076c3e6b4b3f719bc8c78c4737e9993e",
-          "file_size_bytes": 205148,
+          "sha256_hash": "571166b3a322473950a46e9e45aafa1d1112aa12425e2687782239f0b3ebce4e",
+          "file_size_bytes": 205160,
           "compression": "meshopt"
         },
         "bounding_box_aabb_mm": {
           "min": [
             -12.0,
             -7.0,
-            -6.0
+            -1.504661307763695
           ],
           "max": [
             12.0,
-            15.458980933132963,
-            65.5
+            14.458980933132963,
+            72.0
           ]
         }
       },
@@ -1256,20 +1256,20 @@
         "format": "binary_gltf_glb",
         "asset_reference": {
           "relative_url": "models/parts/weapon_beam_saber_rx.glb",
-          "sha256_hash": "188131afa1571ada80b81c3f69989083f2fbbc5eae5b552888ebfaff166b0dda",
+          "sha256_hash": "8008732232aad3a41427ead992b6ddfcd12fb2bc6d6f4755f3820d0d281c208e",
           "file_size_bytes": 61000,
           "compression": "meshopt"
         },
         "bounding_box_aabb_mm": {
           "min": [
             -12.0,
-            -11.220847198639133,
-            -6.012705636014573
+            -12.020847198639132,
+            -4.812705636014572
           ],
           "max": [
             12.0,
-            89.75998882491926,
-            67.3656157155199
+            88.95998882491926,
+            68.56561571551988
           ]
         }
       },
