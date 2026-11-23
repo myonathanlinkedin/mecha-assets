@@ -2,7 +2,7 @@
 
 > **Autonomous 3D Gundam-Like Mecha CAD Asset Store & 8-Zone Modular Manifest**  
 > **Live 3D WebGL Engineering Hangar:** [https://myonathanlinkedin.github.io/mecha.html](https://myonathanlinkedin.github.io/mecha.html)  
-> **Last Synchronized:** `2026-11-23 21:23 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `383`
+> **Last Synchronized:** `2026-11-23 21:40 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `393`
 
 ---
 
@@ -20,18 +20,18 @@ mecha-assets/
 
 ---
 
-## 🦾 8-Zone Full-Body Modular Parts Catalog (383 Non-Duplicate Assets)
+## 🦾 8-Zone Full-Body Modular Parts Catalog (393 Non-Duplicate Assets)
 
 | Serial | Part Name | Body Zone (`UHIS`) | Physical Adapter | Mass | SHA-256 | Binary GLB |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
-| `GXM-MPK-AERO-01` | **Type-A Atmospheric Superiority Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 4,200 kg | `839a292331fa…` | [`mission_pack_type_a_aero.glb`](models/parts/mission_pack_type_a_aero.glb) |
-| `GXM-MPK-SPAC-02` | **Type-S High-Mobility Space Interceptor Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 6,800 kg | `7dc5384ab3d6…` | [`mission_pack_type_s_space.glb`](models/parts/mission_pack_type_s_space.glb) |
-| `GXM-MPK-ARTY-03` | **Type-H Heavy Bombardment Artillery Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 9,500 kg | `ad205b2eb870…` | [`mission_pack_type_h_artillery.glb`](models/parts/mission_pack_type_h_artillery.glb) |
-| `GXM-MPK-EWRN-04` | **Type-E Electronic Reconnaissance & Radome Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 3,400 kg | `f04f7f64682a…` | [`mission_pack_type_e_recon.glb`](models/parts/mission_pack_type_e_recon.glb) |
+| `GXM-MPK-AERO-01` | **Type-A Atmospheric Superiority Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 4,200 kg | `491a07504832…` | [`mission_pack_type_a_aero.glb`](models/parts/mission_pack_type_a_aero.glb) |
+| `GXM-MPK-SPAC-02` | **Type-S High-Mobility Space Interceptor Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 6,800 kg | `3dc0f5c54f67…` | [`mission_pack_type_s_space.glb`](models/parts/mission_pack_type_s_space.glb) |
+| `GXM-MPK-ARTY-03` | **Type-H Heavy Bombardment Artillery Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 9,500 kg | `9c6371e41878…` | [`mission_pack_type_h_artillery.glb`](models/parts/mission_pack_type_h_artillery.glb) |
+| `GXM-MPK-EWRN-04` | **Type-E Electronic Reconnaissance & Radome Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 3,400 kg | `ff215fac58b5…` | [`mission_pack_type_e_recon.glb`](models/parts/mission_pack_type_e_recon.glb) |
 | `GXM-MPK-CQCP-05` | **Type-C Close-Quarters Combat Breacher Pack** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 5,100 kg | `5f3458f3f112…` | [`mission_pack_type_c_cqc.glb`](models/parts/mission_pack_type_c_cqc.glb) |
 | `GXM-WPN-BRIF-06` | **RX-78 Ver.Ka Long-Barrel Beam Rifle (E-Pac)** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 920 kg | `add4c94574b5…` | [`weapon_beam_rifle_rx.glb`](models/parts/weapon_beam_rifle_rx.glb) |
 | `GXM-ARM-SHLD-07` | **Gundarium Hexagonal Federation Composite Shield** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 2,150 kg | `d18ffc147b0b…` | [`armor_tower_shield_fed.glb`](models/parts/armor_tower_shield_fed.glb) |
-| `GXM-PRV-FINB-08` | **Twin Wing-Binder Psycho-Fin Vernier Array** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 4,950 kg | `d6ae9a8f0d55…` | [`propulsion_vernier_wing_pod.glb`](models/parts/propulsion_vernier_wing_pod.glb) |
+| `GXM-PRV-FINB-08` | **Twin Wing-Binder Psycho-Fin Vernier Array** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 4,950 kg | `e471ca65244c…` | [`propulsion_vernier_wing_pod.glb`](models/parts/propulsion_vernier_wing_pod.glb) |
 | `GXM-HED-CIWS-09` | **60mm Cranial Vulcan Pod & Psycho-Sensor Crest** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 680 kg | `cba884514983…` | [`head_vulcan_crest_pod.glb`](models/parts/head_vulcan_crest_pod.glb) |
 | `GXM-ARM-CHOB-10` | **FA-78 Chobham Reactive Breastplate & Callidus Emitter** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 3,150 kg | `c1571bbbf448…` | [`chest_chobham_reactive_armor.glb`](models/parts/chest_chobham_reactive_armor.glb) |
 | `GXM-WPN-SHPD-11` | **Twin 6-Tube Micro-Missile & Vernier Shoulder Pods (L+R)** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 3,350 kg | `b3b663ad6797…` | [`shoulder_missile_pauldron_pods.glb`](models/parts/shoulder_missile_pauldron_pods.glb) |
@@ -407,3 +407,13 @@ mecha-assets/
 | `GXM-GEN-SHD-381` | **MSN-04 Sazabi I-Field Forearm Shield** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 2,500 kg | `a0e43ffe5f84…` | [`llm_gen_aux_shield_046_fe5eb1.glb`](models/parts/llm_gen_aux_shield_046_fe5eb1.glb) |
 | `GXM-GEN-DPK-382` | **ZGMF-X42S Destiny Boomerang Aero-Binder Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 1,850 kg | `dc35535b9675…` | [`llm_gen_dorsal_pack_046_57409e.glb`](models/parts/llm_gen_dorsal_pack_046_57409e.glb) |
 | `GXM-GEN-HED-383` | **RX-105 Ξ Gundam HF Beam Barrier Sensor Array** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 1,200 kg | `2bb5dc19b715…` | [`llm_gen_head_sensor_047_09a68f.glb`](models/parts/llm_gen_head_sensor_047_09a68f.glb) |
+| `GXM-GEN-CHS-384` | **F91 High‑Mobility Vented ERA Pectoral** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 800 kg | `c9bdb54fc7f8…` | [`llm_gen_chest_armor_047_896b7e.glb`](models/parts/llm_gen_chest_armor_047_896b7e.glb) |
+| `GXM-GEN-SHL-385` | **MS-18E Kämpfer Einhauen Ram Shoulder Pods** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 1,850 kg | `830883e2b2c3…` | [`llm_gen_shoulder_pods_047_142e5a.glb`](models/parts/llm_gen_shoulder_pods_047_142e5a.glb) |
+| `GXM-GEN-WST-386` | **MS-18E Kämpfer Ambac‑Rail‑Thruster Pack** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 1,500 kg | `a65cb95726f0…` | [`llm_gen_waist_ordnance_047_b9b91c.glb`](models/parts/llm_gen_waist_ordnance_047_b9b91c.glb) |
+| `GXM-GEN-LEG-387` | **FA-78 Thunderbolt Full Armor Calf Propellant Array** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 1,850 kg | `9b87eba4fdad…` | [`llm_gen_leg_thrusters_047_7c15db.glb`](models/parts/llm_gen_leg_thrusters_047_7c15db.glb) |
+| `GXM-GEN-WPN-388` | **Exia Auxiliary Double Beam Glaive Kit** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 1,150 kg | `e05657d57775…` | [`llm_gen_aux_weapon_047_2d841a.glb`](models/parts/llm_gen_aux_weapon_047_2d841a.glb) |
+| `GXM-GEN-SHD-389` | **GN-001 Exia Spiked Knuckle Breacher Shield** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 1,200 kg | `e725fde88337…` | [`llm_gen_aux_shield_047_1e1bbe.glb`](models/parts/llm_gen_aux_shield_047_1e1bbe.glb) |
+| `GXM-GEN-DPK-390` | **ZGMF-X13A Providence DRAGOON Endurance Dorsal Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 2,850 kg | `70a14ed7bf64…` | [`llm_gen_dorsal_pack_047_70ff09.glb`](models/parts/llm_gen_dorsal_pack_047_70ff09.glb) |
+| `GXM-GEN-HED-391` | **RX-121-1 Gundam TR-1 Hazel Custom Reinforced Head Sensor** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 950 kg | `bfdbe2ae40a4…` | [`llm_gen_head_sensor_048_52c4ff.glb`](models/parts/llm_gen_head_sensor_048_52c4ff.glb) |
+| `GXM-GEN-CHS-392` | **RX-78NT-1 NT-1 Chest Mega-Emitter** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 1,200 kg | `db7ce826e1e7…` | [`llm_gen_chest_armor_048_eeb07f.glb`](models/parts/llm_gen_chest_armor_048_eeb07f.glb) |
+| `GXM-GEN-SHL-393` | **RX-93-ν2 Hi-ν Fin Funnel Recon Shoulder Pods** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 840 kg | `b0587b691042…` | [`llm_gen_shoulder_pods_048_f5d985.glb`](models/parts/llm_gen_shoulder_pods_048_f5d985.glb) |
