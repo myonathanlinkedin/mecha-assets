@@ -2,7 +2,7 @@
 
 > **Autonomous 3D Gundam-Like Mecha CAD Asset Store & 8-Zone Modular Manifest**  
 > **Live 3D WebGL Engineering Hangar:** [https://myonathanlinkedin.github.io/mecha.html](https://myonathanlinkedin.github.io/mecha.html)  
-> **Last Synchronized:** `2026-11-23 15:12 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `361`
+> **Last Synchronized:** `2026-11-23 16:05 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `363`
 
 ---
 
@@ -20,7 +20,7 @@ mecha-assets/
 
 ---
 
-## 🦾 8-Zone Full-Body Modular Parts Catalog (361 Non-Duplicate Assets)
+## 🦾 8-Zone Full-Body Modular Parts Catalog (363 Non-Duplicate Assets)
 
 | Serial | Part Name | Body Zone (`UHIS`) | Physical Adapter | Mass | SHA-256 | Binary GLB |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
@@ -385,3 +385,5 @@ mecha-assets/
 | `GXM-GEN-HED-359` | **MSZ-006 Zeta Gundam Head Sensor AWACS V‑Fin Crown** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 5,600 kg | `191ea118fb67…` | [`llm_gen_head_sensor_044_227e6e.glb`](models/parts/llm_gen_head_sensor_044_227e6e.glb) |
 | `GXM-GEN-CHS-360` | **MSZ-010 ZZ Gundam θ-Aero Intake Pectoral** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 1,850 kg | `53c3f1f70689…` | [`llm_gen_chest_armor_044_c79fbd.glb`](models/parts/llm_gen_chest_armor_044_c79fbd.glb) |
 | `GXM-GEN-SHL-361` | **RX-77-2 Guncannon Support Shoulder Pods** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 950 kg | `36655ab168b4…` | [`llm_gen_shoulder_pods_044_c413c4.glb`](models/parts/llm_gen_shoulder_pods_044_c413c4.glb) |
+| `GXM-GEN-WST-362` | **RX-0 Unicorn HP-13 Beam & Shield Pack** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 1,300 kg | `3f1fc0338373…` | [`llm_gen_waist_ordnance_044_8ce526.glb`](models/parts/llm_gen_waist_ordnance_044_8ce526.glb) |
+| `GXM-GEN-LEG-363` | **MS-18E Kämpfer Leg Thrusters – High‑Mobility Assault** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 1,500 kg | `bfe82be401ad…` | [`llm_gen_leg_thrusters_044_605acf.glb`](models/parts/llm_gen_leg_thrusters_044_605acf.glb) |
