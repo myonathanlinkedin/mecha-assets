@@ -2,7 +2,7 @@
 
 > **Autonomous 3D Gundam-Like Mecha CAD Asset Store & 8-Zone Modular Manifest**  
 > **Live 3D WebGL Engineering Hangar:** [https://myonathanlinkedin.github.io/mecha.html](https://myonathanlinkedin.github.io/mecha.html)  
-> **Last Synchronized:** `2026-11-23 05:56 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `301`
+> **Last Synchronized:** `2026-11-23 06:03 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `321`
 
 ---
 
@@ -20,7 +20,7 @@ mecha-assets/
 
 ---
 
-## 🦾 8-Zone Full-Body Modular Parts Catalog (301 Non-Duplicate Assets)
+## 🦾 8-Zone Full-Body Modular Parts Catalog (321 Non-Duplicate Assets)
 
 | Serial | Part Name | Body Zone (`UHIS`) | Physical Adapter | Mass | SHA-256 | Binary GLB |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
@@ -325,3 +325,23 @@ mecha-assets/
 | `GXM-GEN-LEG-299` | **GN-003 Gundam Kyrios Flight Leg Thruster Kit** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 1,200 kg | `5aa7559217f5…` | [`llm_gen_leg_thrusters_036_8f3134.glb`](models/parts/llm_gen_leg_thrusters_036_8f3134.glb) |
 | `GXM-GEN-WPN-300` | **RX-78-02 Gundam Hyper Bazooka Siege Magnum** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 4,200 kg | `e61778f9e83a…` | [`llm_gen_aux_weapon_036_f34830.glb`](models/parts/llm_gen_aux_weapon_036_f34830.glb) |
 | `GXM-GEN-SHD-301` | **Blitz Gundam Mirage I‑Field Forearm Shield** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 850 kg | `492ebbc0d7e2…` | [`llm_gen_aux_shield_036_66bb51.glb`](models/parts/llm_gen_aux_shield_036_66bb51.glb) |
+| `GXM-GEN-DPK-302` | **MSN-06S Sinanju Psycho-Frame Radome Stabilizer Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 650 kg | `15845be2c1cc…` | [`llm_gen_dorsal_pack_036_01972f.glb`](models/parts/llm_gen_dorsal_pack_036_01972f.glb) |
+| `GXM-GEN-HED-303` | **LM314V21 Victory 2 Gundam Core-Block Sniper Visor** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 850 kg | `d75680135ace…` | [`llm_gen_head_sensor_037_5165f7.glb`](models/parts/llm_gen_head_sensor_037_5165f7.glb) |
+| `GXM-GEN-CHS-304` | **ORX-005 Gaplant V‑Crest Transform Chest Plastron** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 1,300 kg | `041fb8815aed…` | [`llm_gen_chest_armor_037_4e458a.glb`](models/parts/llm_gen_chest_armor_037_4e458a.glb) |
+| `GXM-GEN-SHL-305` | **XM-X1 Jupiter Thruster Shoulder Pods** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 3,500 kg | `93836f9d8c2f…` | [`llm_gen_shoulder_pods_037_e805c0.glb`](models/parts/llm_gen_shoulder_pods_037_e805c0.glb) |
+| `GXM-GEN-WST-306` | **ZGMF-X09A Justice Fatum-00 HiMAT Waist Pack** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 1,850 kg | `1297a3bbf758…` | [`llm_gen_waist_ordnance_037_24fe2c.glb`](models/parts/llm_gen_waist_ordnance_037_24fe2c.glb) |
+| `GXM-GEN-LEG-307` | **Gaplant Aero‑Ram Thruster Greaves** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 1,200 kg | `dac56273246d…` | [`llm_gen_leg_thrusters_037_4fc8bd.glb`](models/parts/llm_gen_leg_thrusters_037_4fc8bd.glb) |
+| `GXM-GEN-WPN-308` | **RX-78GP02A Physalis Nuclear Warhammer** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 3,500 kg | `ff8cbf340d7e…` | [`llm_gen_aux_weapon_037_8a693f.glb`](models/parts/llm_gen_aux_weapon_037_8a693f.glb) |
+| `GXM-GEN-SHD-309` | **GN-002 Gundam Dynames GN Aero-Missile Shield** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 1,250 kg | `7c64d66e1f89…` | [`llm_gen_aux_shield_037_2f39e5.glb`](models/parts/llm_gen_aux_shield_037_2f39e5.glb) |
+| `GXM-GEN-DPK-310` | **00 Raiser Twin Drive Dorsal Endurance Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 1,200 kg | `20663ad4e738…` | [`llm_gen_dorsal_pack_037_f0ade9.glb`](models/parts/llm_gen_dorsal_pack_037_f0ade9.glb) |
+| `GXM-GEN-HED-311` | **ZGMF-X56S Impulse Gundam Head Sensor (Twin Sensor Ears)** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 800 kg | `38bacd9f511f…` | [`llm_gen_head_sensor_038_b330ea.glb`](models/parts/llm_gen_head_sensor_038_b330ea.glb) |
+| `GXM-GEN-CHS-312` | **XVX-016 Gundam Aerial Chest Vent & Gorget Plastron** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 1,300 kg | `973e928f63e2…` | [`llm_gen_chest_armor_038_6a9d6f.glb`](models/parts/llm_gen_chest_armor_038_6a9d6f.glb) |
+| `GXM-GEN-SHL-313` | **MBF-P02 Gundam Astray Red Frame Missile Shoulder Pods** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 1,200 kg | `b75162a8a154…` | [`llm_gen_shoulder_pods_038_5bc257.glb`](models/parts/llm_gen_shoulder_pods_038_5bc257.glb) |
+| `GXM-GEN-WST-314` | **RX-105 Ξ Gundam (HF) Waist Aero-Ambac Pack** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 1,850 kg | `64892f0d9004…` | [`llm_gen_waist_ordnance_038_cdb6d0.glb`](models/parts/llm_gen_waist_ordnance_038_cdb6d0.glb) |
+| `GXM-GEN-LEG-315` | **RMS-099 Rick Dias High‑Mobility Thruster Greaves** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 850 kg | `2aeec255a1ad…` | [`llm_gen_leg_thrusters_038_3c265b.glb`](models/parts/llm_gen_leg_thrusters_038_3c265b.glb) |
+| `GXM-GEN-WPN-316` | **MS-18E Kämpfer 'Einhauen' Rotary Assault Cannon** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 1,500 kg | `268d9add465e…` | [`llm_gen_aux_weapon_038_4982d1.glb`](models/parts/llm_gen_aux_weapon_038_4982d1.glb) |
+| `GXM-GEN-SHD-317` | **RX-93 ν Gundam Maelstrom I-Field Disc Buckler** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 850 kg | `5e5135d48705…` | [`llm_gen_aux_shield_038_6e18af.glb`](models/parts/llm_gen_aux_shield_038_6e18af.glb) |
+| `GXM-GEN-DPK-318` | **ZGMF-X42S Destiny Dorsal Radar-Cannon Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 3,600 kg | `f5ece6192582…` | [`llm_gen_dorsal_pack_038_4e098a.glb`](models/parts/llm_gen_dorsal_pack_038_4e098a.glb) |
+| `GXM-GEN-HED-319` | **RX-78GP03S Stamen Orchis Fire-Control Cranial Array** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 1,850 kg | `0096c66eb7c9…` | [`llm_gen_head_sensor_039_658e95.glb`](models/parts/llm_gen_head_sensor_039_658e95.glb) |
+| `GXM-GEN-CHS-320` | **FA-78-1 Full Armor Intake Pectoral** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 1,280 kg | `50659b5c544d…` | [`llm_gen_chest_armor_039_cc5979.glb`](models/parts/llm_gen_chest_armor_039_cc5979.glb) |
+| `GXM-GEN-SHL-321` | **YMS-15 Gyan Close-Combat Shoulder Pods** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 1,200 kg | `4c95a607819d…` | [`llm_gen_shoulder_pods_039_680dad.glb`](models/parts/llm_gen_shoulder_pods_039_680dad.glb) |
