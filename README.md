@@ -2,7 +2,7 @@
 
 > **Lean Public Binary Asset Store for the 3D Agentic Mecha WebGL Viewer**  
 > **Live 3D WebGL Engineering Hangar:** [https://myonathanlinkedin.github.io/mecha.html](https://myonathanlinkedin.github.io/mecha.html)  
-> **Last Synchronized:** `2026-11-24 08:59 UTC` • **Baselines:** `2` • **Active Modular GLBs:** `444`
+> **Last Synchronized:** `2026-11-24 09:02 UTC` • **Baselines:** `2` • **Active Modular GLBs:** `454`
 
 ---
 
@@ -21,7 +21,7 @@ mecha-assets/
 
 ---
 
-## 🦾 Active 8-Zone Modular Parts Catalog (444 Compiled GLBs)
+## 🦾 Active 8-Zone Modular Parts Catalog (454 Compiled GLBs)
 
 | Serial | Part Name | Body Zone (`UHIS`) | Physical Adapter | Mass | SHA-256 | Binary GLB |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
@@ -469,3 +469,13 @@ mecha-assets/
 | `GXM-GEN-WST-442` | **RGM-89S Stark Jegan Waist Missile & Thruster Pack** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 2,000 kg | `4650a3871f2c…` | [`llm_gen_waist_ordnance_054_008a5c.glb`](models/parts/llm_gen_waist_ordnance_054_008a5c.glb) |
 | `GXM-GEN-LEG-443` | **GN-003 Kyrios Flight-Mode Calf Booster Kit** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 1,850 kg | `e0584f2e770e…` | [`llm_gen_leg_thrusters_054_2e9f73.glb`](models/parts/llm_gen_leg_thrusters_054_2e9f73.glb) |
 | `GXM-GEN-WPN-444` | **RX-78-02 Auxiliary Beam Magnum Mk.III** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 1,200 kg | `f314087c2b36…` | [`llm_gen_aux_weapon_054_601e16.glb`](models/parts/llm_gen_aux_weapon_054_601e16.glb) |
+| `GXM-GEN-SHD-445` | **Sinanju HP‑07 Heavy Bunker Shield** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 3,500 kg | `59d37ada5f9a…` | [`llm_gen_aux_shield_054_a6c6a7.glb`](models/parts/llm_gen_aux_shield_054_a6c6a7.glb) |
+| `GXM-GEN-DPK-446` | **ZGMF-X10A Freedom Dorsal Shield & Weapon Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 1,500 kg | `37f39253bf78…` | [`llm_gen_dorsal_pack_054_0f5166.glb`](models/parts/llm_gen_dorsal_pack_054_0f5166.glb) |
+| `GXM-GEN-HED-447` | **XM-X1 Crossbone Gundam X-1 Jovian Gravity-Comp AWACS Crown** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 1,850 kg | `08d941022008…` | [`llm_gen_head_sensor_055_200222.glb`](models/parts/llm_gen_head_sensor_055_200222.glb) |
+| `GXM-GEN-CHS-448` | **Providence Phase‑Shift Reactor Pectoral** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 1,300 kg | `6305395e232c…` | [`llm_gen_chest_armor_055_dca07c.glb`](models/parts/llm_gen_chest_armor_055_dca07c.glb) |
+| `GXM-GEN-SHL-449` | **ASW-G-66 Kimaris Twin Beam Shoulder Pods** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 1,200 kg | `f053cafc196d…` | [`llm_gen_shoulder_pods_055_dd6a2b.glb`](models/parts/llm_gen_shoulder_pods_055_dd6a2b.glb) |
+| `GXM-GEN-WST-450` | **MS-18E Kämpfer 'Einhauen' Rapid-Strike Waist Pack** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 850 kg | `8861078cc50e…` | [`llm_gen_waist_ordnance_055_c40812.glb`](models/parts/llm_gen_waist_ordnance_055_c40812.glb) |
+| `GXM-GEN-LEG-451` | **ORX-005 Gaplant Aero-Stabilized Calf Thruster Kit** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 850 kg | `449c294b9df6…` | [`llm_gen_leg_thrusters_055_684fba.glb`](models/parts/llm_gen_leg_thrusters_055_684fba.glb) |
+| `GXM-GEN-WPN-452` | **RX-78-02 Gundam Pile Bunker Pommel Vernier Boost+Twin Guard Wings (Unico** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 3,100 kg | `d744377d5c37…` | [`llm_gen_aux_weapon_055_27f913.glb`](models/parts/llm_gen_aux_weapon_055_27f913.glb) |
+| `GXM-GEN-SHD-453` | **GAT-X207 Blitz Stealth Forearm Shield** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 1,200 kg | `a9af227624fb…` | [`llm_gen_aux_shield_055_787426.glb`](models/parts/llm_gen_aux_shield_055_787426.glb) |
+| `GXM-GEN-DPK-454` | **RX-178+FXA-05D Super Gundam Dorsal Docking Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 4,200 kg | `4e03c5506c93…` | [`llm_gen_dorsal_pack_055_cac731.glb`](models/parts/llm_gen_dorsal_pack_055_cac731.glb) |
