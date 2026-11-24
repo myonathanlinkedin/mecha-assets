@@ -88,7 +88,7 @@
       ]
     }
   ],
-  "last_synthesized_utc": "2026-11-24T07:42:19Z",
+  "last_synthesized_utc": "2026-11-24T08:08:16Z",
   "manifest_tier": "public_cdn_sanitized",
   "modular_parts": [
     {
@@ -1020,8 +1020,8 @@
         "format": "binary_gltf_glb",
         "asset_reference": {
           "relative_url": "models/parts/shoulder_missile_pauldron_pods.glb",
-          "sha256_hash": "016680c520e66e97d2be3536a88982b5cbe7a0f395a46e17a54702ab14b305d2",
-          "file_size_bytes": 182716,
+          "sha256_hash": "08d6c15302ab7f02b7618fb600cc6997598a6dc429067000e2876862a357cc25",
+          "file_size_bytes": 261628,
           "compression": "meshopt"
         },
         "bounding_box_aabb_mm": {
@@ -1593,20 +1593,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -54.15,
-            -3.677,
+            -53.5,
+            -3.54,
             -11.7
           ],
           "max": [
-            54.15,
+            53.5,
             11.25,
-            40.575
+            40.1
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_shoulder_rail_cannons.glb",
-          "sha256_hash": "123d27283c51e56124bd7e0233dd29616ea74fb3868928cf2d035df135083baf",
-          "file_size_bytes": 219336,
+          "sha256_hash": "cfb5e6a5f8533c75843888af956eccbdbcf945a0852227f00e138041fcf3e98c",
+          "file_size_bytes": 298496,
           "compression": "meshopt"
         }
       },
@@ -2343,20 +2343,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -58.699,
-            -16.144,
-            -16.078
+            -59.657,
+            -14.819,
+            -15.86
           ],
           "max": [
-            58.699,
-            27.76,
-            14.442
+            59.657,
+            27.013,
+            14.224
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_002_0efcae.glb",
-          "sha256_hash": "c7effd8f05dcd703b1bed6433bfe8c08edae8e6cffad6240c2fa8df2cd01d4d8",
-          "file_size_bytes": 308184,
+          "sha256_hash": "85d7823a09fc1db930556150b9ad193f92daa42ce18efc24d8525835acc84e49",
+          "file_size_bytes": 389280,
           "compression": "meshopt"
         }
       },
@@ -3325,7 +3325,7 @@
         "bounding_box_aabb_mm": {
           "min": [
             -56.491,
-            -3.677,
+            -3.54,
             -7.6
           ],
           "max": [
@@ -3336,8 +3336,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_003_73c32f.glb",
-          "sha256_hash": "37e768323a953d934bd0e3c8f6ecaf688057f7c97c8414ce6f85c015cb55e65f",
-          "file_size_bytes": 237908,
+          "sha256_hash": "a1d2516d9594d9ec8ceaa886e0ff4f72e990a5e81b73da6acb73bf3d5a066255",
+          "file_size_bytes": 317108,
           "compression": "meshopt"
         }
       },
@@ -4303,20 +4303,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -55.056,
-            -4.045,
+            -55.889,
+            -4.038,
             -11.064
           ],
           "max": [
-            55.056,
-            20.386,
+            55.889,
+            20.383,
             9.864
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_004_94ad25.glb",
-          "sha256_hash": "4d8a1f49660afa2433dff9df75dad372ce2fd0b671b59d5d4da3922eb5259b0f",
-          "file_size_bytes": 154584,
+          "sha256_hash": "de53a052ce5d51a2ee47e9b5244fecdbe27326b02d22ad9caf045b24295fca36",
+          "file_size_bytes": 233780,
           "compression": "meshopt"
         }
       },
@@ -5290,20 +5290,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -58.699,
-            -16.144,
-            -16.078
+            -59.657,
+            -14.819,
+            -15.86
           ],
           "max": [
-            58.699,
-            27.76,
-            14.442
+            59.657,
+            27.013,
+            14.224
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_010_af33d9.glb",
-          "sha256_hash": "0a3a58a2600530ef16c5def924c45ae671e19db0fb0a742f51b9c7f0bb0fc8f9",
-          "file_size_bytes": 308208,
+          "sha256_hash": "bb7639df08a9ce8ea969143c102651acebe35b4a8fda14e81b6bdf98ae299b6c",
+          "file_size_bytes": 389304,
           "compression": "meshopt"
         }
       },
@@ -6274,7 +6274,7 @@
         "bounding_box_aabb_mm": {
           "min": [
             -54.366,
-            -3.677,
+            -3.54,
             -8.402
           ],
           "max": [
@@ -6285,8 +6285,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_005_3945af.glb",
-          "sha256_hash": "b50993535eb9b584a1796ac9c64db4ad1f8eeb3d34777722cb37e6b55157d02f",
-          "file_size_bytes": 239304,
+          "sha256_hash": "3495ac0ab6798d049bf818c92f318a1140f3a3bb1f30f37bb8099816c01125f8",
+          "file_size_bytes": 318496,
           "compression": "meshopt"
         }
       },
@@ -7263,20 +7263,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -55.056,
-            -4.045,
+            -55.889,
+            -4.038,
             -14.065
           ],
           "max": [
-            55.056,
-            20.386,
+            55.889,
+            20.383,
             9.864
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_008_c6f4b0.glb",
-          "sha256_hash": "466c8cb33611cca4b39f94fa6b3b899b0b62bc3d901dd4c972d3903d6019ae6e",
-          "file_size_bytes": 220900,
+          "sha256_hash": "647515673cf9577d9bf8eb1001f54b3d301196cccd4887b881b070b0d02ebecb",
+          "file_size_bytes": 300096,
           "compression": "meshopt"
         }
       },
@@ -8244,7 +8244,7 @@
         "bounding_box_aabb_mm": {
           "min": [
             -57.435,
-            -3.677,
+            -3.54,
             -8.23
           ],
           "max": [
@@ -8255,8 +8255,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_011_f7a53f.glb",
-          "sha256_hash": "232f0ad0a28e2fdcae543bc900d7ded21f3c50afc3cb7a90e3eefe0888fbf7c4",
-          "file_size_bytes": 237928,
+          "sha256_hash": "95d5f6dee03283032f3cc67a1070731c2ec6c0c1172e2dcbb7e2a2ea128f1914",
+          "file_size_bytes": 317128,
           "compression": "meshopt"
         }
       },
@@ -9223,20 +9223,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -55.056,
-            -4.045,
+            -55.889,
+            -4.038,
             -11.064
           ],
           "max": [
-            55.056,
-            20.386,
+            55.889,
+            20.383,
             9.864
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_012_08d197.glb",
-          "sha256_hash": "c0f30d07590f5dfedb8dc4382d19b1b75b6edf2dc756d93314b87f08dc971ece",
-          "file_size_bytes": 154528,
+          "sha256_hash": "48bb30d28b9b2b38e54bcac792afb64e300ef814a7e912cc47bc98a7891784b9",
+          "file_size_bytes": 233724,
           "compression": "meshopt"
         }
       },
@@ -10205,20 +10205,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -58.699,
-            -16.144,
-            -16.078
+            -59.657,
+            -14.819,
+            -15.86
           ],
           "max": [
-            58.699,
-            27.76,
-            14.442
+            59.657,
+            27.013,
+            14.224
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_015_ea522d.glb",
-          "sha256_hash": "b68c5a3436580823c3feb0f0b40539af84bedde16849ea867c7af58539d5056f",
-          "file_size_bytes": 331132,
+          "sha256_hash": "979605023251cbcff95b5d010fc9e4d5b22e665367c8b95aa7570afe63f09873",
+          "file_size_bytes": 412232,
           "compression": "meshopt"
         }
       },
@@ -11184,7 +11184,7 @@
         "bounding_box_aabb_mm": {
           "min": [
             -55.862,
-            -3.677,
+            -3.54,
             -12.212
           ],
           "max": [
@@ -11195,8 +11195,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_017_3524ad.glb",
-          "sha256_hash": "204afe04f639ea31d221050b0658b6276fb74c1694a0433dbfadac1cdffceac8",
-          "file_size_bytes": 306152,
+          "sha256_hash": "a913141cc7e9dd419314e4be90c63c57f6b5fc2123a633266eb204fb7bbfedb3",
+          "file_size_bytes": 385352,
           "compression": "meshopt"
         }
       },
@@ -12161,20 +12161,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -58.699,
-            -16.144,
-            -16.078
+            -59.657,
+            -14.819,
+            -15.86
           ],
           "max": [
-            58.699,
-            27.76,
-            14.442
+            59.657,
+            27.013,
+            14.224
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_014_3a3c14.glb",
-          "sha256_hash": "a23362e4f6ef27794c81a321cdd453a34b3c4a6e780b12dda43c27d222119457",
-          "file_size_bytes": 328268,
+          "sha256_hash": "47d3aefdc3992badfb61d4860a6c76c9f5586b6f3d8e78fa26ad14a0d240bdc0",
+          "file_size_bytes": 409364,
           "compression": "meshopt"
         }
       },
@@ -13141,7 +13141,7 @@
         "bounding_box_aabb_mm": {
           "min": [
             -57.435,
-            -3.677,
+            -3.54,
             -8.23
           ],
           "max": [
@@ -13152,8 +13152,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_020_a07b53.glb",
-          "sha256_hash": "b05f2b8a0661f8aede25a3068e4e7a814a579f532c4b3287ff39e258e9cafa2b",
-          "file_size_bytes": 237944,
+          "sha256_hash": "bb23b75cbbf96a646faf7b4670ba5e24c35383082e5dc2954d62f1589759f40a",
+          "file_size_bytes": 317144,
           "compression": "meshopt"
         }
       },
@@ -14120,7 +14120,7 @@
         "bounding_box_aabb_mm": {
           "min": [
             -55.701,
-            -3.677,
+            -3.54,
             -14.065
           ],
           "max": [
@@ -14131,8 +14131,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_022_f0a3bd.glb",
-          "sha256_hash": "7446181d8032a5eb58686ef412319fa1708f4c1f9ab818925f8fdec98bc20ada",
-          "file_size_bytes": 305868,
+          "sha256_hash": "9a67fb95f2fde4616602c36ee2250c8f0ad9296c95795a74288cd7c16c28bfbc",
+          "file_size_bytes": 385060,
           "compression": "meshopt"
         }
       },
@@ -15103,7 +15103,7 @@
         "bounding_box_aabb_mm": {
           "min": [
             -57.435,
-            -3.677,
+            -3.54,
             -8.23
           ],
           "max": [
@@ -15114,8 +15114,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_023_206d63.glb",
-          "sha256_hash": "6127c4b3ef86ef778eeebdcc7a8b384c07f5e299b466514e1ae12b8dcad80e6a",
-          "file_size_bytes": 237976,
+          "sha256_hash": "038516f238104c98c2a7fc3250b2ca59398ea3256b85b6ecc23466d0a4961378",
+          "file_size_bytes": 317176,
           "compression": "meshopt"
         }
       },
@@ -16085,20 +16085,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -58.699,
-            -16.144,
-            -16.078
+            -59.657,
+            -14.819,
+            -15.86
           ],
           "max": [
-            58.699,
-            27.76,
-            14.442
+            59.657,
+            27.013,
+            14.224
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_025_4b4065.glb",
-          "sha256_hash": "e6d1011295192ded4715c64e52ae29f01f5e25f3c212c6c1decd04c45c079701",
-          "file_size_bytes": 308220,
+          "sha256_hash": "c8398597eeb4ff4419605cb8f1b171e4a2c74e433928708240e08ce7fad42881",
+          "file_size_bytes": 389316,
           "compression": "meshopt"
         }
       },
@@ -17079,7 +17079,7 @@
         "bounding_box_aabb_mm": {
           "min": [
             -55.701,
-            -3.677,
+            -3.54,
             -9.647
           ],
           "max": [
@@ -17090,8 +17090,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_024_e890a6.glb",
-          "sha256_hash": "3c7a5e1ba469960430fcbc62c33c07344f41bad2ec678fc6eecb82fb3767ef34",
-          "file_size_bytes": 239532,
+          "sha256_hash": "9c5ee970337c93194c97336c5b8475cd7f3a12fafd1b524176fe275038a374c7",
+          "file_size_bytes": 318724,
           "compression": "meshopt"
         }
       },
@@ -18060,20 +18060,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -55.056,
-            -4.045,
+            -55.889,
+            -4.038,
             -11.064
           ],
           "max": [
-            55.056,
-            20.386,
+            55.889,
+            20.383,
             9.864
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_032_bc400e.glb",
-          "sha256_hash": "5fafecfad7c016b9808eafd53ad8483a9d0f231df704d9f5d7ae6cbdc4e76607",
-          "file_size_bytes": 174556,
+          "sha256_hash": "7e4f31f7623a14f85ec267ec7c1b035c0eef98f89717aeaabf15a442b6c35530",
+          "file_size_bytes": 253752,
           "compression": "meshopt"
         }
       },
@@ -19051,7 +19051,7 @@
         "bounding_box_aabb_mm": {
           "min": [
             -55.256,
-            -3.677,
+            -3.54,
             -9.232
           ],
           "max": [
@@ -19062,8 +19062,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_034_8f9106.glb",
-          "sha256_hash": "972f59286ed1c783f98e02cf922f9316cb6b5fd144c978ceb04d242ed506a72f",
-          "file_size_bytes": 239356,
+          "sha256_hash": "c5b1a8b87e0a654b571a954fec00c206832498c5516631772e8b4a059c05343c",
+          "file_size_bytes": 318548,
           "compression": "meshopt"
         }
       },
@@ -20034,20 +20034,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -58.103,
-            -15.426,
-            -15.368
+            -59.018,
+            -13.864,
+            -15.16
           ],
           "max": [
-            58.103,
-            26.758,
-            13.752
+            59.018,
+            26.046,
+            13.544
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_037_2bd246.glb",
-          "sha256_hash": "6d16dd91d95171c0216ffcd22dff616269233cfe5d365e1d1ce92d2cb39dcdb7",
-          "file_size_bytes": 308208,
+          "sha256_hash": "375b3b1e9461495f116c43e490057dccad9a2d0fe4028c801fced308ce10af24",
+          "file_size_bytes": 390412,
           "compression": "meshopt"
         }
       },
@@ -21023,7 +21023,7 @@
         "bounding_box_aabb_mm": {
           "min": [
             -55.345,
-            -3.677,
+            -3.54,
             -9.315
           ],
           "max": [
@@ -21034,8 +21034,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_035_785bfd.glb",
-          "sha256_hash": "668cbf648e4d54487de5873694c92b9194e7276146af31d3dde28e95dffef902",
-          "file_size_bytes": 239492,
+          "sha256_hash": "0d2db4f81db8be6403dfdd87eb02975364ce3290c9488cf603a3cfb4c8f4f7c8",
+          "file_size_bytes": 318684,
           "compression": "meshopt"
         }
       },
@@ -22002,20 +22002,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -54.973,
-            -3.953,
+            -55.798,
+            -3.945,
             -10.968
           ],
           "max": [
-            54.973,
-            20.254,
+            55.798,
+            20.251,
             9.768
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_036_7182c9.glb",
-          "sha256_hash": "d3f7efd324a77fa61b6960a309a32d0e2e068496fa94b950fd1331a908544343",
-          "file_size_bytes": 174044,
+          "sha256_hash": "2af211a1c3bf1b3d707e5452a980355263a6530343bf47ad04d99e397244566b",
+          "file_size_bytes": 253256,
           "compression": "meshopt"
         }
       },
@@ -22995,7 +22995,7 @@
         "bounding_box_aabb_mm": {
           "min": [
             -55.345,
-            -3.677,
+            -3.54,
             -9.315
           ],
           "max": [
@@ -23006,8 +23006,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_038_9f8134.glb",
-          "sha256_hash": "75cb9fc1e45ffba028f784ecb58b67a01b7ace1af6afd23e08a8361d75dcbfb6",
-          "file_size_bytes": 239432,
+          "sha256_hash": "b80a55c1bfa2975ec9f81e556226312e7fc111952f94ae1bbc1ec3a810816454",
+          "file_size_bytes": 318624,
           "compression": "meshopt"
         }
       },
@@ -23978,20 +23978,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -54.641,
-            -3.677,
+            -55.435,
+            -3.574,
             -13.447
           ],
           "max": [
-            54.641,
-            19.726,
+            55.435,
+            19.723,
             9.384
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_039_e4a0d1.glb",
-          "sha256_hash": "a631d4d2a170317d84d52b0cd19227e52c43d3bb3d50dc0832f6ad71f8093ce8",
-          "file_size_bytes": 220292,
+          "sha256_hash": "b42b32ffe9c710eb8c3994f9f229f7061954d9031621ccac6551accd2eadcdf6",
+          "file_size_bytes": 299496,
           "compression": "meshopt"
         }
       },
@@ -24975,20 +24975,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -58.342,
-            -15.838,
-            -15.652
+            -59.274,
+            -14.246,
+            -15.44
           ],
           "max": [
-            58.342,
-            27.159,
-            14.028
+            59.274,
+            26.433,
+            13.816
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_040_abbeff.glb",
-          "sha256_hash": "7630c56601809f066c0806df3269ecc7dcecc9e4a80957520faeffdc3f9ce137",
-          "file_size_bytes": 308140,
+          "sha256_hash": "64507a0540c36bd99af9ad1fe7a8ac9360093a4ebea6968ff0304a1c2b64a20a",
+          "file_size_bytes": 389232,
           "compression": "meshopt"
         }
       },
@@ -25970,20 +25970,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -54.807,
-            -3.767,
+            -55.617,
+            -3.76,
             -10.776
           ],
           "max": [
-            54.807,
-            19.99,
+            55.617,
+            19.987,
             9.576
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_043_699b9b.glb",
-          "sha256_hash": "ce9dc7e87441172dd8dba1f699be03040544c4785a6756472be49dc91b0242fa",
-          "file_size_bytes": 173900,
+          "sha256_hash": "dd35463e3a5f0a9cc7497171fc7686503e3c26926472e6adfa0ed839ad5d2cf6",
+          "file_size_bytes": 253100,
           "compression": "meshopt"
         }
       },
@@ -26950,20 +26950,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -54.087,
-            -3.677,
+            -54.507,
+            -3.54,
             -8.79
           ],
           "max": [
-            54.087,
-            20.677,
+            54.507,
+            21.097,
             10.53
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_047_4324eb.glb",
-          "sha256_hash": "4e10c6f079f6426f5c2ccb010a6ffaa7187fa0ce8bf7b26f431bebf747a192c8",
-          "file_size_bytes": 208228,
+          "sha256_hash": "0f7477ca43602d014be8fce6e25a93fa00b941e6928beafb20c8fa39c99015c1",
+          "file_size_bytes": 332668,
           "compression": "meshopt"
         }
       },
@@ -27940,7 +27940,7 @@
         "bounding_box_aabb_mm": {
           "min": [
             -55.345,
-            -3.677,
+            -3.54,
             -9.315
           ],
           "max": [
@@ -27951,8 +27951,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_044_178e21.glb",
-          "sha256_hash": "7bd15a56c45184d68790be6a1377a95178bc9cde5ed952bbde5e38f808daed2b",
-          "file_size_bytes": 239480,
+          "sha256_hash": "c3732d46a7f158b0c3b7a947cb2f98aa73eb3edd0823737989e0f4c973b161de",
+          "file_size_bytes": 318672,
           "compression": "meshopt"
         }
       },
@@ -28929,20 +28929,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -54.724,
-            -3.677,
+            -55.526,
+            -3.667,
             -10.68
           ],
           "max": [
-            54.724,
-            19.858,
+            55.526,
+            19.855,
             9.48
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_041_3c0a77.glb",
-          "sha256_hash": "626907b513d9bcd4daa68926958b0cdabcb154e5704b6087d9eb96ced6b42b4d",
-          "file_size_bytes": 153956,
+          "sha256_hash": "50486c0af8da0a72277a605b10cda8f763b7ba598779a7ceebb21cea76504d62",
+          "file_size_bytes": 233156,
           "compression": "meshopt"
         }
       },
@@ -29675,7 +29675,7 @@
         "bounding_box_aabb_mm": {
           "min": [
             -57.121,
-            -3.677,
+            -3.54,
             -8.02
           ],
           "max": [
@@ -29686,8 +29686,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_045_bc349d.glb",
-          "sha256_hash": "b2e7642c5d2787dcaa2fbaf88b1214e1e5baa1cabea03fef7e260975db1af049",
-          "file_size_bytes": 238120,
+          "sha256_hash": "a1459cc28797cf60ee8bc96e4558e7834a0a91ed2f58162ad228ca0feddaf395",
+          "file_size_bytes": 317316,
           "compression": "meshopt"
         }
       },
@@ -30298,20 +30298,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -53.438,
-            -12.083,
-            -10.8
+            -55.267,
+            -10.4,
+            -11.0
           ],
           "max": [
-            53.438,
-            23.09,
-            9.6
+            55.267,
+            13.952,
+            9.8
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_048_f25589.glb",
-          "sha256_hash": "0baa4a0474703a1618fac0f415ea26647dd7274dc830123ec696c14c95fb98da",
-          "file_size_bytes": 276908,
+          "sha256_hash": "4b178b627eaf8cb9361144cec7c50b7f8adacb8ec0a3ba4888d2c5529ed8d5bf",
+          "file_size_bytes": 354664,
           "compression": "meshopt"
         }
       },
@@ -30670,20 +30670,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -57.573,
-            -3.677,
+            -57.993,
+            -3.54,
             -10.575
           ],
           "max": [
-            57.573,
-            21.906,
-            35.047
+            57.993,
+            22.326,
+            35.68
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_046_8e1677.glb",
-          "sha256_hash": "cea210dc3b943e0c44ea9c9c1b69e1bfaa7f004a87ee0a60c3ec3d7d1ffd9ebe",
-          "file_size_bytes": 186740,
+          "sha256_hash": "beae08ab310173ff6d94def11a96a8ab6feb40922d9517df63b22aee5ad2dbd4",
+          "file_size_bytes": 297928,
           "compression": "meshopt"
         }
       },
@@ -31036,20 +31036,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -54.165,
-            -3.677,
+            -54.589,
+            -3.54,
             -8.868
           ],
           "max": [
-            54.165,
-            20.814,
+            54.589,
+            21.238,
             10.636
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_049_de057b.glb",
-          "sha256_hash": "0b16dfa27a40720eba024ba48dab6a2a35447a980f278c12807922c33dcc76f1",
-          "file_size_bytes": 208404,
+          "sha256_hash": "5cb8f6fd81055480b3124d5caef3a6083b86571af85d840f7757c98730099726",
+          "file_size_bytes": 332884,
           "compression": "meshopt"
         }
       },
@@ -33874,8 +33874,8 @@
         "bounding_box_aabb_mm": {
           "min": [
             -55.862,
-            -3.677,
-            -7.3
+            -3.54,
+            -7.18
           ],
           "max": [
             55.862,
@@ -33885,8 +33885,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_034_fe3e2e.glb",
-          "sha256_hash": "7fcef65de2530da8a2ae7717468d10fe90bfb367e5f9b3cd10eb81c4eb144c02",
-          "file_size_bytes": 268648,
+          "sha256_hash": "7b0ac6da3566b3117f7f7394350656db047ef4d458498fdb0cf7e29ca96dac6d",
+          "file_size_bytes": 347848,
           "compression": "meshopt"
         }
       },
@@ -34730,20 +34730,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -54.107,
-            -13.71,
-            -11.718
+            -56.101,
+            -11.876,
+            -11.936
           ],
           "max": [
-            54.107,
-            24.634,
-            10.518
+            56.101,
+            14.667,
+            10.736
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_035_64de59.glb",
-          "sha256_hash": "a5e63c5a7438e1cbd7083a9b8ba0742d1e24e9415536cefb5b45a32b0028e3a2",
-          "file_size_bytes": 305004,
+          "sha256_hash": "66e8c5ebbb988b0898dfbe7fa2eeb7e88bec02ad38a4a9387383bc7cc5dd2211",
+          "file_size_bytes": 383996,
           "compression": "meshopt"
         }
       },
@@ -35713,20 +35713,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -57.684,
-            -3.677,
+            -58.108,
+            -3.54,
             -10.67
           ],
           "max": [
-            57.684,
-            22.058,
-            35.387
+            58.108,
+            22.482,
+            35.696
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_036_2d8a05.glb",
-          "sha256_hash": "52b3680c667603ada7f5f8190f21ac84a42882648834aa087344f4902fe70d63",
-          "file_size_bytes": 186844,
+          "sha256_hash": "a9f0f481b7e283e15320e36d96e54b011bf131177a23854aff8d14c95d34b785",
+          "file_size_bytes": 298008,
           "compression": "meshopt"
         }
       },
@@ -36707,20 +36707,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -54.399,
-            -3.677,
+            -54.835,
+            -3.54,
             -9.102
           ],
           "max": [
-            54.399,
-            21.225,
+            54.835,
+            21.661,
             10.954
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_037_e805c0.glb",
-          "sha256_hash": "d44049f50097d8b3b87055ec67bfe1177f5923d98408edfcb76fb338f7738a97",
-          "file_size_bytes": 208476,
+          "sha256_hash": "6dd8ef41f438e5c7d203592949d4d44e7deb3680af9503cad20804a439eb7593",
+          "file_size_bytes": 332888,
           "compression": "meshopt"
         }
       },
@@ -37692,20 +37692,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -58.342,
-            -15.838,
-            -15.652
+            -59.274,
+            -14.246,
+            -15.44
           ],
           "max": [
-            58.342,
-            27.159,
-            14.028
+            59.274,
+            26.433,
+            13.816
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_038_5bc257.glb",
-          "sha256_hash": "a47c485c6f34a7aee4e7c6b41efefb376f7b8938d5de7d03516e499bb1af412c",
-          "file_size_bytes": 357616,
+          "sha256_hash": "5a449578d520619bf1a4747f05d0aeb7a53aada80dce75749c364c33c791f0fd",
+          "file_size_bytes": 438708,
           "compression": "meshopt"
         }
       },
@@ -38681,20 +38681,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -54.107,
-            -13.71,
-            -11.718
+            -56.101,
+            -11.876,
+            -11.936
           ],
           "max": [
-            54.107,
-            24.634,
-            10.518
+            56.101,
+            14.667,
+            10.736
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_039_680dad.glb",
-          "sha256_hash": "67d38fdac2a8677ec27a574b24651c2f2df703ed5580c30d002c533df102c491",
-          "file_size_bytes": 304396,
+          "sha256_hash": "d40c58c0cdc749995862874501e5b0bb7469502bca5a2a7396617b750f463741",
+          "file_size_bytes": 383388,
           "compression": "meshopt"
         }
       },
@@ -39664,20 +39664,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -54.724,
-            -3.677,
+            -55.526,
+            -3.667,
             -10.68
           ],
           "max": [
-            54.724,
-            19.858,
+            55.526,
+            19.855,
             9.48
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_040_f05065.glb",
-          "sha256_hash": "de0953362e044b5329ae12147d2f156290b3d9ca7739294c9001019967ada947",
-          "file_size_bytes": 203276,
+          "sha256_hash": "416cbbd2514b777d3dd5ca6951eb5983679ae32ee2fa80dd352f19f3aa2993dd",
+          "file_size_bytes": 282476,
           "compression": "meshopt"
         }
       },
@@ -40669,20 +40669,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -56.361,
-            -3.677,
+            -56.737,
+            -3.54,
             -9.53
           ],
           "max": [
-            56.361,
-            20.232,
-            31.313
+            56.737,
+            20.608,
+            32.3
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_041_72324a.glb",
-          "sha256_hash": "38ae10351da059e651fc4837996bdd991b4db75e699ad3684c9594efdfe9ab20",
-          "file_size_bytes": 186856,
+          "sha256_hash": "6444e1db679b4eeb6ef92a7c40c9182815b7c9a7ec39d31156bc0601a0661b4e",
+          "file_size_bytes": 298028,
           "compression": "meshopt"
         }
       },
@@ -41656,20 +41656,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -53.23,
-            -3.677,
+            -53.606,
+            -3.54,
             -7.932
           ],
           "max": [
-            53.23,
-            19.172,
+            53.606,
+            19.548,
             9.364
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_042_a4bb57.glb",
-          "sha256_hash": "89e8e8633e6327040bf704507e81cd52269c47effeafbb488e2ed49c839db9b9",
-          "file_size_bytes": 229628,
+          "sha256_hash": "57b2214cec894e902e38704835ca3e8a1bff639623d980100759284cc7d2621b",
+          "file_size_bytes": 354072,
           "compression": "meshopt"
         }
       },
@@ -42634,20 +42634,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -58.103,
-            -15.426,
-            -15.368
+            -59.018,
+            -13.864,
+            -15.16
           ],
           "max": [
-            58.103,
-            26.758,
-            13.752
+            59.018,
+            26.046,
+            13.544
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_043_bc87af.glb",
-          "sha256_hash": "659096f452de7d18e13ea052a1d8e6649c333d58faa38600ec59efde030d9510",
-          "file_size_bytes": 359416,
+          "sha256_hash": "1dd210c269f6a9f63615b7f40a6a1938b01e073024557b1afc124f7b0d457340",
+          "file_size_bytes": 441620,
           "compression": "meshopt"
         }
       },
@@ -43632,20 +43632,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -52.992,
-            -10.998,
-            -10.188
+            -54.711,
+            -9.416,
+            -10.376
           ],
           "max": [
-            52.992,
-            22.06,
-            8.988
+            54.711,
+            13.474,
+            9.176
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_044_c413c4.glb",
-          "sha256_hash": "6e25fc8a50327a5c91821f48acc9e493e788b9d175b57fe509fbdd67c22c5c09",
-          "file_size_bytes": 326696,
+          "sha256_hash": "ec6670f856675ebf710b11ae06d7f549de373b274bb9a27a399347bebfb5edf3",
+          "file_size_bytes": 404508,
           "compression": "meshopt"
         }
       },
@@ -44613,20 +44613,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -57.022,
-            -3.677,
+            -57.422,
+            -3.54,
             -10.1
           ],
           "max": [
-            57.022,
-            21.145,
-            33.35
+            57.422,
+            21.545,
+            34.4
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_045_401776.glb",
-          "sha256_hash": "9d4908f1c89d1ca254d5607bcd7be7e4f234f83cd532cc2b9ca226f97218d21a",
-          "file_size_bytes": 188688,
+          "sha256_hash": "04cd848479486af8e46eb9c6d031d94d2a24dfe46e0007d380c4a022bf69d44e",
+          "file_size_bytes": 299832,
           "compression": "meshopt"
         }
       },
@@ -45602,20 +45602,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -53.23,
-            -3.677,
+            -53.606,
+            -3.54,
             -7.932
           ],
           "max": [
-            53.23,
-            19.172,
+            53.606,
+            19.548,
             9.364
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_046_25d4be.glb",
-          "sha256_hash": "bf430f27337dd733be50bab458c0cf2ba6a752aa640bec5573252e7212ad2ac3",
-          "file_size_bytes": 210104,
+          "sha256_hash": "5aa14c130c683cc849d553f5945d1e712f469e48442fe318f35426f0f5b56a2d",
+          "file_size_bytes": 334548,
           "compression": "meshopt"
         }
       },
@@ -46579,20 +46579,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -57.627,
-            -14.602,
-            -14.8
+            -58.506,
+            -13.1,
+            -14.6
           ],
           "max": [
-            57.627,
-            25.957,
-            13.2
+            58.506,
+            25.272,
+            13.0
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_047_142e5a.glb",
-          "sha256_hash": "3de7f2a5b20e938d81ed0cc8f44e388196b542aa9d493db4d1959d90f007ba9c",
-          "file_size_bytes": 358328,
+          "sha256_hash": "b4ece8424952a609b95e01bb38a54d0e9dbc03ab6ca9d7d9652da2fdf1149fe5",
+          "file_size_bytes": 439692,
           "compression": "meshopt"
         }
       },
@@ -47577,20 +47577,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -55.056,
-            -4.045,
+            -55.889,
+            -4.038,
             -11.064
           ],
           "max": [
-            55.056,
-            20.386,
+            55.889,
+            20.383,
             9.864
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_048_f5d985.glb",
-          "sha256_hash": "3e4b0dff5f46dee05612942054ac32fe9d0218489346ad98b6215ecf3387bbe8",
-          "file_size_bytes": 203504,
+          "sha256_hash": "b4cebbbb821426f9cda9a582995b39323090c170db88989e0e24806994674401",
+          "file_size_bytes": 282700,
           "compression": "meshopt"
         }
       },
@@ -48554,20 +48554,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -57.684,
-            -3.677,
+            -58.108,
+            -3.54,
             -13.694
           ],
           "max": [
-            57.684,
-            22.058,
-            35.387
+            58.108,
+            22.482,
+            35.696
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_049_fba0ac.glb",
-          "sha256_hash": "1f6b665a3d59378cf0d1e4384856325e3b857afe2ed379f719789faf7c07d3d2",
-          "file_size_bytes": 253988,
+          "sha256_hash": "60f58538eb8361a9a60bb4c9217ce9b45ca623c2c81c954fa50c24ec542cd955",
+          "file_size_bytes": 365168,
           "compression": "meshopt"
         }
       },
@@ -49540,20 +49540,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -54.399,
-            -3.677,
+            -54.835,
+            -3.54,
             -14.065
           ],
           "max": [
-            54.399,
-            21.225,
+            54.835,
+            21.661,
             10.954
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_050_f2d565.glb",
-          "sha256_hash": "cd200dc1cbef29f6f7ecc90729186815d95f89427f616699b8a5c9bb2fa61f3a",
-          "file_size_bytes": 276476,
+          "sha256_hash": "ee82dc77343c442c9b0862ef69d71cb419c9657c50fbf2c810f95f3d79e2730c",
+          "file_size_bytes": 400896,
           "compression": "meshopt"
         }
       },
@@ -50521,20 +50521,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -58.58,
-            -16.106,
-            -15.936
+            -59.53,
+            -14.628,
+            -15.72
           ],
           "max": [
-            58.58,
-            27.56,
-            14.304
+            59.53,
+            26.82,
+            14.088
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_051_9730ac.glb",
-          "sha256_hash": "a6eb8b51b3eab82608bc79b38d0a86b51ce17de7a6431ed810cea4a5105f9bdb",
-          "file_size_bytes": 356960,
+          "sha256_hash": "f2aca6a49a334981c61f807abea5cd04204f2f473c70c26e3db94f56ba8c9602",
+          "file_size_bytes": 438040,
           "compression": "meshopt"
         }
       },
@@ -51511,20 +51511,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -54.475,
-            -3.677,
+            -55.254,
+            -3.54,
             -10.392
           ],
           "max": [
-            54.475,
-            19.462,
+            55.254,
+            19.459,
             9.192
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_052_bc255c.glb",
-          "sha256_hash": "fa06b018df0c6e9f08445d49933c8cb7770378aace21cd0304d9ccbe8fb0da1b",
-          "file_size_bytes": 202956,
+          "sha256_hash": "b9df95c734a691d4e753c4e4b44be6eb132c458daf261a163ad1ff2403276640",
+          "file_size_bytes": 282168,
           "compression": "meshopt"
         }
       },
@@ -52496,20 +52496,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -53.697,
-            -3.677,
+            -54.097,
+            -3.54,
             -8.4
           ],
           "max": [
-            53.697,
-            19.993,
+            54.097,
+            20.393,
             10.0
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_053_a6455b.glb",
-          "sha256_hash": "20d3c7a6bc2907575ca7e313210ca86f4227f22fedda1977fc2553dfe99479e0",
-          "file_size_bytes": 229844,
+          "sha256_hash": "4a6637ec611858ac3c2e98699ecbeb9317a4c48097a6b0c0492c3986520d6091",
+          "file_size_bytes": 354244,
           "compression": "meshopt"
         }
       },
@@ -53485,20 +53485,20 @@
         "units": "millimeters",
         "bounding_box_aabb_mm": {
           "min": [
-            -53.23,
-            -3.677,
+            -53.606,
+            -3.54,
             -7.932
           ],
           "max": [
-            53.23,
-            19.172,
+            53.606,
+            19.548,
             9.364
           ]
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_054_c71015.glb",
-          "sha256_hash": "3f342757e37710f35a4fb2ef1fa56c64d243cceb6f51920ea3c23c01b67da0b3",
-          "file_size_bytes": 229420,
+          "sha256_hash": "e1f09fedbc36ca7ae0c42f2ac3ded38de55344392efd5be791b022d1a7315273",
+          "file_size_bytes": 353864,
           "compression": "meshopt"
         }
       },
