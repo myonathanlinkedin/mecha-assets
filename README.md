@@ -2,7 +2,7 @@
 
 > **Autonomous 3D Gundam-Like Mecha CAD Asset Store & 8-Zone Modular Manifest**  
 > **Live 3D WebGL Engineering Hangar:** [https://myonathanlinkedin.github.io/mecha.html](https://myonathanlinkedin.github.io/mecha.html)  
-> **Last Synchronized:** `2026-11-24 03:47 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `423`
+> **Last Synchronized:** `2026-11-24 05:02 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `433`
 
 ---
 
@@ -20,7 +20,7 @@ mecha-assets/
 
 ---
 
-## 🦾 8-Zone Full-Body Modular Parts Catalog (423 Non-Duplicate Assets)
+## 🦾 8-Zone Full-Body Modular Parts Catalog (433 Non-Duplicate Assets)
 
 | Serial | Part Name | Body Zone (`UHIS`) | Physical Adapter | Mass | SHA-256 | Binary GLB |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
@@ -447,3 +447,13 @@ mecha-assets/
 | `GXM-GEN-SHD-421` | **ZGMF-X24S Chaos MA-Mode Phase-Shift Ram Guard** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 1,850 kg | `5b5978a60c1f…` | [`llm_gen_aux_shield_051_15b197.glb`](models/parts/llm_gen_aux_shield_051_15b197.glb) |
 | `GXM-GEN-DPK-422` | **MSZ-006 Zeta Gundam Twin Rail Artillery Dorsal Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 1,300 kg | `1f8ac647358a…` | [`llm_gen_dorsal_pack_051_45bd52.glb`](models/parts/llm_gen_dorsal_pack_051_45bd52.glb) |
 | `GXM-GEN-HED-423` | **GAT-X102 Duel Gundam Head CIWS Sensor** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 800 kg | `62709385ea80…` | [`llm_gen_head_sensor_052_41df17.glb`](models/parts/llm_gen_head_sensor_052_41df17.glb) |
+| `GXM-GEN-CHS-424` | **Duel Gundam Phase‑Shift Chest Plastron** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 2,500 kg | `84cb9dbc0f9f…` | [`llm_gen_chest_armor_052_5c0347.glb`](models/parts/llm_gen_chest_armor_052_5c0347.glb) |
+| `GXM-GEN-SHL-425` | **MS-07B Gouf Cannon Assault Shoulder Pods** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 1,200 kg | `92dec23e2cf8…` | [`llm_gen_shoulder_pods_052_bc255c.glb`](models/parts/llm_gen_shoulder_pods_052_bc255c.glb) |
+| `GXM-GEN-WST-426` | **RX-0 Unicorn Gundam (Destroy) Anti-Newtype Waist Salvo Pack** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 1,850 kg | `5b1c22c6a154…` | [`llm_gen_waist_ordnance_052_03f63a.glb`](models/parts/llm_gen_waist_ordnance_052_03f63a.glb) |
+| `GXM-GEN-LEG-427` | **Hyaku Shiki HP‑24 Calf Thruster Kit** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 1,400 kg | `5cca005288a1…` | [`llm_gen_leg_thrusters_052_6e2077.glb`](models/parts/llm_gen_leg_thrusters_052_6e2077.glb) |
+| `GXM-GEN-WPN-428` | **RX-78-02 Auxiliary Tri-Barrel Rotary Cannon Kit** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 1,200 kg | `119078740e58…` | [`llm_gen_aux_weapon_052_64d01f.glb`](models/parts/llm_gen_aux_weapon_052_64d01f.glb) |
+| `GXM-GEN-SHD-429` | **RX-78NT-1 Gundam NT-1 Newtype Phase-Shift Forearm Shield** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 850 kg | `56ba93e8c3ae…` | [`llm_gen_aux_shield_052_20890c.glb`](models/parts/llm_gen_aux_shield_052_20890c.glb) |
+| `GXM-GEN-DPK-430` | **Tallgeese II Orbital Endurance Dorsal Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 1,800 kg | `b430ce270537…` | [`llm_gen_dorsal_pack_052_f142bd.glb`](models/parts/llm_gen_dorsal_pack_052_f142bd.glb) |
+| `GXM-GEN-HED-431` | **Tallgeese Head Sensor Array (HP-01)** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 800 kg | `4254d3340eca…` | [`llm_gen_head_sensor_053_90df09.glb`](models/parts/llm_gen_head_sensor_053_90df09.glb) |
+| `GXM-GEN-CHS-432` | **ASW-G-11 Gusion Rebake Versatile V-Crest Pectoral** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 850 kg | `35822264e811…` | [`llm_gen_chest_armor_053_2d5a7e.glb`](models/parts/llm_gen_chest_armor_053_2d5a7e.glb) |
+| `GXM-GEN-SHL-433` | **RX-77-2 Guncannon Heavy Artillery Shoulder Pods** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 950 kg | `ef93c767a77e…` | [`llm_gen_shoulder_pods_053_a6455b.glb`](models/parts/llm_gen_shoulder_pods_053_a6455b.glb) |
