@@ -2,7 +2,7 @@
 
 > **Autonomous 3D Gundam-Like Mecha CAD Asset Store & 8-Zone Modular Manifest**  
 > **Live 3D WebGL Engineering Hangar:** [https://myonathanlinkedin.github.io/mecha.html](https://myonathanlinkedin.github.io/mecha.html)  
-> **Last Synchronized:** `2026-11-24 06:42 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `433`
+> **Last Synchronized:** `2026-11-24 07:02 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `443`
 
 ---
 
@@ -20,7 +20,7 @@ mecha-assets/
 
 ---
 
-## 🦾 8-Zone Full-Body Modular Parts Catalog (433 Non-Duplicate Assets)
+## 🦾 8-Zone Full-Body Modular Parts Catalog (443 Non-Duplicate Assets)
 
 | Serial | Part Name | Body Zone (`UHIS`) | Physical Adapter | Mass | SHA-256 | Binary GLB |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
@@ -457,3 +457,13 @@ mecha-assets/
 | `GXM-GEN-HED-431` | **Tallgeese Head Sensor Array (HP-01)** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 800 kg | `5059160569b0…` | [`llm_gen_head_sensor_053_90df09.glb`](models/parts/llm_gen_head_sensor_053_90df09.glb) |
 | `GXM-GEN-CHS-432` | **ASW-G-11 Gusion Rebake Versatile V-Crest Pectoral** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 850 kg | `24839c1f6ee5…` | [`llm_gen_chest_armor_053_2d5a7e.glb`](models/parts/llm_gen_chest_armor_053_2d5a7e.glb) |
 | `GXM-GEN-SHL-433` | **RX-77-2 Guncannon Heavy Artillery Shoulder Pods** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 950 kg | `05d14892ffd8…` | [`llm_gen_shoulder_pods_053_a6455b.glb`](models/parts/llm_gen_shoulder_pods_053_a6455b.glb) |
+| `GXM-GEN-WST-434` | **XXXG-01H Heavyarms Waist Railgun Suppression Pack** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 3,500 kg | `d6cef302f841…` | [`llm_gen_waist_ordnance_053_bb0706.glb`](models/parts/llm_gen_waist_ordnance_053_bb0706.glb) |
+| `GXM-GEN-LEG-435` | **ZGMF-X10A Freedom Full-Burst Calf Booster Kit** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 1,850 kg | `6d84931f3c79…` | [`llm_gen_leg_thrusters_053_169f73.glb`](models/parts/llm_gen_leg_thrusters_053_169f73.glb) |
+| `GXM-GEN-WPN-436` | **RX-78-02 Auxiliary Plasma Scythe Kit** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 1,200 kg | `1301cd84bde6…` | [`llm_gen_aux_weapon_053_c3be6f.glb`](models/parts/llm_gen_aux_weapon_053_c3be6f.glb) |
+| `GXM-GEN-SHD-437` | **MSN-04 Sazabi Scissor Beam Underslung Vernier Pair (Zeon Olive Ace)** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 3,560 kg | `c7240c9704be…` | [`llm_gen_aux_shield_053_b3f54b.glb`](models/parts/llm_gen_aux_shield_053_b3f54b.glb) |
+| `GXM-GEN-DPK-438` | **RX-160S Byarlant Custom Endurance Propulsion Dorsal Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 850 kg | `a994aa0f360b…` | [`llm_gen_dorsal_pack_053_7eb104.glb`](models/parts/llm_gen_dorsal_pack_053_7eb104.glb) |
+| `GXM-GEN-HED-439` | **ASW-G-08 Barbatos Recon Head Sensor** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 1,200 kg | `a189a0012bec…` | [`llm_gen_head_sensor_054_a1c90c.glb`](models/parts/llm_gen_head_sensor_054_a1c90c.glb) |
+| `GXM-GEN-CHS-440` | **RX-78GP01 Zephyranthes Humanoid Sensor Pectoral** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 1,850 kg | `11ed9ca0f391…` | [`llm_gen_chest_armor_054_f1de50.glb`](models/parts/llm_gen_chest_armor_054_f1de50.glb) |
+| `GXM-GEN-SHL-441` | **Justice Gundam HiMAT Shoulder Pods** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 820 kg | `e14fd44ba104…` | [`llm_gen_shoulder_pods_054_c71015.glb`](models/parts/llm_gen_shoulder_pods_054_c71015.glb) |
+| `GXM-GEN-WST-442` | **RGM-89S Stark Jegan Waist Missile & Thruster Pack** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 2,000 kg | `4650a3871f2c…` | [`llm_gen_waist_ordnance_054_008a5c.glb`](models/parts/llm_gen_waist_ordnance_054_008a5c.glb) |
+| `GXM-GEN-LEG-443` | **GN-003 Kyrios Flight-Mode Calf Booster Kit** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 1,850 kg | `e0584f2e770e…` | [`llm_gen_leg_thrusters_054_2e9f73.glb`](models/parts/llm_gen_leg_thrusters_054_2e9f73.glb) |
