@@ -2,7 +2,7 @@
 
 > **Lean Public Binary Asset Store for the 3D Agentic Mecha WebGL Viewer**  
 > **Live 3D WebGL Engineering Hangar:** [https://myonathanlinkedin.github.io/mecha.html](https://myonathanlinkedin.github.io/mecha.html)  
-> **Last Synchronized:** `2026-11-24 08:34 UTC` • **Baselines:** `2` • **Active Modular GLBs:** `443`
+> **Last Synchronized:** `2026-11-24 08:59 UTC` • **Baselines:** `2` • **Active Modular GLBs:** `444`
 
 ---
 
@@ -21,7 +21,7 @@ mecha-assets/
 
 ---
 
-## 🦾 Active 8-Zone Modular Parts Catalog (443 Compiled GLBs)
+## 🦾 Active 8-Zone Modular Parts Catalog (444 Compiled GLBs)
 
 | Serial | Part Name | Body Zone (`UHIS`) | Physical Adapter | Mass | SHA-256 | Binary GLB |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
@@ -468,3 +468,4 @@ mecha-assets/
 | `GXM-GEN-SHL-441` | **Justice Gundam HiMAT Shoulder Pods** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 820 kg | `e1f09fedbc36…` | [`llm_gen_shoulder_pods_054_c71015.glb`](models/parts/llm_gen_shoulder_pods_054_c71015.glb) |
 | `GXM-GEN-WST-442` | **RGM-89S Stark Jegan Waist Missile & Thruster Pack** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 2,000 kg | `4650a3871f2c…` | [`llm_gen_waist_ordnance_054_008a5c.glb`](models/parts/llm_gen_waist_ordnance_054_008a5c.glb) |
 | `GXM-GEN-LEG-443` | **GN-003 Kyrios Flight-Mode Calf Booster Kit** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 1,850 kg | `e0584f2e770e…` | [`llm_gen_leg_thrusters_054_2e9f73.glb`](models/parts/llm_gen_leg_thrusters_054_2e9f73.glb) |
+| `GXM-GEN-WPN-444` | **RX-78-02 Auxiliary Beam Magnum Mk.III** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 1,200 kg | `f314087c2b36…` | [`llm_gen_aux_weapon_054_601e16.glb`](models/parts/llm_gen_aux_weapon_054_601e16.glb) |

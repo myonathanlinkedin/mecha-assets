@@ -2,7 +2,7 @@
   "version": "2.0.0",
   "asset_repository": "https://github.com/myonathanlinkedin/mecha-assets",
   "asset_cdn_base_url": "https://raw.githubusercontent.com/myonathanlinkedin/mecha-assets/main",
-  "last_synced": "2026-11-24T07:02:19.887170+00:00",
+  "last_synced": "2026-11-24T08:59:28.633627+00:00",
   "baselines": [
     {
       "id": "baseline_gundam_frame_v1",
@@ -88,7 +88,7 @@
       ]
     }
   ],
-  "last_synthesized_utc": "2026-11-24T08:34:35Z",
+  "last_synthesized_utc": "2026-11-24T08:59:28Z",
   "manifest_tier": "public_cdn_sanitized",
   "modular_parts": [
     {
@@ -53794,6 +53794,131 @@
         ],
         "topology_hash": "8ab73d6b881ac6a4",
         "composition_key": "heavy_gouf_flare_thruster_greaves+forward_knee_spike+outer_aero_stabilizer+exia_gn_cyan+g_41054c"
+      }
+    },
+    {
+      "part_id": "llm_gen_aux_weapon_054_601e16",
+      "blueprint_family": "llm_freeform_cad",
+      "serial_number": "GXM-GEN-WPN-444",
+      "name": "RX-78-02 Auxiliary Beam Magnum Mk.III",
+      "category": "weapon",
+      "primary_hardpoint": "HP-11",
+      "slot_group": "aux_weapon",
+      "weapon_grip_type": "firearm_pistol_grip",
+      "adapter_id": "ADP-HP11-WEAPON",
+      "entropy_seed": "54fd51d23fbaa909e641e9af04c928c7b1f2421f4df55a776c2e2162664f7a7a",
+      "synthesis_origin": "llm_cad_architect",
+      "llm_design_source": "web_grounded_groq_bandai_cad_v5_true_infinite",
+      "llm_blueprint_params": {
+        "mass_kg": 1200,
+        "thrust_kgf": 50000,
+        "reactor_draw_kw": 1200
+      },
+      "faction_compatibility": "universal_gundam_universe",
+      "compatible_hardpoints": [
+        "HP-11",
+        "HP-12"
+      ],
+      "structural_specs": {
+        "mass_kg": 1200,
+        "bom_computed_mass_kg": 1200,
+        "primary_material": "gundarium_alloy_gamma",
+        "center_of_mass": [
+          0.0,
+          48.0,
+          -18.0
+        ]
+      },
+      "hardpoints": [
+        {
+          "id": "HP-11",
+          "type": "uhis_trapezoidal_dovetail",
+          "position_mm": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "orientation_euler_deg": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "clearance_mm": 0.15
+        }
+      ],
+      "cad_mesh_definition": {
+        "format": "binary_gltf_glb",
+        "scale_ratio": "1:100",
+        "units": "millimeters",
+        "bounding_box_aabb_mm": {
+          "min": [
+            -3.488,
+            -5.015,
+            -1.2
+          ],
+          "max": [
+            3.488,
+            15.528,
+            75.33
+          ]
+        },
+        "asset_reference": {
+          "relative_url": "models/parts/llm_gen_aux_weapon_054_601e16.glb",
+          "sha256_hash": "f314087c2b3673349d28953316c53d32a98d052018d210a9517d641a7d26b6f8",
+          "file_size_bytes": 140088,
+          "compression": "meshopt"
+        }
+      },
+      "pbr_material": {
+        "color_hex": "#1a2530",
+        "roughness": 0.35,
+        "metalness": 0.85
+      },
+      "telemetry_and_lore": {
+        "operational_role": "Deploys high-energy beam magnum with integrated grenade launcher for versatile close‑to‑mid‑range fire support.",
+        "reactor_power_draw_kw": 1200,
+        "vernier_thrust_kgf": 50000
+      },
+      "reference_sources": [
+        {
+          "title": "RX-78-02 Gundam",
+          "url": "https://gundam.fandom.com/wiki/RX-78-02_Gundam",
+          "source": "Gundam Wiki",
+          "summary": "Its estimate generator output was from 1000&nbsp;kW to 1400&nbsp;kW, its target output was to be at least 150% of the RCX-76 . The operation tests of the RX-78-02, a prototype MS of the Earth Federation, were carried out in secret, but civilian Amuro Ray coincidentally became its pilot when Zeon Forces assaulted Side 7. The RX-78-02 utilizes its wide array of portable weapons such as its beam rifle and hyper bazooka. It also has fixed weaponry such as two shoulder magnums on the left shoulder, a gatling gun on the "
+        },
+        {
+          "title": "Gundam (fictional robot)",
+          "url": "https://en.wikipedia.org/wiki/Gundam_(fictional_robot)",
+          "source": "Wikipedia",
+          "summary": "The RX-78-2 Gundam (Japanese: RX-78-2 ガンダム, Hepburn: Āru Ekkusu Nanajū Hachi no Ni Gandamu) is a piloted mecha introduced in 1979 in Yoshiyuki Tomino's and Sunrise's anime series Mobile Suit Gundam. In the series, it is a prototype weapon used by the Earth Federation. The mecha ends up in the hands of Amuro Ray, the son of Tem Ray, who designed the Gundam. Amuro Ray goes on to pilot the mecha for the Earth Federation"
+        }
+      ],
+      "geometry_fingerprint": {
+        "name": "RX-78-02 Auxiliary Beam Magnum Mk.III",
+        "concept_slug": "rx78_02_aux_beam_magnum_extended",
+        "concept_tokens": [
+          "beam",
+          "extended",
+          "magnum"
+        ],
+        "component_count": 13,
+        "primitive_types": 2,
+        "primitive_counts": {
+          "box": 10,
+          "cylinder": 3
+        },
+        "aabb_size_mm": [
+          7.0,
+          20.5,
+          76.5
+        ],
+        "aabb_ratios": [
+          0.091,
+          0.268,
+          1.0
+        ],
+        "topology_hash": "375a86ed6b82ea91",
+        "composition_key": "anti_ship_sniper_railgun+extended_sniper_scope+underbarrel_grenade_launcher+sinanju_gloss_red+g_e241fc"
       }
     }
   ]
