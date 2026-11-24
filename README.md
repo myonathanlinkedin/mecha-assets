@@ -1,26 +1,27 @@
-# 🤖 mecha-assets — PUBLIC 3D GLTF/GLB ASSET CDN
+# 🤖 mecha-assets — PUBLIC 3D GLTF/GLB RUNTIME CDN
 
-> **Autonomous 3D Gundam-Like Mecha CAD Asset Store & 8-Zone Modular Manifest**  
+> **Lean Public Binary Asset Store for the 3D Agentic Mecha WebGL Viewer**  
 > **Live 3D WebGL Engineering Hangar:** [https://myonathanlinkedin.github.io/mecha.html](https://myonathanlinkedin.github.io/mecha.html)  
-> **Last Synchronized:** `2026-11-24 07:42 UTC` • **Baselines:** `2` • **Unique Modular Parts:** `443`
+> **Last Synchronized:** `2026-11-24 07:49 UTC` • **Baselines:** `2` • **Active Modular GLBs:** `443`
 
 ---
 
-## 📦 Repository Structure
+## 📦 Public CDN Structure (Compiled Runtime Assets Only)
 
 ```
 mecha-assets/
 ├── data/
-│   └── mecha_catalog.json              # Authoritative SHA-256 verified 3D catalog manifest
+│   └── mecha_catalog.json              # Sanitized lightweight runtime manifest (no internal blueprints)
+├── textures/                           # Baked WebP PBR studio maps & decal atlas
 └── models/
-    ├── baselines/                      # Smooth Auto-Normal Hero & Rival Movable Frames (.glb)
-    ├── enemies/                        # Zeon & Neo-Zeon Mono-Eye Mobile Suits (Zaku-II, Gouf, Sazabi)
-    └── parts/                          # 8-Zone Full-Body Gunpla Snap-Fit Adapters & Modular Parts (.glb)
+    ├── baselines/                      # Compiled Hero & Rival Movable Frames (.glb)
+    ├── enemies/                        # Compiled Antagonist Mobile Suits (.glb)
+    └── parts/                          # Compiled 8-Zone Modular Snap-Fit Parts (.glb)
 ```
 
 ---
 
-## 🦾 8-Zone Full-Body Modular Parts Catalog (443 Non-Duplicate Assets)
+## 🦾 Active 8-Zone Modular Parts Catalog (443 Compiled GLBs)
 
 | Serial | Part Name | Body Zone (`UHIS`) | Physical Adapter | Mass | SHA-256 | Binary GLB |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
