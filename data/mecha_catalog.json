@@ -2,7 +2,7 @@
   "version": "2.0.0",
   "asset_repository": "https://github.com/myonathanlinkedin/mecha-assets",
   "asset_cdn_base_url": "https://raw.githubusercontent.com/myonathanlinkedin/mecha-assets/main",
-  "last_synced": "2026-11-25T05:01:41.258697+00:00",
+  "last_synced": "2026-11-25T05:08:09.956177+00:00",
   "baselines": [
     {
       "id": "baseline_gundam_frame_v1",
@@ -46,8 +46,8 @@
         "HP-25",
         "HP-26"
       ],
-      "glb_sha256": "1aeab3c4ae2acf7ed4ea78cfd6fb184b268ff5fc74813fd68ae407c0fcd38045",
-      "glb_size_bytes": 1841636
+      "glb_sha256": "bbc54b0ebc4073c7ec97c04cbef6ff028b443591a6540660682c230ff96c5856",
+      "glb_size_bytes": 1839184
     },
     {
       "id": "baseline_rival_heavy_frame_v1",
@@ -90,7 +90,7 @@
       ]
     }
   ],
-  "last_synthesized_utc": "2026-11-25T05:01:41Z",
+  "last_synthesized_utc": "2026-11-25T05:08:09Z",
   "manifest_tier": "public_cdn_sanitized",
   "modular_parts": [
     {
@@ -4416,8 +4416,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_004_94ad25.glb",
-          "sha256_hash": "06720f8ff60945728afb3a325fb9978b9457d59c8140dd8b9eeecdfa3f867560",
-          "file_size_bytes": 191984,
+          "sha256_hash": "f4775045635c89c2be113e531ba9b451712f1b973f3fb10e211d50e4b90d429a",
+          "file_size_bytes": 187524,
           "compression": "meshopt"
         }
       },
@@ -4467,8 +4467,8 @@
         "topology_hash": "77a32a8cf7068f39",
         "composition_key": "spiked_assault_ram_pauldrons+upper_missile_cap+full_armor_tactical"
       },
-      "glb_sha256": "06720f8ff60945728afb3a325fb9978b9457d59c8140dd8b9eeecdfa3f867560",
-      "glb_size_bytes": 191984,
+      "glb_sha256": "f4775045635c89c2be113e531ba9b451712f1b973f3fb10e211d50e4b90d429a",
+      "glb_size_bytes": 187524,
       "subsystem_count": 18
     },
     {
@@ -7430,8 +7430,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_008_c6f4b0.glb",
-          "sha256_hash": "dc4173af60431197d15dbc5acc631e0c9811f7ed788f2fc13cb3612aa2515179",
-          "file_size_bytes": 266108,
+          "sha256_hash": "199be6c6ef87106708d207516a2e6e52d1e5a2c834062f04ee975c009434d987",
+          "file_size_bytes": 261648,
           "compression": "meshopt"
         }
       },
@@ -7485,8 +7485,8 @@
         "topology_hash": "d698da2617aa843b",
         "composition_key": "spiked_assault_ram_pauldrons+rear_surge_vernier+char_crimson"
       },
-      "glb_sha256": "dc4173af60431197d15dbc5acc631e0c9811f7ed788f2fc13cb3612aa2515179",
-      "glb_size_bytes": 266108,
+      "glb_sha256": "199be6c6ef87106708d207516a2e6e52d1e5a2c834062f04ee975c009434d987",
+      "glb_size_bytes": 261648,
       "subsystem_count": 26
     },
     {
@@ -9426,8 +9426,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_012_08d197.glb",
-          "sha256_hash": "94fb5798883f09c1a9fdd1a8acdddfa44781a6e95f07b5d1f70951b60f16f9ac",
-          "file_size_bytes": 191928,
+          "sha256_hash": "cb062b227b23cafac1cd5e04f402fd924bf3ba078052337c9ed9ff52d2a9a865",
+          "file_size_bytes": 187468,
           "compression": "meshopt"
         }
       },
@@ -9479,8 +9479,8 @@
         "topology_hash": "4ac5a69c83708ae3",
         "composition_key": "spiked_assault_ram_pauldrons+none+titans_mk2"
       },
-      "glb_sha256": "94fb5798883f09c1a9fdd1a8acdddfa44781a6e95f07b5d1f70951b60f16f9ac",
-      "glb_size_bytes": 191928,
+      "glb_sha256": "cb062b227b23cafac1cd5e04f402fd924bf3ba078052337c9ed9ff52d2a9a865",
+      "glb_size_bytes": 187468,
       "subsystem_count": 18
     },
     {
@@ -18431,8 +18431,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_032_bc400e.glb",
-          "sha256_hash": "e10361928151e035be24db8d4f151b0803bf2ddd304c53a9cf2604d1f000d5f5",
-          "file_size_bytes": 211956,
+          "sha256_hash": "08c163281136ceb23cd236abafb3e289bc5090c63583a65b138a75c3b5b37e9f",
+          "file_size_bytes": 207496,
           "compression": "meshopt"
         }
       },
@@ -18485,8 +18485,8 @@
         "topology_hash": "e4f3f810154bd02a",
         "composition_key": "spiked_assault_ram_pauldrons+forward_sensor_pod+nu_vanguard"
       },
-      "glb_sha256": "e10361928151e035be24db8d4f151b0803bf2ddd304c53a9cf2604d1f000d5f5",
-      "glb_size_bytes": 211956,
+      "glb_sha256": "08c163281136ceb23cd236abafb3e289bc5090c63583a65b138a75c3b5b37e9f",
+      "glb_size_bytes": 207496,
       "subsystem_count": 20
     },
     {
@@ -22448,8 +22448,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_036_7182c9.glb",
-          "sha256_hash": "ccc169f0f7bb31ce1f74bff46289ac3b0f90de2b17868141a9e5b3ae8bf2a58e",
-          "file_size_bytes": 211464,
+          "sha256_hash": "e4f535b742225616a98271e4662c0755e6c23a3c81381b36338ecb15a12908b9",
+          "file_size_bytes": 206944,
           "compression": "meshopt"
         }
       },
@@ -22503,8 +22503,8 @@
         "topology_hash": "0961bb77177f1c2f",
         "composition_key": "spiked_assault_ram_pauldrons+forward_sensor_pod+rear_surge_vernier+zeon_olive_ace+acc_gunmetal@s1.0800"
       },
-      "glb_sha256": "ccc169f0f7bb31ce1f74bff46289ac3b0f90de2b17868141a9e5b3ae8bf2a58e",
-      "glb_size_bytes": 211464,
+      "glb_sha256": "e4f535b742225616a98271e4662c0755e6c23a3c81381b36338ecb15a12908b9",
+      "glb_size_bytes": 206944,
       "subsystem_count": 20
     },
     {
@@ -24460,8 +24460,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_039_e4a0d1.glb",
-          "sha256_hash": "89d97d09d9dab8619c263a0a8665cb4806de1386558bf28581fe68713d2dde0b",
-          "file_size_bytes": 265500,
+          "sha256_hash": "90aed02a83829e88efdb5540af5172bf73f00ef0d1c966810b346b621423776b",
+          "file_size_bytes": 260956,
           "compression": "meshopt"
         }
       },
@@ -24515,8 +24515,8 @@
         "topology_hash": "73ae5cb04405106b",
         "composition_key": "spiked_assault_ram_pauldrons+rear_surge_vernier+upper_missile_cap+zeon_olive_ace+acc_gold@s1.0400"
       },
-      "glb_sha256": "89d97d09d9dab8619c263a0a8665cb4806de1386558bf28581fe68713d2dde0b",
-      "glb_size_bytes": 265500,
+      "glb_sha256": "90aed02a83829e88efdb5540af5172bf73f00ef0d1c966810b346b621423776b",
+      "glb_size_bytes": 260956,
       "subsystem_count": 26
     },
     {
@@ -26488,8 +26488,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_043_699b9b.glb",
-          "sha256_hash": "dcfc78fc475726dd54c2e32dc3b3f4a5a09f54f56c89ad163ca50e1f22d945df",
-          "file_size_bytes": 211304,
+          "sha256_hash": "1b6a7dca26687cce046dd7d4e7e6cbb23549f3c8d3fe9dcbbcd5f7f0d614f9ef",
+          "file_size_bytes": 206880,
           "compression": "meshopt"
         }
       },
@@ -26542,8 +26542,8 @@
         "topology_hash": "db7c0be9da3bf789",
         "composition_key": "spiked_assault_ram_pauldrons+forward_sensor_pod+upper_missile_cap+zeon_olive_ace+acc_gold@s1.0600"
       },
-      "glb_sha256": "dcfc78fc475726dd54c2e32dc3b3f4a5a09f54f56c89ad163ca50e1f22d945df",
-      "glb_size_bytes": 211304,
+      "glb_sha256": "1b6a7dca26687cce046dd7d4e7e6cbb23549f3c8d3fe9dcbbcd5f7f0d614f9ef",
+      "glb_size_bytes": 206880,
       "subsystem_count": 20
     },
     {
@@ -29504,8 +29504,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_041_3c0a77.glb",
-          "sha256_hash": "a873ff2537bbd5e94c4f4fd8e76d40f84ac84789111eaede64705eec8cce9364",
-          "file_size_bytes": 191368,
+          "sha256_hash": "76192e8060ad43b6dcb58adeffeae93693a8efdbcfa48ca35850801887aa4550",
+          "file_size_bytes": 186764,
           "compression": "meshopt"
         }
       },
@@ -29558,8 +29558,8 @@
         "topology_hash": "217819cad57c161d",
         "composition_key": "spiked_assault_ram_pauldrons+outer_shield_winglet+upper_missile_cap+zeon_olive_ace+acc_red@s1.0500"
       },
-      "glb_sha256": "a873ff2537bbd5e94c4f4fd8e76d40f84ac84789111eaede64705eec8cce9364",
-      "glb_size_bytes": 191368,
+      "glb_sha256": "76192e8060ad43b6dcb58adeffeae93693a8efdbcfa48ca35850801887aa4550",
+      "glb_size_bytes": 186764,
       "subsystem_count": 18
     },
     {
@@ -40437,8 +40437,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_040_f05065.glb",
-          "sha256_hash": "063c7bf2e67d739254421e6b8d6dfed10b44889f7681843b3fcb91566fbbd8fd",
-          "file_size_bytes": 240792,
+          "sha256_hash": "16fd6c6ddf89c14597400fc02a5586c1ab9d0fe10c77ad1af2c6dd3ad036c908",
+          "file_size_bytes": 236192,
           "compression": "meshopt"
         }
       },
@@ -40497,8 +40497,8 @@
         "topology_hash": "678d4ff2311a29e3",
         "composition_key": "spiked_assault_ram_pauldrons+forward_sensor_pod+rear_surge_vernier+upper_missile_cap+kampfer_midnight+acc_gold+g_ff61bf@s1.0500"
       },
-      "glb_sha256": "063c7bf2e67d739254421e6b8d6dfed10b44889f7681843b3fcb91566fbbd8fd",
-      "glb_size_bytes": 240792,
+      "glb_sha256": "16fd6c6ddf89c14597400fc02a5586c1ab9d0fe10c77ad1af2c6dd3ad036c908",
+      "glb_size_bytes": 236192,
       "subsystem_count": 24
     },
     {
@@ -48494,8 +48494,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_048_f5d985.glb",
-          "sha256_hash": "a89f3a656b1f9581429950c42afb07a536f17ad7a6646146e12d5e26812d53a9",
-          "file_size_bytes": 240940,
+          "sha256_hash": "545b89ee3d396a1957a827b0df769b66bcea713b9a239480dd95339d7981d82c",
+          "file_size_bytes": 236480,
           "compression": "meshopt"
         }
       },
@@ -48547,8 +48547,8 @@
         "topology_hash": "b26d299ffccf7431",
         "composition_key": "spiked_assault_ram_pauldrons+forward_sensor_pod+rear_surge_vernier+wing_zero_pearl+g_49d715"
       },
-      "glb_sha256": "a89f3a656b1f9581429950c42afb07a536f17ad7a6646146e12d5e26812d53a9",
-      "glb_size_bytes": 240940,
+      "glb_sha256": "545b89ee3d396a1957a827b0df769b66bcea713b9a239480dd95339d7981d82c",
+      "glb_size_bytes": 236480,
       "subsystem_count": 24
     },
     {
@@ -52500,8 +52500,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_052_bc255c.glb",
-          "sha256_hash": "24baaba6dc220e066af271bf1581f7246cc32b002f61aaa48f19efc2594e2e96",
-          "file_size_bytes": 240408,
+          "sha256_hash": "f6026fc1952c5876dfa1ca4ed2eb396aaef69c357155f53b7d800326f163abcb",
+          "file_size_bytes": 235776,
           "compression": "meshopt"
         }
       },
@@ -52553,8 +52553,8 @@
         "topology_hash": "aac4a70d2c7f820c",
         "composition_key": "spiked_assault_ram_pauldrons+forward_sensor_pod+rear_surge_vernier+gouf_cobalt+acc_cobalt+g_6fbb98@s1.0200"
       },
-      "glb_sha256": "24baaba6dc220e066af271bf1581f7246cc32b002f61aaa48f19efc2594e2e96",
-      "glb_size_bytes": 240408,
+      "glb_sha256": "f6026fc1952c5876dfa1ca4ed2eb396aaef69c357155f53b7d800326f163abcb",
+      "glb_size_bytes": 235776,
       "subsystem_count": 24
     },
     {
@@ -56524,8 +56524,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_056_e47967.glb",
-          "sha256_hash": "9c67075ceb15b0a6e9004065f5bda84820113438d06b56b0ccd40f778252b700",
-          "file_size_bytes": 240864,
+          "sha256_hash": "9974b9739b4954b6ba3880ec538b272c09c652c6e92703095c8f5a6a27abd137",
+          "file_size_bytes": 236404,
           "compression": "meshopt"
         }
       },
@@ -56576,7 +56576,10 @@
         ],
         "topology_hash": "fe75602231ead527",
         "composition_key": "spiked_assault_ram_pauldrons+forward_sensor_pod+rear_surge_vernier+destiny_phantom+g_9a4cdb"
-      }
+      },
+      "glb_sha256": "9974b9739b4954b6ba3880ec538b272c09c652c6e92703095c8f5a6a27abd137",
+      "glb_size_bytes": 236404,
+      "subsystem_count": 24
     },
     {
       "part_id": "llm_gen_waist_ordnance_056_4a6c5d",
@@ -59500,8 +59503,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_059_3b2bbb.glb",
-          "sha256_hash": "6c4e604c315e91306a8067e55f3bb12a1e0892f31ea9c4de49df016d4a0153b4",
-          "file_size_bytes": 314952,
+          "sha256_hash": "fdcbae44b0876c0b8569f12e2595d9241b5e388e6b2bed159fb58d86909a9a59",
+          "file_size_bytes": 310492,
           "compression": "meshopt"
         }
       },
@@ -59553,7 +59556,10 @@
         ],
         "topology_hash": "b911d5581871431a",
         "composition_key": "spiked_assault_ram_pauldrons+forward_sensor_pod+rear_surge_vernier+banshee_obsidian+g_a0f772"
-      }
+      },
+      "glb_sha256": "fdcbae44b0876c0b8569f12e2595d9241b5e388e6b2bed159fb58d86909a9a59",
+      "glb_size_bytes": 310492,
+      "subsystem_count": 32
     },
     {
       "part_id": "llm_gen_waist_ordnance_059_7bade9",
