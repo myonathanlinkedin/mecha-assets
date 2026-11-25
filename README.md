@@ -2,7 +2,7 @@
 
 > **Lean Public Binary Asset Store for the 3D Agentic Mecha WebGL Viewer**  
 > **Live 3D WebGL Engineering Hangar:** [https://myonathanlinkedin.github.io/mecha.html](https://myonathanlinkedin.github.io/mecha.html)  
-> **Last Synchronized:** `2026-11-25 11:56 UTC` • **Baselines:** `2` • **Active Modular GLBs:** `574`
+> **Last Synchronized:** `2026-11-25 13:02 UTC` • **Baselines:** `2` • **Active Modular GLBs:** `584`
 
 ---
 
@@ -21,7 +21,7 @@ mecha-assets/
 
 ---
 
-## 🦾 Active 8-Zone Modular Parts Catalog (574 Compiled GLBs)
+## 🦾 Active 8-Zone Modular Parts Catalog (584 Compiled GLBs)
 
 | Serial | Part Name | Body Zone (`UHIS`) | Physical Adapter | Mass | SHA-256 | Binary GLB |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
@@ -599,3 +599,13 @@ mecha-assets/
 | `GXM-GEN-WPN-572` | **RX-78-02 Auxiliary Beam Sniper Mk.IV** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 2,100 kg | `194af793aa37…` | [`llm_gen_aux_weapon_070_dc5c1d.glb`](models/parts/llm_gen_aux_weapon_070_dc5c1d.glb) |
 | `GXM-GEN-SHD-573` | **XXXG-01SR Sandrock Desert Breacher Buckler** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 1,850 kg | `9231a4c76d58…` | [`llm_gen_aux_shield_070_53554f.glb`](models/parts/llm_gen_aux_shield_070_53554f.glb) |
 | `GXM-GEN-DPK-574` | **RX-93-ν2 Hi-ν Fin‑Funnel Dorsal Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 950 kg | `1ac2f4e4f195…` | [`llm_gen_dorsal_pack_070_c9763b.glb`](models/parts/llm_gen_dorsal_pack_070_c9763b.glb) |
+| `GXM-GEN-HED-575` | **00 Gundam AWACS Crown Kit** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 950 kg | `5c8c1d18d28f…` | [`llm_gen_head_sensor_071_789543.glb`](models/parts/llm_gen_head_sensor_071_789543.glb) |
+| `GXM-GEN-CHS-576` | **MSM-07 Z'Gok Advanced Chest Armor** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 1,800 kg | `bdd366017f4e…` | [`llm_gen_chest_armor_071_879469.glb`](models/parts/llm_gen_chest_armor_071_879469.glb) |
+| `GXM-GEN-SHL-577` | **GN-005 Virtue GN Cannon Shoulder Pods** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 2,000 kg | `337da5044e12…` | [`llm_gen_shoulder_pods_071_bb2232.glb`](models/parts/llm_gen_shoulder_pods_071_bb2232.glb) |
+| `GXM-GEN-WST-578` | **XXXG-01H Heavyarms Waist Suppression Cluster** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 1,850 kg | `f65668684ec1…` | [`llm_gen_waist_ordnance_071_9c84f2.glb`](models/parts/llm_gen_waist_ordnance_071_9c84f2.glb) |
+| `GXM-GEN-LEG-579` | **MS-07B Gouf Jet‑Assault Calf Thruster Kit** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 850 kg | `631347b5a43c…` | [`llm_gen_leg_thrusters_071_db3329.glb`](models/parts/llm_gen_leg_thrusters_071_db3329.glb) |
+| `GXM-GEN-WPN-580` | **RX-78-02 Auxiliary Hyper Bazooka Mace** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 1,850 kg | `cf74658b984e…` | [`llm_gen_aux_weapon_071_875de3.glb`](models/parts/llm_gen_aux_weapon_071_875de3.glb) |
+| `GXM-GEN-SHD-581` | **Chaos Gundam MA Mode Scissor Beam Aux Shield** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 1,200 kg | `3e5d4b363d91…` | [`llm_gen_aux_shield_071_82aaea.glb`](models/parts/llm_gen_aux_shield_071_82aaea.glb) |
+| `GXM-GEN-DPK-582` | **GAT-X105+AQM/E-X03 Launcher Strike Dorsal Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 4,850 kg | `4560cb38081c…` | [`llm_gen_dorsal_pack_071_deb1b7.glb`](models/parts/llm_gen_dorsal_pack_071_deb1b7.glb) |
+| `GXM-GEN-HED-583` | **GAT‑X102 Duel Gundam Phase‑Shift Head Sensor** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 950 kg | `81cf88535cde…` | [`llm_gen_head_sensor_072_5f3dae.glb`](models/parts/llm_gen_head_sensor_072_5f3dae.glb) |
+| `GXM-GEN-CHS-584` | **GAT-X102 Duel Gundam Igelstellung CIWS Pectoral** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 1,850 kg | `a0880095ca8c…` | [`llm_gen_chest_armor_072_6c49ab.glb`](models/parts/llm_gen_chest_armor_072_6c49ab.glb) |
