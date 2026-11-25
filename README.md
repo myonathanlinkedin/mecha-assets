@@ -2,7 +2,7 @@
 
 > **Lean Public Binary Asset Store for the 3D Agentic Mecha WebGL Viewer**  
 > **Live 3D WebGL Engineering Hangar:** [https://myonathanlinkedin.github.io/mecha.html](https://myonathanlinkedin.github.io/mecha.html)  
-> **Last Synchronized:** `2026-11-25 01:02 UTC` • **Baselines:** `2` • **Active Modular GLBs:** `524`
+> **Last Synchronized:** `2026-11-25 03:02 UTC` • **Baselines:** `2` • **Active Modular GLBs:** `534`
 
 ---
 
@@ -21,7 +21,7 @@ mecha-assets/
 
 ---
 
-## 🦾 Active 8-Zone Modular Parts Catalog (524 Compiled GLBs)
+## 🦾 Active 8-Zone Modular Parts Catalog (534 Compiled GLBs)
 
 | Serial | Part Name | Body Zone (`UHIS`) | Physical Adapter | Mass | SHA-256 | Binary GLB |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
@@ -549,3 +549,13 @@ mecha-assets/
 | `GXM-GEN-WST-522` | **MSZ-006 Zeta Gundam Transformable Waist Beam & Ambac Pack** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 820 kg | `a1f00aebdcb5…` | [`llm_gen_waist_ordnance_064_797733.glb`](models/parts/llm_gen_waist_ordnance_064_797733.glb) |
 | `GXM-GEN-LEG-523` | **RX-78-02 Side-7 Evacuation Ram Booster Kit** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 850 kg | `2f85d4446bbb…` | [`llm_gen_leg_thrusters_064_3f5725.glb`](models/parts/llm_gen_leg_thrusters_064_3f5725.glb) |
 | `GXM-GEN-WPN-524` | **RX-78-02 Auxiliary Magnum Grenade Launcher Kit** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 780 kg | `b0c7db992fee…` | [`llm_gen_aux_weapon_064_a921a1.glb`](models/parts/llm_gen_aux_weapon_064_a921a1.glb) |
+| `GXM-GEN-SHD-525` | **XVX-016 Aerial Aero-Shield Mk.II** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 1,100 kg | `75d58a4d2c91…` | [`llm_gen_aux_shield_064_9d6e41.glb`](models/parts/llm_gen_aux_shield_064_9d6e41.glb) |
+| `GXM-GEN-DPK-526` | **ASW-G-08 Barbatos Power Reactor Dorsal Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 1,200 kg | `16e1cb4dd25b…` | [`llm_gen_dorsal_pack_064_ca7865.glb`](models/parts/llm_gen_dorsal_pack_064_ca7865.glb) |
+| `GXM-GEN-HED-527` | **GN-002 Dynames Precision Recon Crown** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 950 kg | `dac1eaeaaeaf…` | [`llm_gen_head_sensor_065_b2b584.glb`](models/parts/llm_gen_head_sensor_065_b2b584.glb) |
+| `GXM-GEN-CHS-528` | **RX-0 FA Unicorn Psycho-Frame Vented Pectoral** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 1,850 kg | `54bea00ba07a…` | [`llm_gen_chest_armor_065_0216ae.glb`](models/parts/llm_gen_chest_armor_065_0216ae.glb) |
+| `GXM-GEN-SHL-529` | **Stark Jegan Anti-Ship Missile Shoulder Pods** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 1,300 kg | `cb2bb37d1b35…` | [`llm_gen_shoulder_pods_065_a0ed48.glb`](models/parts/llm_gen_shoulder_pods_065_a0ed48.glb) |
+| `GXM-GEN-WST-530` | **FA-78-1 Magnet-Coat Hip Salvo & Ambac Cluster** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 1,850 kg | `90847cbbd5f1…` | [`llm_gen_waist_ordnance_065_e4c1f7.glb`](models/parts/llm_gen_waist_ordnance_065_e4c1f7.glb) |
+| `GXM-GEN-LEG-531` | **RX-104FF Penelope Fixed-Flight Calf Thruster Kit** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 950 kg | `74ea7abd62da…` | [`llm_gen_leg_thrusters_065_2cb094.glb`](models/parts/llm_gen_leg_thrusters_065_2cb094.glb) |
+| `GXM-GEN-WPN-532` | **RX-78-02 Auxiliary Kinetic Lance Mk.II** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 820 kg | `36493accebc2…` | [`llm_gen_aux_weapon_065_287ebd.glb`](models/parts/llm_gen_aux_weapon_065_287ebd.glb) |
+| `GXM-GEN-SHD-533` | **ZGMF-X20A Strike Freedom Aero Shield** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 1,200 kg | `0147909881c6…` | [`llm_gen_aux_shield_065_63f3e8.glb`](models/parts/llm_gen_aux_shield_065_63f3e8.glb) |
+| `GXM-GEN-DPK-534` | **GN-0000 00 Gundam Twin Drive Sync Dorsal Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 1,850 kg | `49a96d8ce612…` | [`llm_gen_dorsal_pack_065_9813ed.glb`](models/parts/llm_gen_dorsal_pack_065_9813ed.glb) |
