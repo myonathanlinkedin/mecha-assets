@@ -2,7 +2,7 @@
   "version": "2.0.0",
   "asset_repository": "https://github.com/myonathanlinkedin/mecha-assets",
   "asset_cdn_base_url": "https://raw.githubusercontent.com/myonathanlinkedin/mecha-assets/main",
-  "last_synced": "2026-11-25T07:20:29.003454+00:00",
+  "last_synced": "2026-11-25T07:40:06.248779+00:00",
   "baselines": [
     {
       "id": "baseline_gundam_frame_v1",
@@ -90,7 +90,7 @@
       ]
     }
   ],
-  "last_synthesized_utc": "2026-11-25T07:20:29Z",
+  "last_synthesized_utc": "2026-11-25T07:40:06Z",
   "manifest_tier": "public_cdn_sanitized",
   "modular_parts": [
     {
@@ -2173,8 +2173,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_003_b3c692.glb",
-          "sha256_hash": "88af44a461f732fe3cb55381b6f30481cc8e7ef16af961f08ceaccbb9f35396a",
-          "file_size_bytes": 89544,
+          "sha256_hash": "0ff846ee285726a8e97da94ed309894e0ec71626fd32524585f4f3ce3334a108",
+          "file_size_bytes": 86324,
           "compression": "meshopt"
         }
       },
@@ -2225,7 +2225,10 @@
         ],
         "topology_hash": "a8955517af98e200",
         "composition_key": "asymmetric_monocle_targeter+twin_vfin_antennae+federation_rx"
-      }
+      },
+      "glb_sha256": "0ff846ee285726a8e97da94ed309894e0ec71626fd32524585f4f3ce3334a108",
+      "glb_size_bytes": 86324,
+      "subsystem_count": 13
     },
     {
       "part_id": "llm_gen_chest_armor_002_712be8",
@@ -2543,8 +2546,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_002_34fc8c.glb",
-          "sha256_hash": "6f5938df57394105661f166f9fb51bace586e8845edf61839e39760083c83976",
-          "file_size_bytes": 279532,
+          "sha256_hash": "25832c8f3d8fa7d69e3f7d246f9be73f923bc9aab276b55d3f9c0359e8aca0b0",
+          "file_size_bytes": 281992,
           "compression": "meshopt"
         }
       },
@@ -2596,8 +2599,8 @@
         "topology_hash": "618f84d9947cf80b",
         "composition_key": "quad_xwing_aero_binder+quad_micro_verniers+federation_rx"
       },
-      "glb_sha256": "6f5938df57394105661f166f9fb51bace586e8845edf61839e39760083c83976",
-      "glb_size_bytes": 279532,
+      "glb_sha256": "25832c8f3d8fa7d69e3f7d246f9be73f923bc9aab276b55d3f9c0359e8aca0b0",
+      "glb_size_bytes": 281992,
       "subsystem_count": 41
     },
     {
@@ -3173,8 +3176,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_005_0d3a7f.glb",
-          "sha256_hash": "77e625d76e3ee248a896b7751e71a600c97bc998319e90e994d58393c02a8236",
-          "file_size_bytes": 110816,
+          "sha256_hash": "4e048c764c646b4b2b8a63407b8980d004a712fcdfd6647f690ac5ad6daf1864",
+          "file_size_bytes": 106416,
           "compression": "meshopt"
         }
       },
@@ -3224,8 +3227,8 @@
         "topology_hash": "de40f10c0e7d41cf",
         "composition_key": "horned_oni_assault_crest+twin_sensor_ears+full_armor_tactical"
       },
-      "glb_sha256": "77e625d76e3ee248a896b7751e71a600c97bc998319e90e994d58393c02a8236",
-      "glb_size_bytes": 110816,
+      "glb_sha256": "4e048c764c646b4b2b8a63407b8980d004a712fcdfd6647f690ac5ad6daf1864",
+      "glb_size_bytes": 106416,
       "subsystem_count": 15
     },
     {
@@ -4176,8 +4179,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_004_dbb39b.glb",
-          "sha256_hash": "ff7d127c43ff11e3a81195c8cc6d64177239e87721a76605f105e17b543b4f45",
-          "file_size_bytes": 150640,
+          "sha256_hash": "65fa63839d5df9524255eb339d714a95e1fe199f7e9aeb1c670d1b0bfa6e5fdc",
+          "file_size_bytes": 151968,
           "compression": "meshopt"
         }
       },
@@ -4229,7 +4232,10 @@
         ],
         "topology_hash": "20f83427af449269",
         "composition_key": "quad_blade_awacs_crown+twin_sensor_ears+federation_rx"
-      }
+      },
+      "glb_sha256": "65fa63839d5df9524255eb339d714a95e1fe199f7e9aeb1c670d1b0bfa6e5fdc",
+      "glb_size_bytes": 151968,
+      "subsystem_count": 20
     },
     {
       "part_id": "llm_gen_chest_armor_005_8a2d16",
@@ -5050,8 +5056,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_leg_thrusters_004_090fbb.glb",
-          "sha256_hash": "63a5ba0d7d9408a5564383b5631c5442c4f66c03d13a52ed26a7b6c9c39d24d3",
-          "file_size_bytes": 293776,
+          "sha256_hash": "2ae95891aad687ff8c2dc0fa60d775e4c12c616bda157a85b4ef84fda984f847",
+          "file_size_bytes": 294060,
           "compression": "meshopt"
         }
       },
@@ -5107,8 +5113,8 @@
         "topology_hash": "a497708c4cbcaf0c",
         "composition_key": "aero_fin_interceptor_greaves+dual_ankle_verniers+char_crimson"
       },
-      "glb_sha256": "63a5ba0d7d9408a5564383b5631c5442c4f66c03d13a52ed26a7b6c9c39d24d3",
-      "glb_size_bytes": 293776,
+      "glb_sha256": "2ae95891aad687ff8c2dc0fa60d775e4c12c616bda157a85b4ef84fda984f847",
+      "glb_size_bytes": 294060,
       "subsystem_count": 32
     },
     {
@@ -5179,8 +5185,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_007_41005d.glb",
-          "sha256_hash": "55d0d528985badfb37eb50d425eb6a3bd4a14c2f708607e8e0983084599602b9",
-          "file_size_bytes": 87284,
+          "sha256_hash": "87621ff3af517e83c4bf98d7d6ee9dcdb94909760f4fc62cf402e1b8c9b7e5df",
+          "file_size_bytes": 88116,
           "compression": "meshopt"
         }
       },
@@ -5232,8 +5238,8 @@
         "topology_hash": "de67694eff6caaab",
         "composition_key": "sniper_optical_visor_hood+twin_vfin_antennae+full_armor_tactical"
       },
-      "glb_sha256": "55d0d528985badfb37eb50d425eb6a3bd4a14c2f708607e8e0983084599602b9",
-      "glb_size_bytes": 87284,
+      "glb_sha256": "87621ff3af517e83c4bf98d7d6ee9dcdb94909760f4fc62cf402e1b8c9b7e5df",
+      "glb_size_bytes": 88116,
       "subsystem_count": 15
     },
     {
@@ -6183,8 +6189,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_009_6e10b6.glb",
-          "sha256_hash": "8ba7daeb4ef6e1b616ff5340b9157aef7f3793f4eceb1e9d49f7faf79b691173",
-          "file_size_bytes": 150748,
+          "sha256_hash": "3c3f3b8c0173b1ec453e256661a5a724398d1f9f85cab05c991320e685a454e4",
+          "file_size_bytes": 152288,
           "compression": "meshopt"
         }
       },
@@ -6237,7 +6243,10 @@
         ],
         "topology_hash": "6e6bd3c419bd7cde",
         "composition_key": "quad_blade_awacs_crown+dual_temple_vulcans+federation_rx"
-      }
+      },
+      "glb_sha256": "3c3f3b8c0173b1ec453e256661a5a724398d1f9f85cab05c991320e685a454e4",
+      "glb_size_bytes": 152288,
+      "subsystem_count": 20
     },
     {
       "part_id": "llm_gen_chest_armor_006_908d4a",
@@ -7195,8 +7204,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_006_7309b1.glb",
-          "sha256_hash": "1b9e79aabb2f4c0c5c60f8b09fe27fd5bd01abe0b3b4657f28d07e8aa3d3c924",
-          "file_size_bytes": 73588,
+          "sha256_hash": "c2f45aa81bc2bb483803660bab02a4a40ca21b0226430624dc854bb4df7b1dda",
+          "file_size_bytes": 74448,
           "compression": "meshopt"
         }
       },
@@ -7247,8 +7256,8 @@
         "topology_hash": "b2182783f4904398",
         "composition_key": "sniper_optical_visor_hood+none+titans_mk2"
       },
-      "glb_sha256": "1b9e79aabb2f4c0c5c60f8b09fe27fd5bd01abe0b3b4657f28d07e8aa3d3c924",
-      "glb_size_bytes": 73588,
+      "glb_sha256": "c2f45aa81bc2bb483803660bab02a4a40ca21b0226430624dc854bb4df7b1dda",
+      "glb_size_bytes": 74448,
       "subsystem_count": 13
     },
     {
@@ -8199,8 +8208,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_008_c2f219.glb",
-          "sha256_hash": "75d75f50ce19b7e0fc1d32f9d9d33407d3d4267cef16bc301eb33b5738cbf727",
-          "file_size_bytes": 139648,
+          "sha256_hash": "ce9af4da87e6703d584e7326c447a5703f845327e81faa86afa44faff34f731c",
+          "file_size_bytes": 141192,
           "compression": "meshopt"
         }
       },
@@ -8252,7 +8261,10 @@
         ],
         "topology_hash": "24121fc818d11944",
         "composition_key": "quad_blade_awacs_crown+rear_cooling_crest+federation_rx"
-      }
+      },
+      "glb_sha256": "ce9af4da87e6703d584e7326c447a5703f845327e81faa86afa44faff34f731c",
+      "glb_size_bytes": 141192,
+      "subsystem_count": 19
     },
     {
       "part_id": "llm_gen_chest_armor_010_e150e5",
@@ -9071,8 +9083,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_leg_thrusters_011_f3a6e5.glb",
-          "sha256_hash": "8e0628ecfa625942fb4bc1f2a7c03e7ef7ad633efd47ad25be389950c41eb35e",
-          "file_size_bytes": 219804,
+          "sha256_hash": "5df0b4bb9a79738a6b9c28d93bd5514390fa5cfb86daef37894c0e8a289da4c0",
+          "file_size_bytes": 220088,
           "compression": "meshopt"
         }
       },
@@ -9124,8 +9136,8 @@
         "topology_hash": "12cccc061550d068",
         "composition_key": "aero_fin_interceptor_greaves+none+full_armor_tactical"
       },
-      "glb_sha256": "8e0628ecfa625942fb4bc1f2a7c03e7ef7ad633efd47ad25be389950c41eb35e",
-      "glb_size_bytes": 219804,
+      "glb_sha256": "5df0b4bb9a79738a6b9c28d93bd5514390fa5cfb86daef37894c0e8a289da4c0",
+      "glb_size_bytes": 220088,
       "subsystem_count": 24
     },
     {
@@ -9196,8 +9208,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_010_e63a23.glb",
-          "sha256_hash": "7fea9dc6fd57391bf4522450fd012a6f1719a17627d9311047e4df10e265526e",
-          "file_size_bytes": 96856,
+          "sha256_hash": "fd29c4d94206669401263b69d49619548e53d52a394fb44b2c522c06b0aa75b2",
+          "file_size_bytes": 93636,
           "compression": "meshopt"
         }
       },
@@ -9249,7 +9261,10 @@
         ],
         "topology_hash": "54ebce065d8bf428",
         "composition_key": "asymmetric_monocle_targeter+twin_sensor_ears+char_crimson"
-      }
+      },
+      "glb_sha256": "fd29c4d94206669401263b69d49619548e53d52a394fb44b2c522c06b0aa75b2",
+      "glb_size_bytes": 93636,
+      "subsystem_count": 13
     },
     {
       "part_id": "llm_gen_chest_armor_009_47a45d",
@@ -10200,8 +10215,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_012_53a6c4.glb",
-          "sha256_hash": "57364ce4772953babd1131e723573b8ca2aa80b7b67236e8fa418443e8c6f35e",
-          "file_size_bytes": 103264,
+          "sha256_hash": "5219ffa1cf50cb4c68fa96dbb4bc1513da277b2c94f3bd65c4f9e511c0c0cf9d",
+          "file_size_bytes": 99004,
           "compression": "meshopt"
         }
       },
@@ -10253,8 +10268,8 @@
         "topology_hash": "12126d25ea74b571",
         "composition_key": "horned_oni_assault_crest+twin_vfin_antennae+char_crimson"
       },
-      "glb_sha256": "57364ce4772953babd1131e723573b8ca2aa80b7b67236e8fa418443e8c6f35e",
-      "glb_size_bytes": 103264,
+      "glb_sha256": "5219ffa1cf50cb4c68fa96dbb4bc1513da277b2c94f3bd65c4f9e511c0c0cf9d",
+      "glb_size_bytes": 99004,
       "subsystem_count": 15
     },
     {
@@ -10574,8 +10589,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_012_749904.glb",
-          "sha256_hash": "92708c60c74f8701a7abf2897c69cfd035ac0eb1b91168a172d33a4e09fa7c57",
-          "file_size_bytes": 253032,
+          "sha256_hash": "18ceb7458f34a5a39900d2c2b29521ab8c0effa9c583c98a2f8548342cb21d7d",
+          "file_size_bytes": 255920,
           "compression": "meshopt"
         }
       },
@@ -10625,8 +10640,8 @@
         "topology_hash": "34fd0d64f8c8b444",
         "composition_key": "quad_xwing_aero_binder+none+full_armor_tactical"
       },
-      "glb_sha256": "92708c60c74f8701a7abf2897c69cfd035ac0eb1b91168a172d33a4e09fa7c57",
-      "glb_size_bytes": 253032,
+      "glb_sha256": "18ceb7458f34a5a39900d2c2b29521ab8c0effa9c583c98a2f8548342cb21d7d",
+      "glb_size_bytes": 255920,
       "subsystem_count": 39
     },
     {
@@ -11202,8 +11217,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_011_eb56f4.glb",
-          "sha256_hash": "cb64eeb0921fc35b5aa348ea9e8f275d477088d2026eaf16c6b3751060e5a9b3",
-          "file_size_bytes": 96964,
+          "sha256_hash": "78b486d2173e5ba95c7c3923e7a750f4e0af6b35a60752abf4e0671cf929b2c2",
+          "file_size_bytes": 93744,
           "compression": "meshopt"
         }
       },
@@ -11255,7 +11270,10 @@
         ],
         "topology_hash": "5d90dc51436cff3e",
         "composition_key": "asymmetric_monocle_targeter+dual_temple_vulcans+federation_rx"
-      }
+      },
+      "glb_sha256": "78b486d2173e5ba95c7c3923e7a750f4e0af6b35a60752abf4e0671cf929b2c2",
+      "glb_size_bytes": 93744,
+      "subsystem_count": 13
     },
     {
       "part_id": "llm_gen_chest_armor_014_0ec77b",
@@ -12077,8 +12095,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_leg_thrusters_008_c89d96.glb",
-          "sha256_hash": "7bb9cdffca1abde97f7a10d7c2537b0197e31686515e81a460713b32e1772740",
-          "file_size_bytes": 219780,
+          "sha256_hash": "bdfed18614abe08c6be0cb0ef26a445e38c12ff3da3044b9e9d9f4ecd4523880",
+          "file_size_bytes": 220064,
           "compression": "meshopt"
         }
       },
@@ -12132,8 +12150,8 @@
         "topology_hash": "fc0ba627afc07559",
         "composition_key": "aero_fin_interceptor_greaves+outer_aero_stabilizer+full_armor_tactical"
       },
-      "glb_sha256": "7bb9cdffca1abde97f7a10d7c2537b0197e31686515e81a460713b32e1772740",
-      "glb_size_bytes": 219780,
+      "glb_sha256": "bdfed18614abe08c6be0cb0ef26a445e38c12ff3da3044b9e9d9f4ecd4523880",
+      "glb_size_bytes": 220064,
       "subsystem_count": 24
     },
     {
@@ -12204,8 +12222,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_013_df8ad2.glb",
-          "sha256_hash": "104ca87fd31fe84e8ce83731254a89b621cf9ea5e494714d62a7e8980a505406",
-          "file_size_bytes": 83528,
+          "sha256_hash": "a49e1d53f52b6b51d1bad807ab77d0206d30871851d16d6f17d4aede4a741649",
+          "file_size_bytes": 84364,
           "compression": "meshopt"
         }
       },
@@ -12257,8 +12275,8 @@
         "topology_hash": "78f0e64e56e5b9b3",
         "composition_key": "sniper_optical_visor_hood+rear_cooling_crest+unicorn_destroy"
       },
-      "glb_sha256": "104ca87fd31fe84e8ce83731254a89b621cf9ea5e494714d62a7e8980a505406",
-      "glb_size_bytes": 83528,
+      "glb_sha256": "a49e1d53f52b6b51d1bad807ab77d0206d30871851d16d6f17d4aede4a741649",
+      "glb_size_bytes": 84364,
       "subsystem_count": 14
     },
     {
@@ -13199,8 +13217,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_015_19040b.glb",
-          "sha256_hash": "c209339dc8388994dc3c6b01235858a40ffaae0268dcb0983eae49cc6517786e",
-          "file_size_bytes": 129584,
+          "sha256_hash": "2c323b22c7300c5f2aab23047a816d98ceea2e8560b6facf2d002e1ab3df2321",
+          "file_size_bytes": 131124,
           "compression": "meshopt"
         }
       },
@@ -13252,7 +13270,10 @@
         ],
         "topology_hash": "722b5af9ce71b415",
         "composition_key": "quad_blade_awacs_crown+none+federation_rx"
-      }
+      },
+      "glb_sha256": "2c323b22c7300c5f2aab23047a816d98ceea2e8560b6facf2d002e1ab3df2321",
+      "glb_size_bytes": 131124,
+      "subsystem_count": 18
     },
     {
       "part_id": "llm_gen_chest_armor_018_b5b99b",
@@ -14198,8 +14219,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_014_193ace.glb",
-          "sha256_hash": "91942a9721dcc6138afb40e8ae3abeee963ae306048dc2f7459787c8521b8842",
-          "file_size_bytes": 94696,
+          "sha256_hash": "59ef5f22e9feee520052b43e967cb015e7bae966e52d45b704dd3c81ea53e413",
+          "file_size_bytes": 95556,
           "compression": "meshopt"
         }
       },
@@ -14251,8 +14272,8 @@
         "topology_hash": "f9c37bf29ddc3ec7",
         "composition_key": "sniper_optical_visor_hood+dual_temple_vulcans+nu_vanguard"
       },
-      "glb_sha256": "91942a9721dcc6138afb40e8ae3abeee963ae306048dc2f7459787c8521b8842",
-      "glb_size_bytes": 94696,
+      "glb_sha256": "59ef5f22e9feee520052b43e967cb015e7bae966e52d45b704dd3c81ea53e413",
+      "glb_size_bytes": 95556,
       "subsystem_count": 15
     },
     {
@@ -14574,8 +14595,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_017_f98cb5.glb",
-          "sha256_hash": "c80a36cac41a45862a32f478e07a0a615b95fb4f4d385d3f2667aa39aa1426b1",
-          "file_size_bytes": 255108,
+          "sha256_hash": "0fd37b44f45846624965d2d1feecf74ea483f411b7b83bd4642fbd73937005b4",
+          "file_size_bytes": 257568,
           "compression": "meshopt"
         }
       },
@@ -14625,8 +14646,8 @@
         "topology_hash": "a0bf734a858b6514",
         "composition_key": "quad_xwing_aero_binder+center_stabilizer_tail+nu_vanguard"
       },
-      "glb_sha256": "c80a36cac41a45862a32f478e07a0a615b95fb4f4d385d3f2667aa39aa1426b1",
-      "glb_size_bytes": 255108,
+      "glb_sha256": "0fd37b44f45846624965d2d1feecf74ea483f411b7b83bd4642fbd73937005b4",
+      "glb_size_bytes": 257568,
       "subsystem_count": 39
     },
     {
@@ -15078,8 +15099,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_leg_thrusters_022_f2f889.glb",
-          "sha256_hash": "13d28a32ad7c8a7135467b8d8adbda2467d7dddefac0d675984b52bc05699982",
-          "file_size_bytes": 240328,
+          "sha256_hash": "d0c2e57cb9fb979acc45924b6b5aabdc9ecc21b16c54f88956531110ee29cff8",
+          "file_size_bytes": 240588,
           "compression": "meshopt"
         }
       },
@@ -15135,8 +15156,8 @@
         "topology_hash": "0f69584669fbb448",
         "composition_key": "aero_fin_interceptor_greaves+forward_knee_spike+federation_rx"
       },
-      "glb_sha256": "13d28a32ad7c8a7135467b8d8adbda2467d7dddefac0d675984b52bc05699982",
-      "glb_size_bytes": 240328,
+      "glb_sha256": "d0c2e57cb9fb979acc45924b6b5aabdc9ecc21b16c54f88956531110ee29cff8",
+      "glb_size_bytes": 240588,
       "subsystem_count": 26
     },
     {
@@ -15207,8 +15228,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_017_a8bf64.glb",
-          "sha256_hash": "343668c2b81264dd677c1769e08f5af1b4bbb343a603eba031a91943880bf3a6",
-          "file_size_bytes": 110688,
+          "sha256_hash": "3c2bdbcbe87284a845f336cb16b1ffecb60e19336f0843b7fe0edbefc41e0200",
+          "file_size_bytes": 106368,
           "compression": "meshopt"
         }
       },
@@ -15259,8 +15280,8 @@
         "topology_hash": "ff39d740c0fad3ef",
         "composition_key": "horned_oni_assault_crest+dual_temple_vulcans+full_armor_tactical"
       },
-      "glb_sha256": "343668c2b81264dd677c1769e08f5af1b4bbb343a603eba031a91943880bf3a6",
-      "glb_size_bytes": 110688,
+      "glb_sha256": "3c2bdbcbe87284a845f336cb16b1ffecb60e19336f0843b7fe0edbefc41e0200",
+      "glb_size_bytes": 106368,
       "subsystem_count": 15
     },
     {
@@ -16212,8 +16233,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_020_6f0f83.glb",
-          "sha256_hash": "d042b6cc43cda83dd6295dec7ebcf960f6b0f62572ea8d3d01240be8f3fd6c4b",
-          "file_size_bytes": 75852,
+          "sha256_hash": "ce38e0b47405b815b8897ceac3f6f796bea1812dedbe0d5cc5df7a77ddba786b",
+          "file_size_bytes": 72488,
           "compression": "meshopt"
         }
       },
@@ -16264,7 +16285,10 @@
         ],
         "topology_hash": "48bc0428d3b81f9c",
         "composition_key": "asymmetric_monocle_targeter+none+federation_rx"
-      }
+      },
+      "glb_sha256": "ce38e0b47405b815b8897ceac3f6f796bea1812dedbe0d5cc5df7a77ddba786b",
+      "glb_size_bytes": 72488,
+      "subsystem_count": 11
     },
     {
       "part_id": "llm_gen_chest_armor_033_9a229b",
@@ -16584,8 +16608,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_016_09b4bc.glb",
-          "sha256_hash": "e2020e12c84b05e88d076c1daa1d667f08ebc1b482b51ed233382acc1dadd7cc",
-          "file_size_bytes": 279904,
+          "sha256_hash": "e7083ddff243ccc794bf2e9f88264e453610e3359c54f9b0f2ecb76f7c4c8d8a",
+          "file_size_bytes": 283528,
           "compression": "meshopt"
         }
       },
@@ -16637,8 +16661,8 @@
         "topology_hash": "548ffd1e096e608e",
         "composition_key": "quad_xwing_aero_binder+lower_propellant_tanks+federation_rx"
       },
-      "glb_sha256": "e2020e12c84b05e88d076c1daa1d667f08ebc1b482b51ed233382acc1dadd7cc",
-      "glb_size_bytes": 279904,
+      "glb_sha256": "e7083ddff243ccc794bf2e9f88264e453610e3359c54f9b0f2ecb76f7c4c8d8a",
+      "glb_size_bytes": 283528,
       "subsystem_count": 43
     },
     {
@@ -17222,8 +17246,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_024_f98297.glb",
-          "sha256_hash": "88840d35314fb6a1651c657d0de9e2a901843ea00a52d32a7a76d850fa8a66ac",
-          "file_size_bytes": 144392,
+          "sha256_hash": "2a964624c852d8430de8597ee13729515a05966389596412885bde2111025af1",
+          "file_size_bytes": 142856,
           "compression": "meshopt"
         }
       },
@@ -17277,7 +17301,10 @@
         ],
         "topology_hash": "bec07d969d35bb5d",
         "composition_key": "quad_blade_awacs_crown+twin_vfin_antennae+nu_vanguard"
-      }
+      },
+      "glb_sha256": "2a964624c852d8430de8597ee13729515a05966389596412885bde2111025af1",
+      "glb_size_bytes": 142856,
+      "subsystem_count": 20
     },
     {
       "part_id": "llm_gen_chest_armor_036_9bec5a",
@@ -18097,8 +18124,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_leg_thrusters_028_7f68b1.glb",
-          "sha256_hash": "30015760f97ef5f479ef1f016f4187d4f4b1510f8005e41bd21060e531650e2b",
-          "file_size_bytes": 240344,
+          "sha256_hash": "38ce8047002707f0ca6ad8026e25e72b87d00a549800ae8b43dc736ab6ac41ef",
+          "file_size_bytes": 240604,
           "compression": "meshopt"
         }
       },
@@ -18154,8 +18181,8 @@
         "topology_hash": "076a79736ea8eace",
         "composition_key": "aero_fin_interceptor_greaves+upper_calf_fuel_cell+federation_rx"
       },
-      "glb_sha256": "30015760f97ef5f479ef1f016f4187d4f4b1510f8005e41bd21060e531650e2b",
-      "glb_size_bytes": 240344,
+      "glb_sha256": "38ce8047002707f0ca6ad8026e25e72b87d00a549800ae8b43dc736ab6ac41ef",
+      "glb_size_bytes": 240604,
       "subsystem_count": 26
     },
     {
@@ -18226,8 +18253,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_032_eadbcd.glb",
-          "sha256_hash": "39590391c9d4dd6f73de558aae1d8f6ecb281c0c345d8c08bc17e1b5c1489fbc",
-          "file_size_bytes": 85792,
+          "sha256_hash": "d8fae80329c6bc32285eecdaf8aab78fee96ca92d274ae85f672695eaf28adde",
+          "file_size_bytes": 82432,
           "compression": "meshopt"
         }
       },
@@ -18278,7 +18305,10 @@
         ],
         "topology_hash": "ace6446a5efde48e",
         "composition_key": "asymmetric_monocle_targeter+rear_cooling_crest+titans_mk2"
-      }
+      },
+      "glb_sha256": "d8fae80329c6bc32285eecdaf8aab78fee96ca92d274ae85f672695eaf28adde",
+      "glb_size_bytes": 82432,
+      "subsystem_count": 12
     },
     {
       "part_id": "llm_gen_chest_armor_024_64ca2f",
@@ -18598,8 +18628,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_021_f51c35.glb",
-          "sha256_hash": "5c8b71caaee37a7fe874ec0a7035804438a63dcd4dcf9203b0d43274bbe80898",
-          "file_size_bytes": 282740,
+          "sha256_hash": "efe5eb7b2854d73ddf37f32beab6e59bc1aba100de89749fe79f4d295138841c",
+          "file_size_bytes": 285200,
           "compression": "meshopt"
         }
       },
@@ -18657,8 +18687,8 @@
         "topology_hash": "041340a1a0b2946e",
         "composition_key": "quad_xwing_aero_binder+twin_over_shoulder_cannons+federation_rx"
       },
-      "glb_sha256": "5c8b71caaee37a7fe874ec0a7035804438a63dcd4dcf9203b0d43274bbe80898",
-      "glb_size_bytes": 282740,
+      "glb_sha256": "efe5eb7b2854d73ddf37f32beab6e59bc1aba100de89749fe79f4d295138841c",
+      "glb_size_bytes": 285200,
       "subsystem_count": 43
     },
     {
@@ -19238,8 +19268,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_035_515104.glb",
-          "sha256_hash": "0aed0f97cd5bbf1470717ee1b8872edd0dbdd3f74c582868f25cf1edadbfc752",
-          "file_size_bytes": 150700,
+          "sha256_hash": "1d239c45f95b9e41591e5a91b33a3a03affcee452ff217386aaf49d1d9c3b646",
+          "file_size_bytes": 152028,
           "compression": "meshopt"
         }
       },
@@ -19291,7 +19321,10 @@
         ],
         "topology_hash": "430d489cbf4d0a72",
         "composition_key": "quad_blade_awacs_crown+dual_temple_vulcans+twin_sensor_ears+exia_gn_cyan+acc_optic@s1.0000"
-      }
+      },
+      "glb_sha256": "1d239c45f95b9e41591e5a91b33a3a03affcee452ff217386aaf49d1d9c3b646",
+      "glb_size_bytes": 152028,
+      "subsystem_count": 20
     },
     {
       "part_id": "llm_gen_chest_armor_028_aeb897",
@@ -20241,8 +20274,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_034_7b5220.glb",
-          "sha256_hash": "38837ec603cb24eedc9533664d6d722441efe6605626cdcdc76c362169b02c8d",
-          "file_size_bytes": 83528,
+          "sha256_hash": "f643a67783ee333908ae17c608c7fa0c3bbde496798614056c622121548ac199",
+          "file_size_bytes": 84364,
           "compression": "meshopt"
         }
       },
@@ -20295,8 +20328,8 @@
         "topology_hash": "b94e6fb027a8f2d9",
         "composition_key": "sniper_optical_visor_hood+rear_cooling_crest+twin_vfin_antennae+federation_rx+acc_optic@s1.0000"
       },
-      "glb_sha256": "38837ec603cb24eedc9533664d6d722441efe6605626cdcdc76c362169b02c8d",
-      "glb_size_bytes": 83528,
+      "glb_sha256": "f643a67783ee333908ae17c608c7fa0c3bbde496798614056c622121548ac199",
+      "glb_size_bytes": 84364,
       "subsystem_count": 14
     },
     {
@@ -21247,8 +21280,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_037_5ecc82.glb",
-          "sha256_hash": "62caab63908fb903817d699b2ed6d940bd81540eca6b065357b9bd601dad1111",
-          "file_size_bytes": 85816,
+          "sha256_hash": "9b8af27aa07c8d668ae0fcf51fb8342be1cc7b7e716e6a4d70af8105840055d6",
+          "file_size_bytes": 82924,
           "compression": "meshopt"
         }
       },
@@ -21300,7 +21333,10 @@
         ],
         "topology_hash": "e7f0f6504744699c",
         "composition_key": "asymmetric_monocle_targeter+rear_cooling_crest+twin_sensor_ears+federation_rx+acc_gunmetal@s1.0200"
-      }
+      },
+      "glb_sha256": "9b8af27aa07c8d668ae0fcf51fb8342be1cc7b7e716e6a4d70af8105840055d6",
+      "glb_size_bytes": 82924,
+      "subsystem_count": 12
     },
     {
       "part_id": "llm_gen_chest_armor_040_311476",
@@ -22254,8 +22290,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_042_94827d.glb",
-          "sha256_hash": "ca2bce8891e26b93ef7b20d6da7b73f023cf3aa2a92ec89dbd3684b3b891f25d",
-          "file_size_bytes": 83516,
+          "sha256_hash": "6d4e0918c76478e443668d137e15989ee7cd2a0d33a5e74d385419dba64f4896",
+          "file_size_bytes": 84348,
           "compression": "meshopt"
         }
       },
@@ -22306,8 +22342,8 @@
         "topology_hash": "67e2a515c5b7cad4",
         "composition_key": "sniper_optical_visor_hood+rear_cooling_crest+twin_sensor_ears+federation_rx+acc_optic@s1.0000"
       },
-      "glb_sha256": "ca2bce8891e26b93ef7b20d6da7b73f023cf3aa2a92ec89dbd3684b3b891f25d",
-      "glb_size_bytes": 83516,
+      "glb_sha256": "6d4e0918c76478e443668d137e15989ee7cd2a0d33a5e74d385419dba64f4896",
+      "glb_size_bytes": 84348,
       "subsystem_count": 14
     },
     {
@@ -23259,8 +23295,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_043_b6332b.glb",
-          "sha256_hash": "bcd01ccc50b46c27727bdb48778a81d6c31c164f4574f92f41d4b17261ca4367",
-          "file_size_bytes": 96948,
+          "sha256_hash": "ed19c756d2d196bc5f5ef5047688f2e3ac2a31650e2e38bd1f2a01b099e4fc87",
+          "file_size_bytes": 93560,
           "compression": "meshopt"
         }
       },
@@ -23316,7 +23352,10 @@
         ],
         "topology_hash": "a61d57aa861f5335",
         "composition_key": "asymmetric_monocle_targeter+dual_temple_vulcans+twin_vfin_antennae+exia_gn_cyan+acc_optic@s0.9800"
-      }
+      },
+      "glb_sha256": "ed19c756d2d196bc5f5ef5047688f2e3ac2a31650e2e38bd1f2a01b099e4fc87",
+      "glb_size_bytes": 93560,
+      "subsystem_count": 13
     },
     {
       "part_id": "llm_gen_chest_armor_038_05d63b",
@@ -24270,8 +24309,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_038_fa4a24.glb",
-          "sha256_hash": "b981608f4f2f107b4e3b8913f2ff6593c5a146e680d841b59f9c0d9baa6c8774",
-          "file_size_bytes": 94648,
+          "sha256_hash": "f7a7ca09b25253f35e17177a36cdc1487a6a9c99d7b8efa0b5bfda18214af70b",
+          "file_size_bytes": 95572,
           "compression": "meshopt"
         }
       },
@@ -24322,8 +24361,8 @@
         "topology_hash": "f3224332c3f240c2",
         "composition_key": "sniper_optical_visor_hood+dual_temple_vulcans+twin_vfin_antennae+federation_rx"
       },
-      "glb_sha256": "b981608f4f2f107b4e3b8913f2ff6593c5a146e680d841b59f9c0d9baa6c8774",
-      "glb_size_bytes": 94648,
+      "glb_sha256": "f7a7ca09b25253f35e17177a36cdc1487a6a9c99d7b8efa0b5bfda18214af70b",
+      "glb_size_bytes": 95572,
       "subsystem_count": 15
     },
     {
@@ -25283,8 +25322,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_044_6b8695.glb",
-          "sha256_hash": "3ebf2a6fcdb6cd78eed60c7c419c3bd3d1f4a31b723cee8477c361d1037cc8dd",
-          "file_size_bytes": 96948,
+          "sha256_hash": "3665db8bd5c1da49aac3f8d9c16440cff6f946fd6f1e2aa31cf471fe1b130159",
+          "file_size_bytes": 94056,
           "compression": "meshopt"
         }
       },
@@ -25338,7 +25377,10 @@
         ],
         "topology_hash": "d8f0f11d2085307c",
         "composition_key": "asymmetric_monocle_targeter+dual_temple_vulcans+rear_cooling_crest+federation_rx+acc_gunmetal@s1.0200"
-      }
+      },
+      "glb_sha256": "3665db8bd5c1da49aac3f8d9c16440cff6f946fd6f1e2aa31cf471fe1b130159",
+      "glb_size_bytes": 94056,
+      "subsystem_count": 13
     },
     {
       "part_id": "llm_gen_chest_armor_042_d236f9",
@@ -26304,8 +26346,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_046_928f3c.glb",
-          "sha256_hash": "15a3ff6bd2bf09777fd9bcc2e0518c41bd622f91d502687bcf1dd4b10fe42f9c",
-          "file_size_bytes": 150640,
+          "sha256_hash": "a38ca23aac6316b60cadb938acdee5f18d766bb69bc1d0343c127a101e6874d5",
+          "file_size_bytes": 152156,
           "compression": "meshopt"
         }
       },
@@ -26358,7 +26400,10 @@
         ],
         "topology_hash": "794883d8d3e70c4b",
         "composition_key": "quad_blade_awacs_crown+dual_temple_vulcans+twin_vfin_antennae+unicorn_destroy+acc_gold@s1.0200"
-      }
+      },
+      "glb_sha256": "a38ca23aac6316b60cadb938acdee5f18d766bb69bc1d0343c127a101e6874d5",
+      "glb_size_bytes": 152156,
+      "subsystem_count": 20
     },
     {
       "part_id": "llm_gen_chest_armor_041_c799a2",
@@ -27309,8 +27354,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_047_b48cec.glb",
-          "sha256_hash": "774696a857fc5f1d1f6303f42e863a5c0eec88ffdda111be9e64e4a71afdf029",
-          "file_size_bytes": 140284,
+          "sha256_hash": "7fd1112b96ea6d5f623b6ec1e5e4eac6e1676d54da2f496692f1ce65efa3868f",
+          "file_size_bytes": 145188,
           "compression": "meshopt"
         }
       },
@@ -27361,9 +27406,9 @@
         "topology_hash": "b7dd5ea4a55543e7",
         "composition_key": "unicorn_destroy_split_vfin+rear_cooling_crest+twin_sensor_ears+twin_vfin_antennae+federation_rx+acc_gold+g_d1de4e@s1.0000"
       },
-      "glb_sha256": "774696a857fc5f1d1f6303f42e863a5c0eec88ffdda111be9e64e4a71afdf029",
-      "glb_size_bytes": 140284,
-      "subsystem_count": 18
+      "glb_sha256": "7fd1112b96ea6d5f623b6ec1e5e4eac6e1676d54da2f496692f1ce65efa3868f",
+      "glb_size_bytes": 145188,
+      "subsystem_count": 19
     },
     {
       "part_id": "llm_gen_chest_armor_049_1e60fe",
@@ -27806,8 +27851,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_aux_weapon_046_c8b620.glb",
-          "sha256_hash": "8e6716d935104825d97d8c99421fbaafa351cdf1f7c567bb03deabe4e848ca08",
-          "file_size_bytes": 85256,
+          "sha256_hash": "2c1b27d6e0a70b5d01437a1b229653ed7b509cd9b5cff2e77df80d9c160e9fd0",
+          "file_size_bytes": 85260,
           "compression": "meshopt"
         }
       },
@@ -27860,8 +27905,8 @@
         "topology_hash": "8e07f119eef74092",
         "composition_key": "heavy_beam_magnum_cannon+side_drum_capacitor+underbarrel_grenade_launcher+kampfer_midnight+acc_gold+g_19d746@s1.0500"
       },
-      "glb_sha256": "8e6716d935104825d97d8c99421fbaafa351cdf1f7c567bb03deabe4e848ca08",
-      "glb_size_bytes": 85256,
+      "glb_sha256": "2c1b27d6e0a70b5d01437a1b229653ed7b509cd9b5cff2e77df80d9c160e9fd0",
+      "glb_size_bytes": 85260,
       "subsystem_count": 12
     },
     {
@@ -28319,8 +28364,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_049_659521.glb",
-          "sha256_hash": "bf1a527294b7d42d90dcfd271eacacf8bc23df206996aaf4a519de47013168fb",
-          "file_size_bytes": 110620,
+          "sha256_hash": "c5445d9b672416956d5d0f079e66b419599f8725d1e1ef4187b98b80865dcac0",
+          "file_size_bytes": 107484,
           "compression": "meshopt"
         }
       },
@@ -28372,9 +28417,9 @@
         "topology_hash": "eea71f3953cf446c",
         "composition_key": "zeon_commander_mohawk_crest+dual_temple_vulcans+rear_cooling_crest+twin_sensor_ears+gouf_cobalt+acc_cobalt+g_24ca1b@s1.0100"
       },
-      "glb_sha256": "bf1a527294b7d42d90dcfd271eacacf8bc23df206996aaf4a519de47013168fb",
-      "glb_size_bytes": 110620,
-      "subsystem_count": 15
+      "glb_sha256": "c5445d9b672416956d5d0f079e66b419599f8725d1e1ef4187b98b80865dcac0",
+      "glb_size_bytes": 107484,
+      "subsystem_count": 16
     },
     {
       "part_id": "llm_gen_chest_armor_046_9f62e1",
@@ -29330,8 +29375,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_048_03a120.glb",
-          "sha256_hash": "c6051ade8b7891cc68efaf71e7320fcdcd260480041a606b52166161419521c1",
-          "file_size_bytes": 112640,
+          "sha256_hash": "b68fd2e6ec37390309fb722078fa2b9bd687ab09d37d3824d9fdaf4e6cee833f",
+          "file_size_bytes": 108400,
           "compression": "meshopt"
         }
       },
@@ -29383,8 +29428,8 @@
         "topology_hash": "427ee892dcb4a18d",
         "composition_key": "ew_dual_blade_recon_dome+rear_cooling_crest+twin_sensor_ears+federation_rx+acc_gunmetal+g_f05a82@s1.0100"
       },
-      "glb_sha256": "c6051ade8b7891cc68efaf71e7320fcdcd260480041a606b52166161419521c1",
-      "glb_size_bytes": 112640,
+      "glb_sha256": "b68fd2e6ec37390309fb722078fa2b9bd687ab09d37d3824d9fdaf4e6cee833f",
+      "glb_size_bytes": 108400,
       "subsystem_count": 16
     },
     {
@@ -29704,8 +29749,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_045_2e22f3.glb",
-          "sha256_hash": "289ce6a5d2a7b742614768cc70bc34979867f9c87f2de3ef96d86b998f3afcf0",
-          "file_size_bytes": 280668,
+          "sha256_hash": "41aa45b6c74d0e507c6f893d972c8c0a3a220aed16eb5afb2745f91cdf373e99",
+          "file_size_bytes": 283560,
           "compression": "meshopt"
         }
       },
@@ -29757,8 +29802,8 @@
         "topology_hash": "9f855887e659284b",
         "composition_key": "quad_xwing_aero_binder+center_stabilizer_tail+lower_propellant_tanks+federation_rx+acc_gold@s1.0200"
       },
-      "glb_sha256": "289ce6a5d2a7b742614768cc70bc34979867f9c87f2de3ef96d86b998f3afcf0",
-      "glb_size_bytes": 280668,
+      "glb_sha256": "41aa45b6c74d0e507c6f893d972c8c0a3a220aed16eb5afb2745f91cdf373e99",
+      "glb_size_bytes": 283560,
       "subsystem_count": 43
     },
     {
@@ -30469,8 +30514,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_046_ee7629.glb",
-          "sha256_hash": "cd476f89c53dec5c3bc3743d49cfd5ed9fe5a797362bbd2bde8671a410723b50",
-          "file_size_bytes": 248096,
+          "sha256_hash": "68063e9073c4c9b4b6947db0e60237f3674c5d1d7a3ff622744b04319d32d80a",
+          "file_size_bytes": 252288,
           "compression": "meshopt"
         }
       },
@@ -30524,8 +30569,8 @@
         "topology_hash": "caff3ee46827cfcf",
         "composition_key": "six_wing_seraph_angel_binders+center_stabilizer_tail+lower_propellant_tanks+quad_micro_verniers+full_armor_tactical+acc_gold+g_01a228@s1.0300"
       },
-      "glb_sha256": "cd476f89c53dec5c3bc3743d49cfd5ed9fe5a797362bbd2bde8671a410723b50",
-      "glb_size_bytes": 248096,
+      "glb_sha256": "68063e9073c4c9b4b6947db0e60237f3674c5d1d7a3ff622744b04319d32d80a",
+      "glb_size_bytes": 252288,
       "subsystem_count": 43
     },
     {
@@ -30978,8 +31023,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_048_f25589.glb",
-          "sha256_hash": "8e8f075d56910b9f457498a51d493adaedcb342f29cb6e9acf877c399708dc86",
-          "file_size_bytes": 319204,
+          "sha256_hash": "5933e737fc64e9c39da34b6c79cf8d8e35c0762d53705c6cb2cd27082e37f804",
+          "file_size_bytes": 319068,
           "compression": "meshopt"
         }
       },
@@ -31033,8 +31078,8 @@
         "topology_hash": "264fe39778253dac",
         "composition_key": "swept_samurai_wing_pauldrons+none+federation_rx"
       },
-      "glb_sha256": "8e8f075d56910b9f457498a51d493adaedcb342f29cb6e9acf877c399708dc86",
-      "glb_size_bytes": 319204,
+      "glb_sha256": "5933e737fc64e9c39da34b6c79cf8d8e35c0762d53705c6cb2cd27082e37f804",
+      "glb_size_bytes": 319068,
       "subsystem_count": 30
     },
     {
@@ -31483,8 +31528,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_048_e827fc.glb",
-          "sha256_hash": "6b795429cc54daf7f086e19c9eb51da85cc9eab746c297744f0e9a401e5042fb",
-          "file_size_bytes": 349088,
+          "sha256_hash": "793ed840bbe2b8d2d38082a74f0a355867408f9f8ead61f5468131faa52d9e01",
+          "file_size_bytes": 350516,
           "compression": "meshopt"
         }
       },
@@ -31536,8 +31581,8 @@
         "topology_hash": "47be5daa149342af",
         "composition_key": "orbital_funnel_ring_halo+lower_propellant_tanks+quad_micro_verniers+federation_rx+acc_gold+g_19c42d@s1.0200"
       },
-      "glb_sha256": "6b795429cc54daf7f086e19c9eb51da85cc9eab746c297744f0e9a401e5042fb",
-      "glb_size_bytes": 349088,
+      "glb_sha256": "793ed840bbe2b8d2d38082a74f0a355867408f9f8ead61f5468131faa52d9e01",
+      "glb_size_bytes": 350516,
       "subsystem_count": 47
     },
     {
@@ -32113,8 +32158,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_030_e50368.glb",
-          "sha256_hash": "ef1f5e23c6071016393df28c138be19e9d6cfb9f1682e70fa0a561b974015534",
-          "file_size_bytes": 160564,
+          "sha256_hash": "b6f9ad72e62cc260462b555b4f04572f5020c2558e46f2ffd8afc723bfbd564e",
+          "file_size_bytes": 162268,
           "compression": "meshopt"
         }
       },
@@ -32169,7 +32214,10 @@
         ],
         "topology_hash": "c8d4d265468c6bbe",
         "composition_key": "quad_blade_awacs_crown+twin_sensor_ears+twin_vfin_antennae+federation_rx+acc_optic+g_3e6c55@s1.0100"
-      }
+      },
+      "glb_sha256": "b6f9ad72e62cc260462b555b4f04572f5020c2558e46f2ffd8afc723bfbd564e",
+      "glb_size_bytes": 162268,
+      "subsystem_count": 21
     },
     {
       "part_id": "llm_gen_chest_armor_030_519fa5",
@@ -32489,8 +32537,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_031_6d3c86.glb",
-          "sha256_hash": "8562cb9d9de07a478dc2061f63acb12223d91f9ed78cb1ebaa0e5734439f0c56",
-          "file_size_bytes": 144264,
+          "sha256_hash": "e28ad65abb838f5ac01c3e5f2932498ebc97144662a2a5e45344f8bb99add447",
+          "file_size_bytes": 149152,
           "compression": "meshopt"
         }
       },
@@ -32543,9 +32591,9 @@
         "topology_hash": "eefbc846084cbda0",
         "composition_key": "unicorn_destroy_split_vfin+twin_vfin_antennae+zeon_olive_ace+g_c7c01c"
       },
-      "glb_sha256": "8562cb9d9de07a478dc2061f63acb12223d91f9ed78cb1ebaa0e5734439f0c56",
-      "glb_size_bytes": 144264,
-      "subsystem_count": 19
+      "glb_sha256": "e28ad65abb838f5ac01c3e5f2932498ebc97144662a2a5e45344f8bb99add447",
+      "glb_size_bytes": 149152,
+      "subsystem_count": 20
     },
     {
       "part_id": "llm_gen_chest_armor_031_e292c7",
@@ -32998,8 +33046,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_032_323f7c.glb",
-          "sha256_hash": "33f6abe82ef388ce295f44382e03494bb88a0cdfb0658d997fdf1dfde393b990",
-          "file_size_bytes": 103448,
+          "sha256_hash": "c857a4c45d8d466da66fdeabd955e876e61e19cad990a256217bfbcf5dd0e6a6",
+          "file_size_bytes": 100428,
           "compression": "meshopt"
         }
       },
@@ -33050,9 +33098,9 @@
         "topology_hash": "abba5be87018352a",
         "composition_key": "zeon_commander_mohawk_crest+twin_vfin_antennae+banshee_obsidian+g_143b7c"
       },
-      "glb_sha256": "33f6abe82ef388ce295f44382e03494bb88a0cdfb0658d997fdf1dfde393b990",
-      "glb_size_bytes": 103448,
-      "subsystem_count": 15
+      "glb_sha256": "c857a4c45d8d466da66fdeabd955e876e61e19cad990a256217bfbcf5dd0e6a6",
+      "glb_size_bytes": 100428,
+      "subsystem_count": 16
     },
     {
       "part_id": "llm_gen_chest_armor_032_a8f79b",
@@ -33502,8 +33550,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_aux_weapon_032_e43dc4.glb",
-          "sha256_hash": "8543fd836f94414014a52a20d4c32cd58c367e6d619baf821ebb140255dda163",
-          "file_size_bytes": 92856,
+          "sha256_hash": "853b5e49b7ea940d5b9a8b86e7ccd196384ffdc19f5ddb7eb90a01208b8c95fc",
+          "file_size_bytes": 92872,
           "compression": "meshopt"
         }
       },
@@ -33561,8 +33609,8 @@
         "topology_hash": "33be07737b8f030a",
         "composition_key": "heavy_beam_magnum_cannon+extended_sniper_scope+hyaku_shiki_gold+g_716358"
       },
-      "glb_sha256": "8543fd836f94414014a52a20d4c32cd58c367e6d619baf821ebb140255dda163",
-      "glb_size_bytes": 92856,
+      "glb_sha256": "853b5e49b7ea940d5b9a8b86e7ccd196384ffdc19f5ddb7eb90a01208b8c95fc",
+      "glb_size_bytes": 92872,
       "subsystem_count": 12
     },
     {
@@ -33633,8 +33681,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_033_2d1d74.glb",
-          "sha256_hash": "a58d7f87ad759e8e35e6254f256a17669aa9063b5d891173ca9eef0c08d41bda",
-          "file_size_bytes": 116452,
+          "sha256_hash": "af07b2ede6fbcd0da87a967eb021411d4e383dd5f43ce67f882fcd680ca9ad5c",
+          "file_size_bytes": 111896,
           "compression": "meshopt"
         }
       },
@@ -33688,8 +33736,8 @@
         "topology_hash": "227c1b2338473909",
         "composition_key": "ew_dual_blade_recon_dome+twin_vfin_antennae+wing_zero_pearl+g_98e4e0"
       },
-      "glb_sha256": "a58d7f87ad759e8e35e6254f256a17669aa9063b5d891173ca9eef0c08d41bda",
-      "glb_size_bytes": 116452,
+      "glb_sha256": "af07b2ede6fbcd0da87a967eb021411d4e383dd5f43ce67f882fcd680ca9ad5c",
+      "glb_size_bytes": 111896,
       "subsystem_count": 17
     },
     {
@@ -34011,8 +34059,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_leg_thrusters_033_648417.glb",
-          "sha256_hash": "2e6f6505519c72518540fb11397a33f91f293b397fea1a557e47200a584cccbd",
-          "file_size_bytes": 269360,
+          "sha256_hash": "428ecf375d434a7c51e253488f4e1ed23b7b22b48a9eac279c5577e094c540c3",
+          "file_size_bytes": 269588,
           "compression": "meshopt"
         }
       },
@@ -34064,8 +34112,8 @@
         "topology_hash": "81d0c72d476f4169",
         "composition_key": "aero_fin_interceptor_greaves+forward_knee_spike+outer_aero_stabilizer+zeon_olive_ace+g_1646ea"
       },
-      "glb_sha256": "2e6f6505519c72518540fb11397a33f91f293b397fea1a557e47200a584cccbd",
-      "glb_size_bytes": 269360,
+      "glb_sha256": "428ecf375d434a7c51e253488f4e1ed23b7b22b48a9eac279c5577e094c540c3",
+      "glb_size_bytes": 269588,
       "subsystem_count": 30
     },
     {
@@ -34260,8 +34308,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_033_e0203a.glb",
-          "sha256_hash": "a4194e904f7f337dd40b04072c54cf956d0b08cb586faa0739ac338c8b46ed1b",
-          "file_size_bytes": 297812,
+          "sha256_hash": "24bc174a0c288f91634ea49b2dd555c10c25d4acd0f706c73d2824b1f93b0589",
+          "file_size_bytes": 302292,
           "compression": "meshopt"
         }
       },
@@ -34314,8 +34362,8 @@
         "topology_hash": "fee878781be23db6",
         "composition_key": "quad_xwing_aero_binder+lower_propellant_tanks+twin_over_shoulder_cannons+banshee_obsidian+g_e31d76"
       },
-      "glb_sha256": "a4194e904f7f337dd40b04072c54cf956d0b08cb586faa0739ac338c8b46ed1b",
-      "glb_size_bytes": 297812,
+      "glb_sha256": "24bc174a0c288f91634ea49b2dd555c10c25d4acd0f706c73d2824b1f93b0589",
+      "glb_size_bytes": 302292,
       "subsystem_count": 46
     },
     {
@@ -34386,8 +34434,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_034_71aabe.glb",
-          "sha256_hash": "5d6629100e186023347cb68772bdbdbc61cf4ce4f44f9bf8fcf4a47ef81e4a8b",
-          "file_size_bytes": 149516,
+          "sha256_hash": "5ff4dacdd0bc2941b6194710af5c36b9142bdd6c1695b710dfc5fca5fc7a093f",
+          "file_size_bytes": 151236,
           "compression": "meshopt"
         }
       },
@@ -34439,7 +34487,10 @@
         ],
         "topology_hash": "174ca5ccfa35ce61",
         "composition_key": "quad_blade_awacs_crown+rear_cooling_crest+twin_sensor_ears+tallgeese_imperial+acc_gold+g_28c57c@s1.0150"
-      }
+      },
+      "glb_sha256": "5ff4dacdd0bc2941b6194710af5c36b9142bdd6c1695b710dfc5fca5fc7a093f",
+      "glb_size_bytes": 151236,
+      "subsystem_count": 20
     },
     {
       "part_id": "llm_gen_chest_armor_034_ecf168",
@@ -35139,8 +35190,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_034_3546b9.glb",
-          "sha256_hash": "dce72f369716ab45257070c39de68f4dcc43b553c2b618cf3b2e4a1fea364dad",
-          "file_size_bytes": 268080,
+          "sha256_hash": "17dfb5655a6fd52569a7ebf6d41329e5a055c69f55aaa8697cd1861f1c9c956e",
+          "file_size_bytes": 272268,
           "compression": "meshopt"
         }
       },
@@ -35189,8 +35240,8 @@
         "topology_hash": "34b5642996faad8d",
         "composition_key": "six_wing_seraph_angel_binders+lower_propellant_tanks+quad_micro_verniers+tallgeese_imperial+acc_cobalt+g_086ce1@s1.0000"
       },
-      "glb_sha256": "dce72f369716ab45257070c39de68f4dcc43b553c2b618cf3b2e4a1fea364dad",
-      "glb_size_bytes": 268080,
+      "glb_sha256": "17dfb5655a6fd52569a7ebf6d41329e5a055c69f55aaa8697cd1861f1c9c956e",
+      "glb_size_bytes": 272268,
       "subsystem_count": 46
     },
     {
@@ -35261,8 +35312,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_035_cbe11b.glb",
-          "sha256_hash": "173e8139795e6791213dc3de655056e463fd08fed177e367136fb0a7e7432115",
-          "file_size_bytes": 108948,
+          "sha256_hash": "9ee6304ae419d79409a6fd0ba51b3c6015c0ae2c8502645f5ed158ff70ac0d0a",
+          "file_size_bytes": 104628,
           "compression": "meshopt"
         }
       },
@@ -35316,8 +35367,8 @@
         "topology_hash": "559ddb23f8b8d506",
         "composition_key": "horned_oni_assault_crest+rear_cooling_crest+twin_sensor_ears+barbatos_iron+acc_gunmetal+g_1e8593@s1.0150"
       },
-      "glb_sha256": "173e8139795e6791213dc3de655056e463fd08fed177e367136fb0a7e7432115",
-      "glb_size_bytes": 108948,
+      "glb_sha256": "9ee6304ae419d79409a6fd0ba51b3c6015c0ae2c8502645f5ed158ff70ac0d0a",
+      "glb_size_bytes": 104628,
       "subsystem_count": 15
     },
     {
@@ -35512,8 +35563,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_035_64de59.glb",
-          "sha256_hash": "84f3fc0a90281369a0d4321f082dfcdb3d349e91e2a0411e6dc5a4b180cb5eda",
-          "file_size_bytes": 348212,
+          "sha256_hash": "a72e55c6dcbae01241b5af68d098a1a86997ed53ce2ebf47f068636fd457f173",
+          "file_size_bytes": 348072,
           "compression": "meshopt"
         }
       },
@@ -35565,8 +35616,8 @@
         "topology_hash": "badd63c50ff7d9ec",
         "composition_key": "swept_samurai_wing_pauldrons+upper_missile_cap+banshee_obsidian+g_a8e465"
       },
-      "glb_sha256": "84f3fc0a90281369a0d4321f082dfcdb3d349e91e2a0411e6dc5a4b180cb5eda",
-      "glb_size_bytes": 348212,
+      "glb_sha256": "a72e55c6dcbae01241b5af68d098a1a86997ed53ce2ebf47f068636fd457f173",
+      "glb_size_bytes": 348072,
       "subsystem_count": 34
     },
     {
@@ -36263,8 +36314,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_036_01d6bf.glb",
-          "sha256_hash": "d41930ac5e46ff3146c094622129b0e4591ddb9d0298ade3f12e3b4019657663",
-          "file_size_bytes": 151680,
+          "sha256_hash": "88d738cac3fe368ed351395813925ce2b6d0b7d043a62adcf4304bf17b3ec8d1",
+          "file_size_bytes": 156568,
           "compression": "meshopt"
         }
       },
@@ -36317,9 +36368,9 @@
         "topology_hash": "6c8ec73c65748fcf",
         "composition_key": "unicorn_destroy_split_vfin+dual_temple_vulcans+strike_freedom_royal+g_d7518c"
       },
-      "glb_sha256": "d41930ac5e46ff3146c094622129b0e4591ddb9d0298ade3f12e3b4019657663",
-      "glb_size_bytes": 151680,
-      "subsystem_count": 19
+      "glb_sha256": "88d738cac3fe368ed351395813925ce2b6d0b7d043a62adcf4304bf17b3ec8d1",
+      "glb_size_bytes": 156568,
+      "subsystem_count": 20
     },
     {
       "part_id": "llm_gen_chest_armor_036_4b55e6",
@@ -36895,8 +36946,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_aux_weapon_036_f34830.glb",
-          "sha256_hash": "ac16ab54e86cec3a654456333765c943eff0e25fbf9f05e9b17d8860086d7848",
-          "file_size_bytes": 93012,
+          "sha256_hash": "7e095265d1a32e566d29718aa0f5fe1892a14be6a8f8484282a063d6323cfa7e",
+          "file_size_bytes": 93028,
           "compression": "meshopt"
         }
       },
@@ -36954,8 +37005,8 @@
         "topology_hash": "e1f1a83d0baa7eb3",
         "composition_key": "heavy_beam_magnum_cannon+underbarrel_grenade_launcher+barbatos_iron+g_0ca4eb"
       },
-      "glb_sha256": "ac16ab54e86cec3a654456333765c943eff0e25fbf9f05e9b17d8860086d7848",
-      "glb_size_bytes": 93012,
+      "glb_sha256": "7e095265d1a32e566d29718aa0f5fe1892a14be6a8f8484282a063d6323cfa7e",
+      "glb_size_bytes": 93028,
       "subsystem_count": 12
     },
     {
@@ -37153,8 +37204,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_036_01972f.glb",
-          "sha256_hash": "f034ab5c678d3ce5a4ded53e5f9e84b70c92b064cdcb88df3a48b45ecf60d25d",
-          "file_size_bytes": 348516,
+          "sha256_hash": "33d99922e0234fcc6d43fc90b2fc435d10e73662a10bc9cc5f366f4adbf44c2e",
+          "file_size_bytes": 349972,
           "compression": "meshopt"
         }
       },
@@ -37209,8 +37260,8 @@
         "topology_hash": "1fc65ebf7e306133",
         "composition_key": "orbital_funnel_ring_halo+twin_over_shoulder_cannons+strike_freedom_royal+g_77fd27"
       },
-      "glb_sha256": "f034ab5c678d3ce5a4ded53e5f9e84b70c92b064cdcb88df3a48b45ecf60d25d",
-      "glb_size_bytes": 348516,
+      "glb_sha256": "33d99922e0234fcc6d43fc90b2fc435d10e73662a10bc9cc5f366f4adbf44c2e",
+      "glb_size_bytes": 349972,
       "subsystem_count": 47
     },
     {
@@ -37281,8 +37332,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_037_5165f7.glb",
-          "sha256_hash": "1a2413783445c13a4fd66f6ff8a5f64ea17f5e531b788d97fb16453696e14f4e",
-          "file_size_bytes": 110160,
+          "sha256_hash": "59bf77cf9b5833ee17fbacb46131954254a3e5936facfc9363c1b50eb9b73405",
+          "file_size_bytes": 107004,
           "compression": "meshopt"
         }
       },
@@ -37335,9 +37386,9 @@
         "topology_hash": "cf70a67fe6dd9469",
         "composition_key": "zeon_commander_mohawk_crest+dual_temple_vulcans+sazabi_verka+g_a115a9"
       },
-      "glb_sha256": "1a2413783445c13a4fd66f6ff8a5f64ea17f5e531b788d97fb16453696e14f4e",
-      "glb_size_bytes": 110160,
-      "subsystem_count": 15
+      "glb_sha256": "59bf77cf9b5833ee17fbacb46131954254a3e5936facfc9363c1b50eb9b73405",
+      "glb_size_bytes": 107004,
+      "subsystem_count": 16
     },
     {
       "part_id": "llm_gen_chest_armor_037_4e458a",
@@ -37789,8 +37840,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_leg_thrusters_037_4fc8bd.glb",
-          "sha256_hash": "992763166b87d815beecd3ba77957e2ced541f404e1c0cca0f2dd39841e1bc72",
-          "file_size_bytes": 323460,
+          "sha256_hash": "a69fe23973d73c4a930acc67fd28375ab5a31ac2f00e462d9a42a18f9d48d54a",
+          "file_size_bytes": 323688,
           "compression": "meshopt"
         }
       },
@@ -37843,8 +37894,8 @@
         "topology_hash": "6c3499cc6c01d18e",
         "composition_key": "aero_fin_interceptor_greaves+dual_ankle_verniers+forward_knee_spike+outer_aero_stabilizer+nu_vanguard+acc_cobalt+g_aecf0e@s1.0000"
       },
-      "glb_sha256": "992763166b87d815beecd3ba77957e2ced541f404e1c0cca0f2dd39841e1bc72",
-      "glb_size_bytes": 323460,
+      "glb_sha256": "a69fe23973d73c4a930acc67fd28375ab5a31ac2f00e462d9a42a18f9d48d54a",
+      "glb_size_bytes": 323688,
       "subsystem_count": 36
     },
     {
@@ -38287,8 +38338,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_038_b330ea.glb",
-          "sha256_hash": "4ec58b3caf915466f2337d3056b31821b5744dac93bcca2520a6c1cd99637e8e",
-          "file_size_bytes": 123856,
+          "sha256_hash": "7690ffd7e45110e59e98383dbb4d73f2ca0ee55e58cc423a4f48609aef6d5f72",
+          "file_size_bytes": 119300,
           "compression": "meshopt"
         }
       },
@@ -38340,8 +38391,8 @@
         "topology_hash": "dcb131ccf3ecf79e",
         "composition_key": "ew_dual_blade_recon_dome+dual_temple_vulcans+sinanju_gloss_red+g_38bf4e"
       },
-      "glb_sha256": "4ec58b3caf915466f2337d3056b31821b5744dac93bcca2520a6c1cd99637e8e",
-      "glb_size_bytes": 123856,
+      "glb_sha256": "7690ffd7e45110e59e98383dbb4d73f2ca0ee55e58cc423a4f48609aef6d5f72",
+      "glb_size_bytes": 119300,
       "subsystem_count": 17
     },
     {
@@ -39304,8 +39355,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_039_658e95.glb",
-          "sha256_hash": "444f7fc437b8889ac31045ee5abe0d05d8c96577b43906275c75aa61468da2a1",
-          "file_size_bytes": 109308,
+          "sha256_hash": "d8e11d64490a749330e6adcae88990101cc51a8ac1037df710222100425006ff",
+          "file_size_bytes": 105052,
           "compression": "meshopt"
         }
       },
@@ -39358,8 +39409,8 @@
         "topology_hash": "5c2dd909c480ea0d",
         "composition_key": "horned_oni_assault_crest+rear_cooling_crest+unicorn_awakened_gn+g_f8f26a"
       },
-      "glb_sha256": "444f7fc437b8889ac31045ee5abe0d05d8c96577b43906275c75aa61468da2a1",
-      "glb_size_bytes": 109308,
+      "glb_sha256": "d8e11d64490a749330e6adcae88990101cc51a8ac1037df710222100425006ff",
+      "glb_size_bytes": 105052,
       "subsystem_count": 15
     },
     {
@@ -39553,8 +39604,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_039_680dad.glb",
-          "sha256_hash": "8ec0bf0c4c29af107b774205d7bbb13e274e518005f765a89a53d860ed11b4f6",
-          "file_size_bytes": 347628,
+          "sha256_hash": "4eac1d4653501b02c2b36ba2ee17cf83e29f1907c2c4b440528cff5109d54fc7",
+          "file_size_bytes": 347492,
           "compression": "meshopt"
         }
       },
@@ -39607,8 +39658,8 @@
         "topology_hash": "d53bcb811ddd7f11",
         "composition_key": "swept_samurai_wing_pauldrons+outer_shield_winglet+barbatos_iron+g_a35379"
       },
-      "glb_sha256": "8ec0bf0c4c29af107b774205d7bbb13e274e518005f765a89a53d860ed11b4f6",
-      "glb_size_bytes": 347628,
+      "glb_sha256": "4eac1d4653501b02c2b36ba2ee17cf83e29f1907c2c4b440528cff5109d54fc7",
+      "glb_size_bytes": 347492,
       "subsystem_count": 34
     },
     {
@@ -40308,8 +40359,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_040_75545c.glb",
-          "sha256_hash": "79d6a9056e2fd690989744e109a4f10206ace484bc999778791a9e01cd234a0c",
-          "file_size_bytes": 140512,
+          "sha256_hash": "dc65dc920a2d03041815da519a9f6fed373986b2669a9c292a561db2a2fa6031",
+          "file_size_bytes": 145416,
           "compression": "meshopt"
         }
       },
@@ -40361,9 +40412,9 @@
         "topology_hash": "06b68a953e564b0e",
         "composition_key": "unicorn_destroy_split_vfin+rear_cooling_crest+destiny_phantom+g_76b078"
       },
-      "glb_sha256": "79d6a9056e2fd690989744e109a4f10206ace484bc999778791a9e01cd234a0c",
-      "glb_size_bytes": 140512,
-      "subsystem_count": 18
+      "glb_sha256": "dc65dc920a2d03041815da519a9f6fed373986b2669a9c292a561db2a2fa6031",
+      "glb_size_bytes": 145416,
+      "subsystem_count": 19
     },
     {
       "part_id": "llm_gen_chest_armor_040_ab419c",
@@ -40949,7 +41000,7 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_aux_weapon_040_5c984c.glb",
-          "sha256_hash": "c148de3e727bb63369bf282176b39b090296cc423dc0cf224e5a7ee621417b59",
+          "sha256_hash": "d0e606225b771b25cb41e8c9b1753a635a42df7db4daa457a85e8dbb27efd9b5",
           "file_size_bytes": 91900,
           "compression": "meshopt"
         }
@@ -41009,7 +41060,7 @@
         "topology_hash": "3aa4daae68f2aeb0",
         "composition_key": "heavy_beam_magnum_cannon+extended_sniper_scope+side_drum_capacitor+underbarrel_grenade_launcher+wing_zero_pearl+g_6730bd@s1.0300"
       },
-      "glb_sha256": "c148de3e727bb63369bf282176b39b090296cc423dc0cf224e5a7ee621417b59",
+      "glb_sha256": "d0e606225b771b25cb41e8c9b1753a635a42df7db4daa457a85e8dbb27efd9b5",
       "glb_size_bytes": 91900,
       "subsystem_count": 12
     },
@@ -41213,8 +41264,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_040_a1f46e.glb",
-          "sha256_hash": "08c7dea803f3434b5520c962ec9c631ac2ce100995fab4b2e19197d0b62daa96",
-          "file_size_bytes": 349132,
+          "sha256_hash": "e60c1b78b0d825d08817a619a02401791b693217cd11185f7730502045da0eeb",
+          "file_size_bytes": 350564,
           "compression": "meshopt"
         }
       },
@@ -41266,8 +41317,8 @@
         "topology_hash": "170fd132b48eddff",
         "composition_key": "orbital_funnel_ring_halo+center_stabilizer_tail+lower_propellant_tanks+twin_over_shoulder_cannons+nu_vanguard+acc_gold+g_5ab6bb@s1.0200"
       },
-      "glb_sha256": "08c7dea803f3434b5520c962ec9c631ac2ce100995fab4b2e19197d0b62daa96",
-      "glb_size_bytes": 349132,
+      "glb_sha256": "e60c1b78b0d825d08817a619a02401791b693217cd11185f7730502045da0eeb",
+      "glb_size_bytes": 350564,
       "subsystem_count": 47
     },
     {
@@ -41338,8 +41389,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_041_f94c85.glb",
-          "sha256_hash": "28bbe5cf14b345cb6217348e35898275253339e2f91c363db243eb4ff676321e",
-          "file_size_bytes": 99024,
+          "sha256_hash": "ec4fbb618b40e202aa93d4a69fe5de1482ba56c6641545ae9a63a21ddbd192bf",
+          "file_size_bytes": 95868,
           "compression": "meshopt"
         }
       },
@@ -41388,9 +41439,9 @@
         "topology_hash": "03b17378684bfbb3",
         "composition_key": "zeon_commander_mohawk_crest+rear_cooling_crest+twin_sensor_ears+twin_vfin_antennae+zeon_olive_ace+acc_gold+g_12f4cf@s1.0000"
       },
-      "glb_sha256": "28bbe5cf14b345cb6217348e35898275253339e2f91c363db243eb4ff676321e",
-      "glb_size_bytes": 99024,
-      "subsystem_count": 14
+      "glb_sha256": "ec4fbb618b40e202aa93d4a69fe5de1482ba56c6641545ae9a63a21ddbd192bf",
+      "glb_size_bytes": 95868,
+      "subsystem_count": 15
     },
     {
       "part_id": "llm_gen_chest_armor_041_57e322",
@@ -41838,8 +41889,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_leg_thrusters_041_ba1370.glb",
-          "sha256_hash": "ed989ad50b75c4193d9c3d1460939b97a82e2f7ee15bb5f326d539f6f1d78757",
-          "file_size_bytes": 267444,
+          "sha256_hash": "e6a8968e5fa17cac22e1084b36d1d9360bdb57b7b5883aa721ee4444f444febb",
+          "file_size_bytes": 267728,
           "compression": "meshopt"
         }
       },
@@ -41895,8 +41946,8 @@
         "topology_hash": "1135c8b16f9b88d5",
         "composition_key": "aero_fin_interceptor_greaves+forward_knee_spike+upper_calf_fuel_cell+sinanju_gloss_red+g_ed5193"
       },
-      "glb_sha256": "ed989ad50b75c4193d9c3d1460939b97a82e2f7ee15bb5f326d539f6f1d78757",
-      "glb_size_bytes": 267444,
+      "glb_sha256": "e6a8968e5fa17cac22e1084b36d1d9360bdb57b7b5883aa721ee4444f444febb",
+      "glb_size_bytes": 267728,
       "subsystem_count": 30
     },
     {
@@ -42220,8 +42271,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_041_0704ba.glb",
-          "sha256_hash": "5e4eff6360b22f46d4ffacbe9d0b8d86ee217f2dff274fb8fe8da557f29d5fdf",
-          "file_size_bytes": 267860,
+          "sha256_hash": "5658198018dd37b3daaf5a5cc58aacbf44302e6e13a3692506813cf4e4ba0da1",
+          "file_size_bytes": 272040,
           "compression": "meshopt"
         }
       },
@@ -42271,8 +42322,8 @@
         "topology_hash": "1d519f91513cd622",
         "composition_key": "six_wing_seraph_angel_binders+twin_over_shoulder_cannons+barbatos_iron+g_a88bee"
       },
-      "glb_sha256": "5e4eff6360b22f46d4ffacbe9d0b8d86ee217f2dff274fb8fe8da557f29d5fdf",
-      "glb_size_bytes": 267860,
+      "glb_sha256": "5658198018dd37b3daaf5a5cc58aacbf44302e6e13a3692506813cf4e4ba0da1",
+      "glb_size_bytes": 272040,
       "subsystem_count": 46
     },
     {
@@ -42343,8 +42394,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_042_3079eb.glb",
-          "sha256_hash": "1ec53ad1e03409148d7a3847f566613b96374e2190c288feec669d8a4f08fcc1",
-          "file_size_bytes": 112624,
+          "sha256_hash": "1000ae9ddd91d9eede7c9086a2bac289dbeea3aa7279687f6de95a062caa4a3e",
+          "file_size_bytes": 108068,
           "compression": "meshopt"
         }
       },
@@ -42396,8 +42447,8 @@
         "topology_hash": "8a28d5f94e4e3837",
         "composition_key": "ew_dual_blade_recon_dome+rear_cooling_crest+kampfer_midnight+g_82caa7"
       },
-      "glb_sha256": "1ec53ad1e03409148d7a3847f566613b96374e2190c288feec669d8a4f08fcc1",
-      "glb_size_bytes": 112624,
+      "glb_sha256": "1000ae9ddd91d9eede7c9086a2bac289dbeea3aa7279687f6de95a062caa4a3e",
+      "glb_size_bytes": 108068,
       "subsystem_count": 16
     },
     {
@@ -43219,8 +43270,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_042_437a13.glb",
-          "sha256_hash": "62c7b8bab65406284cdde8f82f24c34ee6806ff496aa0e55f2bede868f48beda",
-          "file_size_bytes": 301332,
+          "sha256_hash": "654bbd44cc97e102bf5c7a07319888e5c86bbc2ae6241527953eecc51dfd619c",
+          "file_size_bytes": 303788,
           "compression": "meshopt"
         }
       },
@@ -43274,8 +43325,8 @@
         "topology_hash": "a7dae3c8fc22297a",
         "composition_key": "quad_xwing_aero_binder+center_stabilizer_tail+twin_over_shoulder_cannons+sazabi_verka+g_9b8bb7"
       },
-      "glb_sha256": "62c7b8bab65406284cdde8f82f24c34ee6806ff496aa0e55f2bede868f48beda",
-      "glb_size_bytes": 301332,
+      "glb_sha256": "654bbd44cc97e102bf5c7a07319888e5c86bbc2ae6241527953eecc51dfd619c",
+      "glb_size_bytes": 303788,
       "subsystem_count": 46
     },
     {
@@ -43346,8 +43397,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_043_a9668b.glb",
-          "sha256_hash": "0962fff8b94a2f371ba8c9e878dd4f302f46885d91b8cd3646ba9409a0a052a4",
-          "file_size_bytes": 105188,
+          "sha256_hash": "46d0acd2597ccbc1c5a335a80bc09e9451b539d9ec90502c79540f39ce76dcf2",
+          "file_size_bytes": 106020,
           "compression": "meshopt"
         }
       },
@@ -43399,8 +43450,8 @@
         "topology_hash": "7e42b478f2b7dee1",
         "composition_key": "sniper_optical_visor_hood+dual_temple_vulcans+rear_cooling_crest+twin_sensor_ears+unicorn_awakened_gn+acc_gold+g_2034e8@s1.0000"
       },
-      "glb_sha256": "0962fff8b94a2f371ba8c9e878dd4f302f46885d91b8cd3646ba9409a0a052a4",
-      "glb_size_bytes": 105188,
+      "glb_sha256": "46d0acd2597ccbc1c5a335a80bc09e9451b539d9ec90502c79540f39ce76dcf2",
+      "glb_size_bytes": 106020,
       "subsystem_count": 16
     },
     {
@@ -44354,8 +44405,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_044_227e6e.glb",
-          "sha256_hash": "b90e9ab2e22d7ffb1c858484a96ac7587e2e9666e090ce278eacadb88b5809d8",
-          "file_size_bytes": 151624,
+          "sha256_hash": "acdd858df18f10c11a8c47d9db8723cbe82f7b3a9421793081c24384506c7f79",
+          "file_size_bytes": 156424,
           "compression": "meshopt"
         }
       },
@@ -44410,9 +44461,9 @@
         "topology_hash": "3c04215538a92cc3",
         "composition_key": "unicorn_destroy_split_vfin+dual_temple_vulcans+twin_sensor_ears+twin_vfin_antennae+full_armor_tactical+acc_optic+g_364acd@s1.0100"
       },
-      "glb_sha256": "b90e9ab2e22d7ffb1c858484a96ac7587e2e9666e090ce278eacadb88b5809d8",
-      "glb_size_bytes": 151624,
-      "subsystem_count": 19
+      "glb_sha256": "acdd858df18f10c11a8c47d9db8723cbe82f7b3a9421793081c24384506c7f79",
+      "glb_size_bytes": 156424,
+      "subsystem_count": 20
     },
     {
       "part_id": "llm_gen_chest_armor_044_c79fbd",
@@ -44615,8 +44666,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_044_c413c4.glb",
-          "sha256_hash": "10e5acae4799b8c50e2831f0422e20e7114460d83f175836ec8dcff2ba9b2119",
-          "file_size_bytes": 368672,
+          "sha256_hash": "bb89ace3b7ca3554ddafb889e85d92df5ba3171981ca1257e171d54660caf89a",
+          "file_size_bytes": 368552,
           "compression": "meshopt"
         }
       },
@@ -44667,8 +44718,8 @@
         "topology_hash": "6ef44ffec876d7a1",
         "composition_key": "swept_samurai_wing_pauldrons+forward_sensor_pod+unicorn_awakened_gn+g_a45e18"
       },
-      "glb_sha256": "10e5acae4799b8c50e2831f0422e20e7114460d83f175836ec8dcff2ba9b2119",
-      "glb_size_bytes": 368672,
+      "glb_sha256": "bb89ace3b7ca3554ddafb889e85d92df5ba3171981ca1257e171d54660caf89a",
+      "glb_size_bytes": 368552,
       "subsystem_count": 36
     },
     {
@@ -44992,8 +45043,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_aux_weapon_044_43ba4a.glb",
-          "sha256_hash": "ee9e36a64e579de7f9a66f4e4e1a991cf3ea4fce82a93a080666cbf981407c04",
-          "file_size_bytes": 91940,
+          "sha256_hash": "3443b953816769baee70ccd2276e74002fe77c20e01727b32433bde2ef7514ae",
+          "file_size_bytes": 91964,
           "compression": "meshopt"
         }
       },
@@ -45043,8 +45094,8 @@
         "topology_hash": "d89be9a5548e0f37",
         "composition_key": "heavy_beam_magnum_cannon+extended_sniper_scope+side_drum_capacitor+zeon_olive_ace+acc_olive+g_6a75ee@s1.0200"
       },
-      "glb_sha256": "ee9e36a64e579de7f9a66f4e4e1a991cf3ea4fce82a93a080666cbf981407c04",
-      "glb_size_bytes": 91940,
+      "glb_sha256": "3443b953816769baee70ccd2276e74002fe77c20e01727b32433bde2ef7514ae",
+      "glb_size_bytes": 91964,
       "subsystem_count": 12
     },
     {
@@ -45370,8 +45421,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_045_88779e.glb",
-          "sha256_hash": "c1c27d2694f3b59c0c216cda5ba889a9cdc9eb3d6bc7de1b2db147659aa5273a",
-          "file_size_bytes": 98368,
+          "sha256_hash": "c3c508d78ea0ad7eef72da80b664a341cf40ff59ec667c21ac960b3dcd6f765e",
+          "file_size_bytes": 95344,
           "compression": "meshopt"
         }
       },
@@ -45424,9 +45475,9 @@
         "topology_hash": "6838603d9902ef4f",
         "composition_key": "zeon_commander_mohawk_crest+rear_cooling_crest+wing_zero_pearl+g_de678b"
       },
-      "glb_sha256": "c1c27d2694f3b59c0c216cda5ba889a9cdc9eb3d6bc7de1b2db147659aa5273a",
-      "glb_size_bytes": 98368,
-      "subsystem_count": 14
+      "glb_sha256": "c3c508d78ea0ad7eef72da80b664a341cf40ff59ec667c21ac960b3dcd6f765e",
+      "glb_size_bytes": 95344,
+      "subsystem_count": 15
     },
     {
       "part_id": "llm_gen_chest_armor_045_470b8e",
@@ -45874,8 +45925,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_leg_thrusters_045_af5a2a.glb",
-          "sha256_hash": "a1ad552d4289add78ea36820c9686f99939a750d38d39ba9a7ef27ae8f9c8dea",
-          "file_size_bytes": 323404,
+          "sha256_hash": "f3e9d41c4f5ea0b8dac28c8cceee87ef24b2a0c4fe1f1439ff10e1cd72387bac",
+          "file_size_bytes": 323632,
           "compression": "meshopt"
         }
       },
@@ -45932,8 +45983,8 @@
         "topology_hash": "9615b7a1fc819675",
         "composition_key": "aero_fin_interceptor_greaves+dual_ankle_verniers+forward_knee_spike+kampfer_midnight+g_1483ee"
       },
-      "glb_sha256": "a1ad552d4289add78ea36820c9686f99939a750d38d39ba9a7ef27ae8f9c8dea",
-      "glb_size_bytes": 323404,
+      "glb_sha256": "f3e9d41c4f5ea0b8dac28c8cceee87ef24b2a0c4fe1f1439ff10e1cd72387bac",
+      "glb_size_bytes": 323632,
       "subsystem_count": 36
     },
     {
@@ -46255,8 +46306,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_045_380acf.glb",
-          "sha256_hash": "9b79317bc305a310a0524aa48b53bb6ae2f57f39905da13fcdcb7f2909377a2e",
-          "file_size_bytes": 267184,
+          "sha256_hash": "8222275289385761e8c3e137ab8eb7c251d821ba2efed608c6dc3dbdf958047d",
+          "file_size_bytes": 271372,
           "compression": "meshopt"
         }
       },
@@ -46308,8 +46359,8 @@
         "topology_hash": "09647c0ede5c8f74",
         "composition_key": "six_wing_seraph_angel_binders+lower_propellant_tanks+unicorn_awakened_gn+g_bde6a9"
       },
-      "glb_sha256": "9b79317bc305a310a0524aa48b53bb6ae2f57f39905da13fcdcb7f2909377a2e",
-      "glb_size_bytes": 267184,
+      "glb_sha256": "8222275289385761e8c3e137ab8eb7c251d821ba2efed608c6dc3dbdf958047d",
+      "glb_size_bytes": 271372,
       "subsystem_count": 46
     },
     {
@@ -46380,8 +46431,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_046_7633df.glb",
-          "sha256_hash": "04e58e1eb54994ba0a7f22487f69e8ed23e9cab8347da276f9a2224f2ca738dc",
-          "file_size_bytes": 123068,
+          "sha256_hash": "63fb3af5083ae564c8937634b6689a4aedea746cce9e6009029e076f9dde1f35",
+          "file_size_bytes": 117664,
           "compression": "meshopt"
         }
       },
@@ -46434,8 +46485,8 @@
         "topology_hash": "38a322f3d56fe24d",
         "composition_key": "ew_dual_blade_recon_dome+twin_sensor_ears+gouf_cobalt+g_6ccccb"
       },
-      "glb_sha256": "04e58e1eb54994ba0a7f22487f69e8ed23e9cab8347da276f9a2224f2ca738dc",
-      "glb_size_bytes": 123068,
+      "glb_sha256": "63fb3af5083ae564c8937634b6689a4aedea746cce9e6009029e076f9dde1f35",
+      "glb_size_bytes": 117664,
       "subsystem_count": 17
     },
     {
@@ -47258,8 +47309,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_046_57409e.glb",
-          "sha256_hash": "05ab1ad0d174b5f2b5f783aa1742faa75d962ff85126b64a1f32c886bbf48cf1",
-          "file_size_bytes": 345324,
+          "sha256_hash": "446ce0a5a23d21031851a2c6f8ac4a5d511045d1c05c0818d5995fe1fcaffc3a",
+          "file_size_bytes": 347192,
           "compression": "meshopt"
         }
       },
@@ -47313,8 +47364,8 @@
         "topology_hash": "b044a22be647a0e1",
         "composition_key": "orbital_funnel_ring_halo+quad_micro_verniers+kampfer_midnight+g_3ccbc7"
       },
-      "glb_sha256": "05ab1ad0d174b5f2b5f783aa1742faa75d962ff85126b64a1f32c886bbf48cf1",
-      "glb_size_bytes": 345324,
+      "glb_sha256": "446ce0a5a23d21031851a2c6f8ac4a5d511045d1c05c0818d5995fe1fcaffc3a",
+      "glb_size_bytes": 347192,
       "subsystem_count": 45
     },
     {
@@ -47385,8 +47436,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_047_09a68f.glb",
-          "sha256_hash": "d78e97eeea3d5216793b4530724d4c5991e84f2b22c45eb944492f4ae90e6418",
-          "file_size_bytes": 99716,
+          "sha256_hash": "a943f21ad5d269c9bf8b92a18347053949f9849b538a5d21a1890c5ca343f3ce",
+          "file_size_bytes": 95316,
           "compression": "meshopt"
         }
       },
@@ -47436,8 +47487,8 @@
         "topology_hash": "c125f8a4ec656fb5",
         "composition_key": "horned_oni_assault_crest+none+banshee_obsidian+g_c1e296"
       },
-      "glb_sha256": "d78e97eeea3d5216793b4530724d4c5991e84f2b22c45eb944492f4ae90e6418",
-      "glb_size_bytes": 99716,
+      "glb_sha256": "a943f21ad5d269c9bf8b92a18347053949f9849b538a5d21a1890c5ca343f3ce",
+      "glb_size_bytes": 95316,
       "subsystem_count": 14
     },
     {
@@ -48401,8 +48452,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_048_52c4ff.glb",
-          "sha256_hash": "4303b46eba2e7b93ab1d6a3b9f78ec87181d700463419fa15412cc335b18311f",
-          "file_size_bytes": 151600,
+          "sha256_hash": "a0f2f64d6645412a0d668872dc8d16461af52d4c9880c652eb4586ba5292a222",
+          "file_size_bytes": 156400,
           "compression": "meshopt"
         }
       },
@@ -48455,9 +48506,9 @@
         "topology_hash": "f75be8116adcb5aa",
         "composition_key": "unicorn_destroy_split_vfin+dual_temple_vulcans+twin_sensor_ears+twin_vfin_antennae+unicorn_destroy+acc_gold+g_cabb1d@s1.0100"
       },
-      "glb_sha256": "4303b46eba2e7b93ab1d6a3b9f78ec87181d700463419fa15412cc335b18311f",
-      "glb_size_bytes": 151600,
-      "subsystem_count": 19
+      "glb_sha256": "a0f2f64d6645412a0d668872dc8d16461af52d4c9880c652eb4586ba5292a222",
+      "glb_size_bytes": 156400,
+      "subsystem_count": 20
     },
     {
       "part_id": "llm_gen_chest_armor_048_eeb07f",
@@ -49277,8 +49328,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_048_546ad9.glb",
-          "sha256_hash": "277901f8fd85eba384bb03a9398cd2b27c2d6478833e421b0e6da8ab4b5ab506",
-          "file_size_bytes": 298060,
+          "sha256_hash": "fca5c581780f10e4d1002d9aadd79c21cf4503b98ef8c0d4d2cf9977d1279037",
+          "file_size_bytes": 301684,
           "compression": "meshopt"
         }
       },
@@ -49332,8 +49383,8 @@
         "topology_hash": "8ce52137392bebd4",
         "composition_key": "quad_xwing_aero_binder+lower_propellant_tanks+twin_over_shoulder_cannons+gouf_cobalt+g_22aec6"
       },
-      "glb_sha256": "277901f8fd85eba384bb03a9398cd2b27c2d6478833e421b0e6da8ab4b5ab506",
-      "glb_size_bytes": 298060,
+      "glb_sha256": "fca5c581780f10e4d1002d9aadd79c21cf4503b98ef8c0d4d2cf9977d1279037",
+      "glb_size_bytes": 301684,
       "subsystem_count": 46
     },
     {
@@ -49404,8 +49455,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_049_264efb.glb",
-          "sha256_hash": "397d0ea9fdec272e7a3cb1ffb45f5d517d9d50e7710f433eec11631545bf7f6c",
-          "file_size_bytes": 110004,
+          "sha256_hash": "295162629b6bf6d9de7ab44aa390d51abe5c3fc00276a569c792ff726eda938d",
+          "file_size_bytes": 106856,
           "compression": "meshopt"
         }
       },
@@ -49457,9 +49508,9 @@
         "topology_hash": "32e06b78fd600eee",
         "composition_key": "zeon_commander_mohawk_crest+twin_sensor_ears+strike_freedom_royal+g_d3c546"
       },
-      "glb_sha256": "397d0ea9fdec272e7a3cb1ffb45f5d517d9d50e7710f433eec11631545bf7f6c",
-      "glb_size_bytes": 110004,
-      "subsystem_count": 15
+      "glb_sha256": "295162629b6bf6d9de7ab44aa390d51abe5c3fc00276a569c792ff726eda938d",
+      "glb_size_bytes": 106856,
+      "subsystem_count": 16
     },
     {
       "part_id": "llm_gen_chest_armor_049_f4a574",
@@ -50278,8 +50329,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_049_65e784.glb",
-          "sha256_hash": "c48ee7e142ec59751f60ee30e0e8d90cbdde507258b20d869821f56b06c58cba",
-          "file_size_bytes": 264748,
+          "sha256_hash": "90def78861eb4769150e8e7c8c47269eeb6dfea8d93805856bbdb1fff040df4a",
+          "file_size_bytes": 268924,
           "compression": "meshopt"
         }
       },
@@ -50335,8 +50386,8 @@
         "topology_hash": "57b0ac1d6c66db27",
         "composition_key": "six_wing_seraph_angel_binders+quad_micro_verniers+banshee_obsidian+g_57acb3"
       },
-      "glb_sha256": "c48ee7e142ec59751f60ee30e0e8d90cbdde507258b20d869821f56b06c58cba",
-      "glb_size_bytes": 264748,
+      "glb_sha256": "90def78861eb4769150e8e7c8c47269eeb6dfea8d93805856bbdb1fff040df4a",
+      "glb_size_bytes": 268924,
       "subsystem_count": 44
     },
     {
@@ -50407,8 +50458,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_050_1fb7e2.glb",
-          "sha256_hash": "047ff80a4cd3c6cff3a72f97dd76073cd91006fff9664bbebc093801b07eecf7",
-          "file_size_bytes": 102600,
+          "sha256_hash": "64d40dc7f4e0a1c5804a4d13c57e5ec7f5b6176bb4611ab9f3db708b8529a68d",
+          "file_size_bytes": 97900,
           "compression": "meshopt"
         }
       },
@@ -50463,8 +50514,8 @@
         "topology_hash": "7a390475f4108fe3",
         "composition_key": "ew_dual_blade_recon_dome+none+barbatos_iron+g_48b1ab"
       },
-      "glb_sha256": "047ff80a4cd3c6cff3a72f97dd76073cd91006fff9664bbebc093801b07eecf7",
-      "glb_size_bytes": 102600,
+      "glb_sha256": "64d40dc7f4e0a1c5804a4d13c57e5ec7f5b6176bb4611ab9f3db708b8529a68d",
+      "glb_size_bytes": 97900,
       "subsystem_count": 15
     },
     {
@@ -51030,8 +51081,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_aux_weapon_050_f3a953.glb",
-          "sha256_hash": "f546404103b5f9a091b64cfc46d7b01cb90a3de125cc02021da5593acbc3f1ef",
-          "file_size_bytes": 93116,
+          "sha256_hash": "567b0b663ffe9f1459cf809c60c0e896a30f9e8c995842b7e50c3d3e9be1e989",
+          "file_size_bytes": 93132,
           "compression": "meshopt"
         }
       },
@@ -51087,8 +51138,8 @@
         "topology_hash": "a003380fd83c4b7d",
         "composition_key": "heavy_beam_magnum_cannon+extended_sniper_scope+side_drum_capacitor+federation_rx+g_ce038e@s1.0000"
       },
-      "glb_sha256": "f546404103b5f9a091b64cfc46d7b01cb90a3de125cc02021da5593acbc3f1ef",
-      "glb_size_bytes": 93116,
+      "glb_sha256": "567b0b663ffe9f1459cf809c60c0e896a30f9e8c995842b7e50c3d3e9be1e989",
+      "glb_size_bytes": 93132,
       "subsystem_count": 12
     },
     {
@@ -51285,8 +51336,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_050_1a2f4d.glb",
-          "sha256_hash": "8c5950ef721e843d3fbf970ee97d1fa54f7a1d09e522be0775f949bf6c1626ff",
-          "file_size_bytes": 321388,
+          "sha256_hash": "e6dcfa503782f5673438bca58d5efd1179607c722bc4c71bf8f0e8c2fb98562d",
+          "file_size_bytes": 323256,
           "compression": "meshopt"
         }
       },
@@ -51339,8 +51390,8 @@
         "topology_hash": "d701be1690be1552",
         "composition_key": "orbital_funnel_ring_halo+none+wing_zero_pearl+g_eed7a0"
       },
-      "glb_sha256": "8c5950ef721e843d3fbf970ee97d1fa54f7a1d09e522be0775f949bf6c1626ff",
-      "glb_size_bytes": 321388,
+      "glb_sha256": "e6dcfa503782f5673438bca58d5efd1179607c722bc4c71bf8f0e8c2fb98562d",
+      "glb_size_bytes": 323256,
       "subsystem_count": 43
     },
     {
@@ -51411,8 +51462,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_051_7e672d.glb",
-          "sha256_hash": "e17b7a7d3f882823a5c5a5af269fa02575d909660cbe0637665cda28be3aa2a6",
-          "file_size_bytes": 92772,
+          "sha256_hash": "8577f0e6b1d06ee7daece8803d49cd383e165948a8ae6cbbd512c93156df00b9",
+          "file_size_bytes": 93608,
           "compression": "meshopt"
         }
       },
@@ -51463,8 +51514,8 @@
         "topology_hash": "c59ac6584ccc8cd6",
         "composition_key": "sniper_optical_visor_hood+rear_cooling_crest+twin_sensor_ears+exia_gn_cyan+acc_gold+g_9da7e3@s1.0000"
       },
-      "glb_sha256": "e17b7a7d3f882823a5c5a5af269fa02575d909660cbe0637665cda28be3aa2a6",
-      "glb_size_bytes": 92772,
+      "glb_sha256": "8577f0e6b1d06ee7daece8803d49cd383e165948a8ae6cbbd512c93156df00b9",
+      "glb_size_bytes": 93608,
       "subsystem_count": 15
     },
     {
@@ -52423,8 +52474,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_052_41df17.glb",
-          "sha256_hash": "8cad046f72b14b7355ef24ebdde8e994679cecfaf93413b0e6a735d3c9db5c7a",
-          "file_size_bytes": 120608,
+          "sha256_hash": "c5feed39116f8f43e76af702087fbb0b46fac6e20cbd170e4246f2510271af93",
+          "file_size_bytes": 116288,
           "compression": "meshopt"
         }
       },
@@ -52475,8 +52526,8 @@
         "topology_hash": "cad86e8816a1b358",
         "composition_key": "horned_oni_assault_crest+dual_temple_vulcans+twin_vfin_antennae+sazabi_verka+g_fa1e98"
       },
-      "glb_sha256": "8cad046f72b14b7355ef24ebdde8e994679cecfaf93413b0e6a735d3c9db5c7a",
-      "glb_size_bytes": 120608,
+      "glb_sha256": "c5feed39116f8f43e76af702087fbb0b46fac6e20cbd170e4246f2510271af93",
+      "glb_size_bytes": 116288,
       "subsystem_count": 16
     },
     {
@@ -53432,8 +53483,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_053_90df09.glb",
-          "sha256_hash": "58d06b5552f3c27e2df8172782b37ca32eda7cb59e50565a91eb3e2ef9e5bc9a",
-          "file_size_bytes": 140432,
+          "sha256_hash": "66a0169a03decf45f19650098677760a6277ef4955168265a25b217fb2d30277",
+          "file_size_bytes": 145336,
           "compression": "meshopt"
         }
       },
@@ -53485,9 +53536,9 @@
         "topology_hash": "34db5fba33f27ee6",
         "composition_key": "unicorn_destroy_split_vfin+rear_cooling_crest+twin_sensor_ears+tallgeese_imperial+acc_gold+g_beef99@s1.0000"
       },
-      "glb_sha256": "58d06b5552f3c27e2df8172782b37ca32eda7cb59e50565a91eb3e2ef9e5bc9a",
-      "glb_size_bytes": 140432,
-      "subsystem_count": 18
+      "glb_sha256": "66a0169a03decf45f19650098677760a6277ef4955168265a25b217fb2d30277",
+      "glb_size_bytes": 145336,
+      "subsystem_count": 19
     },
     {
       "part_id": "llm_gen_chest_armor_053_2d5a7e",
@@ -53932,8 +53983,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_leg_thrusters_053_169f73.glb",
-          "sha256_hash": "b2d4bbcf8eaa458337a564227c2fe5f27b339b5d38df1783e237aeec633ce209",
-          "file_size_bytes": 269104,
+          "sha256_hash": "c513e68db0cc1631c54532c64f0a4662920ed9b6697abe3a93fb9d20d3b8006c",
+          "file_size_bytes": 269364,
           "compression": "meshopt"
         }
       },
@@ -53986,8 +54037,8 @@
         "topology_hash": "b7db3d7ea10dbda4",
         "composition_key": "aero_fin_interceptor_greaves+forward_knee_spike+upper_calf_fuel_cell+sazabi_verka+g_62861f"
       },
-      "glb_sha256": "b2d4bbcf8eaa458337a564227c2fe5f27b339b5d38df1783e237aeec633ce209",
-      "glb_size_bytes": 269104,
+      "glb_sha256": "c513e68db0cc1631c54532c64f0a4662920ed9b6697abe3a93fb9d20d3b8006c",
+      "glb_size_bytes": 269364,
       "subsystem_count": 30
     },
     {
@@ -54318,8 +54369,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_053_7eb104.glb",
-          "sha256_hash": "c1af3fab5171606869f2745162d66971e3ebbd4a7c64f765015f721ff62345da",
-          "file_size_bytes": 238328,
+          "sha256_hash": "d6feed3f3ef2fd4ab185819a10329eef2bdd3a49193fdd7294a816d7ee476a43",
+          "file_size_bytes": 242520,
           "compression": "meshopt"
         }
       },
@@ -54372,8 +54423,8 @@
         "topology_hash": "a634c246858ada3e",
         "composition_key": "six_wing_seraph_angel_binders+none+sazabi_verka+g_65694d"
       },
-      "glb_sha256": "c1af3fab5171606869f2745162d66971e3ebbd4a7c64f765015f721ff62345da",
-      "glb_size_bytes": 238328,
+      "glb_sha256": "d6feed3f3ef2fd4ab185819a10329eef2bdd3a49193fdd7294a816d7ee476a43",
+      "glb_size_bytes": 242520,
       "subsystem_count": 42
     },
     {
@@ -54444,8 +54495,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_054_a1c90c.glb",
-          "sha256_hash": "1eed8b848441e672a84f2fd844b6bf51b0ac6cca4ddf153c2d09b922a072a6e0",
-          "file_size_bytes": 89116,
+          "sha256_hash": "597db4a9f4cb59292d6baa92331913ab033aaa81db8d5a2dc6c2d936d8dabfd2",
+          "file_size_bytes": 85968,
           "compression": "meshopt"
         }
       },
@@ -54496,9 +54547,9 @@
         "topology_hash": "91939e7060a08db6",
         "composition_key": "zeon_commander_mohawk_crest+none+sinanju_gloss_red+g_e8d460"
       },
-      "glb_sha256": "1eed8b848441e672a84f2fd844b6bf51b0ac6cca4ddf153c2d09b922a072a6e0",
-      "glb_size_bytes": 89116,
-      "subsystem_count": 13
+      "glb_sha256": "597db4a9f4cb59292d6baa92331913ab033aaa81db8d5a2dc6c2d936d8dabfd2",
+      "glb_size_bytes": 85968,
+      "subsystem_count": 14
     },
     {
       "part_id": "llm_gen_chest_armor_054_f1de50",
@@ -55319,8 +55370,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_054_0f5166.glb",
-          "sha256_hash": "fbbb343c1327b2d1c58e0ba80da20deaaf372a6c6012d5a9832ca0eadf585a75",
-          "file_size_bytes": 348992,
+          "sha256_hash": "0e47ef038dc3136b4c6bc01ea17918e862fc67d9165be71f110da61c0d9cad3c",
+          "file_size_bytes": 350448,
           "compression": "meshopt"
         }
       },
@@ -55373,8 +55424,8 @@
         "topology_hash": "da5dc5ce79e8e94b",
         "composition_key": "orbital_funnel_ring_halo+lower_propellant_tanks+twin_over_shoulder_cannons+sinanju_gloss_red+g_cd3b5c"
       },
-      "glb_sha256": "fbbb343c1327b2d1c58e0ba80da20deaaf372a6c6012d5a9832ca0eadf585a75",
-      "glb_size_bytes": 348992,
+      "glb_sha256": "0e47ef038dc3136b4c6bc01ea17918e862fc67d9165be71f110da61c0d9cad3c",
+      "glb_size_bytes": 350448,
       "subsystem_count": 47
     },
     {
@@ -55445,8 +55496,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_055_200222.glb",
-          "sha256_hash": "a1142f8c2645330d6ba06924f8349ce162ce5c4c40d5c3c2d0f858277d7cb31a",
-          "file_size_bytes": 149564,
+          "sha256_hash": "66cf872e88cd1205234755d3f0a6375640a6479fa0b186b6bbce59f7f425cc32",
+          "file_size_bytes": 151080,
           "compression": "meshopt"
         }
       },
@@ -55499,7 +55550,10 @@
         ],
         "topology_hash": "2f4325277c2371c1",
         "composition_key": "quad_blade_awacs_crown+rear_cooling_crest+twin_sensor_ears+barbatos_iron+acc_titanium+g_3b1586@s1.0200"
-      }
+      },
+      "glb_sha256": "66cf872e88cd1205234755d3f0a6375640a6479fa0b186b6bbce59f7f425cc32",
+      "glb_size_bytes": 151080,
+      "subsystem_count": 20
     },
     {
       "part_id": "llm_gen_chest_armor_055_dca07c",
@@ -56460,8 +56514,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_056_d19e7c.glb",
-          "sha256_hash": "b67ab38f31c178f13b2634d422e38109d3ddc8a0b77ea88801038c500df4dd2b",
-          "file_size_bytes": 123696,
+          "sha256_hash": "064f0dec5cbfd70fc6cb333c2a2dc249fb3f7ca8bdc3e0dc400f23efb5983d06",
+          "file_size_bytes": 118288,
           "compression": "meshopt"
         }
       },
@@ -56514,8 +56568,8 @@
         "topology_hash": "6387f083516e0ca5",
         "composition_key": "ew_dual_blade_recon_dome+dual_temple_vulcans+twin_vfin_antennae+destiny_phantom+g_89295d"
       },
-      "glb_sha256": "b67ab38f31c178f13b2634d422e38109d3ddc8a0b77ea88801038c500df4dd2b",
-      "glb_size_bytes": 123696,
+      "glb_sha256": "064f0dec5cbfd70fc6cb333c2a2dc249fb3f7ca8bdc3e0dc400f23efb5983d06",
+      "glb_size_bytes": 118288,
       "subsystem_count": 17
     },
     {
@@ -57095,8 +57149,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_aux_weapon_056_b3f75d.glb",
-          "sha256_hash": "a9116cc1dfa7576f4a37936ffe1e2bcce729ebadfa88b8d8ca59f011cff6179f",
-          "file_size_bytes": 82220,
+          "sha256_hash": "ea1c4f8d8e1877543107f467ba9a3292fa643195b6a0b38ea97745fe8d57acd8",
+          "file_size_bytes": 82212,
           "compression": "meshopt"
         }
       },
@@ -57154,8 +57208,8 @@
         "topology_hash": "a12a7ca8b23b61fc",
         "composition_key": "heavy_beam_magnum_cannon+none+destiny_phantom+g_39df8f"
       },
-      "glb_sha256": "a9116cc1dfa7576f4a37936ffe1e2bcce729ebadfa88b8d8ca59f011cff6179f",
-      "glb_size_bytes": 82220,
+      "glb_sha256": "ea1c4f8d8e1877543107f467ba9a3292fa643195b6a0b38ea97745fe8d57acd8",
+      "glb_size_bytes": 82212,
       "subsystem_count": 11
     },
     {
@@ -57472,8 +57526,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_057_8eb325.glb",
-          "sha256_hash": "b6b94e0faba68e2b172826992a30403a7d735ab1c3a580394ce30c706dfead03",
-          "file_size_bytes": 120128,
+          "sha256_hash": "21de4efe2e7f5aa1da9aaf29920c83c92829df25f43b1bfcc535052352e7ce64",
+          "file_size_bytes": 115728,
           "compression": "meshopt"
         }
       },
@@ -57527,8 +57581,8 @@
         "topology_hash": "3e38e0038b121dd2",
         "composition_key": "horned_oni_assault_crest+dual_temple_vulcans+twin_vfin_antennae+kampfer_midnight+g_b31baf"
       },
-      "glb_sha256": "b6b94e0faba68e2b172826992a30403a7d735ab1c3a580394ce30c706dfead03",
-      "glb_size_bytes": 120128,
+      "glb_sha256": "21de4efe2e7f5aa1da9aaf29920c83c92829df25f43b1bfcc535052352e7ce64",
+      "glb_size_bytes": 115728,
       "subsystem_count": 16
     },
     {
@@ -58360,8 +58414,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_057_0c3682.glb",
-          "sha256_hash": "21276538f7c1e3ed542d3ce974f364c8a13edafddeb45f487d0719c413a2ce30",
-          "file_size_bytes": 294936,
+          "sha256_hash": "eae723dd41c1a0b93b0f3206d402c332c1cc1208c785625b4f088b68585cdc25",
+          "file_size_bytes": 299128,
           "compression": "meshopt"
         }
       },
@@ -58412,7 +58466,10 @@
         ],
         "topology_hash": "af3475cb478e0860",
         "composition_key": "six_wing_seraph_angel_binders+lower_propellant_tanks+twin_over_shoulder_cannons+kampfer_midnight+g_26580b"
-      }
+      },
+      "glb_sha256": "eae723dd41c1a0b93b0f3206d402c332c1cc1208c785625b4f088b68585cdc25",
+      "glb_size_bytes": 299128,
+      "subsystem_count": 50
     },
     {
       "part_id": "llm_gen_head_sensor_058_b854ac",
@@ -58482,8 +58539,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_058_b854ac.glb",
-          "sha256_hash": "3c921c3801fa5436ebac3ad6587112dd4f53604534e69166e999adf4ce564d87",
-          "file_size_bytes": 151384,
+          "sha256_hash": "315243fe7a81c840aa156b0f523c401e3df67ea040f8d28197b786bc0b3889a1",
+          "file_size_bytes": 156288,
           "compression": "meshopt"
         }
       },
@@ -58538,9 +58595,9 @@
         "topology_hash": "0ca3e4ec615277cc",
         "composition_key": "unicorn_destroy_split_vfin+twin_sensor_ears+gouf_cobalt+g_6a1589"
       },
-      "glb_sha256": "3c921c3801fa5436ebac3ad6587112dd4f53604534e69166e999adf4ce564d87",
-      "glb_size_bytes": 151384,
-      "subsystem_count": 19
+      "glb_sha256": "315243fe7a81c840aa156b0f523c401e3df67ea040f8d28197b786bc0b3889a1",
+      "glb_size_bytes": 156288,
+      "subsystem_count": 20
     },
     {
       "part_id": "llm_gen_chest_armor_058_2bf34f",
@@ -59369,8 +59426,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_058_60a6b9.glb",
-          "sha256_hash": "004a5fe29b0c6932505b305eed6169320412e24823a64bcf29d3ebc0ec9aedd2",
-          "file_size_bytes": 376064,
+          "sha256_hash": "497ee563d421686b5e17e8a3c27c8060153dc8abea01011e73c808f9efa38316",
+          "file_size_bytes": 377932,
           "compression": "meshopt"
         }
       },
@@ -59420,7 +59477,10 @@
         ],
         "topology_hash": "d3ae3bf97d8efb07",
         "composition_key": "orbital_funnel_ring_halo+lower_propellant_tanks+twin_over_shoulder_cannons+tallgeese_imperial+g_2e16cb"
-      }
+      },
+      "glb_sha256": "497ee563d421686b5e17e8a3c27c8060153dc8abea01011e73c808f9efa38316",
+      "glb_size_bytes": 377932,
+      "subsystem_count": 51
     },
     {
       "part_id": "llm_gen_head_sensor_059_7d5e35",
@@ -59490,8 +59550,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_059_7d5e35.glb",
-          "sha256_hash": "941852f534d8f1b67d2b021dc232026fcdf26baced01dacbd291fd2b2a0d6aef",
-          "file_size_bytes": 124228,
+          "sha256_hash": "ab8a7b0eac0ecb26922c11daafbc1e5bffef04c615454c88e723ba8953aeb0dd",
+          "file_size_bytes": 121072,
           "compression": "meshopt"
         }
       },
@@ -59542,9 +59602,9 @@
         "topology_hash": "313b1a1357ddd1c4",
         "composition_key": "zeon_commander_mohawk_crest+dual_temple_vulcans+twin_vfin_antennae+unicorn_awakened_gn+g_2b1e8a"
       },
-      "glb_sha256": "941852f534d8f1b67d2b021dc232026fcdf26baced01dacbd291fd2b2a0d6aef",
-      "glb_size_bytes": 124228,
-      "subsystem_count": 17
+      "glb_sha256": "ab8a7b0eac0ecb26922c11daafbc1e5bffef04c615454c88e723ba8953aeb0dd",
+      "glb_size_bytes": 121072,
+      "subsystem_count": 18
     },
     {
       "part_id": "llm_gen_chest_armor_059_db579d",
@@ -59987,8 +60047,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_leg_thrusters_059_8893b5.glb",
-          "sha256_hash": "9b07d930d677d0422c5f1927bf690464161b746d797b8fcb05ee59047d4171a7",
-          "file_size_bytes": 289484,
+          "sha256_hash": "8e31645e0377f41456310f4af599387b0dd0d0d163a8fb6426aae9ac3f7a8849",
+          "file_size_bytes": 289792,
           "compression": "meshopt"
         }
       },
@@ -60041,8 +60101,8 @@
         "topology_hash": "a0d0473e733a01a7",
         "composition_key": "aero_fin_interceptor_greaves+forward_knee_spike+upper_calf_fuel_cell+hyaku_shiki_gold+g_1e82e9"
       },
-      "glb_sha256": "9b07d930d677d0422c5f1927bf690464161b746d797b8fcb05ee59047d4171a7",
-      "glb_size_bytes": 289484,
+      "glb_sha256": "8e31645e0377f41456310f4af599387b0dd0d0d163a8fb6426aae9ac3f7a8849",
+      "glb_size_bytes": 289792,
       "subsystem_count": 32
     },
     {
@@ -60486,8 +60546,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_060_223286.glb",
-          "sha256_hash": "14523aae2e5f99e2a84fccb616fce79da7080be2e9575d318b515a953b202101",
-          "file_size_bytes": 137668,
+          "sha256_hash": "8d3d808b3e8f3fd52ec17e5fda6d43d14e68577b25e74fb55046aba21761a558",
+          "file_size_bytes": 133112,
           "compression": "meshopt"
         }
       },
@@ -60541,8 +60601,8 @@
         "topology_hash": "7a56678902b40c49",
         "composition_key": "ew_dual_blade_recon_dome+dual_temple_vulcans+twin_vfin_antennae+zeon_olive_ace+g_3311ad"
       },
-      "glb_sha256": "14523aae2e5f99e2a84fccb616fce79da7080be2e9575d318b515a953b202101",
-      "glb_size_bytes": 137668,
+      "glb_sha256": "8d3d808b3e8f3fd52ec17e5fda6d43d14e68577b25e74fb55046aba21761a558",
+      "glb_size_bytes": 133112,
       "subsystem_count": 19
     },
     {
@@ -60737,8 +60797,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_060_e6b673.glb",
-          "sha256_hash": "b4c3ae419bb39d6c61798cf8d0720ff4366deec074b9134e1ec1946cf14715b2",
-          "file_size_bytes": 367808,
+          "sha256_hash": "5c2b56bac76c9d1bbc390a1e970301326d159741cd9fccae9981b95c61822ecc",
+          "file_size_bytes": 367692,
           "compression": "meshopt"
         }
       },
@@ -60790,7 +60850,10 @@
         ],
         "topology_hash": "0bf40f4e48009ca8",
         "composition_key": "swept_samurai_wing_pauldrons+forward_sensor_pod+wing_zero_pearl+g_5946bc"
-      }
+      },
+      "glb_sha256": "5c2b56bac76c9d1bbc390a1e970301326d159741cd9fccae9981b95c61822ecc",
+      "glb_size_bytes": 367692,
+      "subsystem_count": 36
     },
     {
       "part_id": "llm_gen_waist_ordnance_060_a6e142",
@@ -61363,8 +61426,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_060_153b18.glb",
-          "sha256_hash": "b5b82d5135e65565d56b0ed7dba03342d628f54e0f62f310b81cfe778e711291",
-          "file_size_bytes": 327448,
+          "sha256_hash": "c673bb788921e5332a84ec41161df2c21ec6559f7bd327932ec782d051a84f19",
+          "file_size_bytes": 330336,
           "compression": "meshopt"
         }
       },
@@ -61423,7 +61486,10 @@
         ],
         "topology_hash": "5ffcc370a51cb1fa",
         "composition_key": "quad_xwing_aero_binder+lower_propellant_tanks+twin_over_shoulder_cannons+hyaku_shiki_gold+g_7ff26c"
-      }
+      },
+      "glb_sha256": "c673bb788921e5332a84ec41161df2c21ec6559f7bd327932ec782d051a84f19",
+      "glb_size_bytes": 330336,
+      "subsystem_count": 50
     },
     {
       "part_id": "llm_gen_head_sensor_061_21015e",
@@ -61493,8 +61559,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_061_21015e.glb",
-          "sha256_hash": "8e160aff72f80f27be490af26152d0400ab5a3f1ab5a337124e5c2038840901d",
-          "file_size_bytes": 134520,
+          "sha256_hash": "0e0be9d89374dea4d41986f1ba54a873123b281fa07e2b5d7a94c5455a8eea5d",
+          "file_size_bytes": 130260,
           "compression": "meshopt"
         }
       },
@@ -61546,8 +61612,8 @@
         "topology_hash": "168b84c2f6d12100",
         "composition_key": "horned_oni_assault_crest+dual_temple_vulcans+twin_vfin_antennae+wing_zero_pearl+g_612f87"
       },
-      "glb_sha256": "8e160aff72f80f27be490af26152d0400ab5a3f1ab5a337124e5c2038840901d",
-      "glb_size_bytes": 134520,
+      "glb_sha256": "0e0be9d89374dea4d41986f1ba54a873123b281fa07e2b5d7a94c5455a8eea5d",
+      "glb_size_bytes": 130260,
       "subsystem_count": 18
     },
     {
@@ -62369,8 +62435,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_061_0033b9.glb",
-          "sha256_hash": "afd0fe31fe8c8f12399c99ea9f93353a02b6b34252c58f42a8f32da49e851ad0",
-          "file_size_bytes": 317852,
+          "sha256_hash": "b930cdc95ef4e6cf89096281fa7460382f198054e02a58b8f2456f99d2c75dfa",
+          "file_size_bytes": 322044,
           "compression": "meshopt"
         }
       },
@@ -62423,7 +62489,10 @@
         ],
         "topology_hash": "39d9dc4b54fa3027",
         "composition_key": "six_wing_seraph_angel_binders+lower_propellant_tanks+quad_micro_verniers+twin_over_shoulder_cannons+federation_rx+acc_gold+g_d34206@s1.0200"
-      }
+      },
+      "glb_sha256": "b930cdc95ef4e6cf89096281fa7460382f198054e02a58b8f2456f99d2c75dfa",
+      "glb_size_bytes": 322044,
+      "subsystem_count": 52
     },
     {
       "part_id": "llm_gen_head_sensor_062_68808f",
@@ -62493,8 +62562,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_062_68808f.glb",
-          "sha256_hash": "d7ce5f7dada9deb84d5e5c3973a6a1e2b190dbaf9e8ee9142faaafcb134c54c3",
-          "file_size_bytes": 120464,
+          "sha256_hash": "530e02e13d89697622eab0f9deacf1e4be034f1f693b1a12c78f5e8699388ce1",
+          "file_size_bytes": 117244,
           "compression": "meshopt"
         }
       },
@@ -62544,7 +62613,10 @@
         ],
         "topology_hash": "1fafc9d9a89c9609",
         "composition_key": "asymmetric_monocle_targeter+dual_temple_vulcans+twin_vfin_antennae+banshee_obsidian+g_3a9da7"
-      }
+      },
+      "glb_sha256": "530e02e13d89697622eab0f9deacf1e4be034f1f693b1a12c78f5e8699388ce1",
+      "glb_size_bytes": 117244,
+      "subsystem_count": 16
     },
     {
       "part_id": "llm_gen_chest_armor_062_ec121b",
@@ -63375,8 +63447,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_062_90f5e3.glb",
-          "sha256_hash": "0aadb94dc1577c4fe22a12533aec1fb85cc920c954d2640ffee38170ecf53cb9",
-          "file_size_bytes": 373300,
+          "sha256_hash": "8ed464031900f886543607ec028ae1b92845dc68194c0caf80e172d35330a8e9",
+          "file_size_bytes": 374760,
           "compression": "meshopt"
         }
       },
@@ -63428,7 +63500,10 @@
         ],
         "topology_hash": "c0486292bea35f4f",
         "composition_key": "orbital_funnel_ring_halo+quad_micro_verniers+twin_over_shoulder_cannons+gouf_cobalt+g_e310b7"
-      }
+      },
+      "glb_sha256": "8ed464031900f886543607ec028ae1b92845dc68194c0caf80e172d35330a8e9",
+      "glb_size_bytes": 374760,
+      "subsystem_count": 49
     },
     {
       "part_id": "llm_gen_head_sensor_063_0351f4",
@@ -63498,8 +63573,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_063_0351f4.glb",
-          "sha256_hash": "d1edb83c5c2ee6f244b5ec43ad831758d073594076d2b71219bc01298f419b68",
-          "file_size_bytes": 130496,
+          "sha256_hash": "5ea59efdc037655f6c11c692d90aba6abdd7f0fec9a20f79b24f2a17de9ed0f5",
+          "file_size_bytes": 135384,
           "compression": "meshopt"
         }
       },
@@ -63553,9 +63628,9 @@
         "topology_hash": "3c5256c8c4257083",
         "composition_key": "unicorn_destroy_split_vfin+none+sazabi_verka+g_dccbf2"
       },
-      "glb_sha256": "d1edb83c5c2ee6f244b5ec43ad831758d073594076d2b71219bc01298f419b68",
-      "glb_size_bytes": 130496,
-      "subsystem_count": 17
+      "glb_sha256": "5ea59efdc037655f6c11c692d90aba6abdd7f0fec9a20f79b24f2a17de9ed0f5",
+      "glb_size_bytes": 135384,
+      "subsystem_count": 18
     },
     {
       "part_id": "llm_gen_chest_armor_063_50b349",
@@ -64012,8 +64087,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_leg_thrusters_063_07c80b.glb",
-          "sha256_hash": "e596c8b89487be50414a68a6811f5d02f11a0564028038644d14ebd2ba499f74",
-          "file_size_bytes": 342688,
+          "sha256_hash": "cd6a09a8a622d933819650be7ac06e17084917252747674018c28f851a56b3f9",
+          "file_size_bytes": 342972,
           "compression": "meshopt"
         }
       },
@@ -64070,8 +64145,8 @@
         "topology_hash": "82dddb83b1eadb18",
         "composition_key": "aero_fin_interceptor_greaves+dual_ankle_verniers+forward_knee_spike+banshee_obsidian+g_0f2c00"
       },
-      "glb_sha256": "e596c8b89487be50414a68a6811f5d02f11a0564028038644d14ebd2ba499f74",
-      "glb_size_bytes": 342688,
+      "glb_sha256": "cd6a09a8a622d933819650be7ac06e17084917252747674018c28f851a56b3f9",
+      "glb_size_bytes": 342972,
       "subsystem_count": 38
     },
     {
@@ -64528,8 +64603,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_064_de9a50.glb",
-          "sha256_hash": "4c9ab189287eb51d548bb175ea1f49285c35b4c00eb703cf4789e4f8f67eee18",
-          "file_size_bytes": 112328,
+          "sha256_hash": "56328d4c77b9fc7fc664b81c452b3bc05a35dd0fe6616379bac39f6aab9180f6",
+          "file_size_bytes": 109172,
           "compression": "meshopt"
         }
       },
@@ -64580,9 +64655,9 @@
         "topology_hash": "1958a7bb2568923d",
         "composition_key": "zeon_commander_mohawk_crest+rear_cooling_crest+twin_vfin_antennae+destiny_phantom+g_266939"
       },
-      "glb_sha256": "4c9ab189287eb51d548bb175ea1f49285c35b4c00eb703cf4789e4f8f67eee18",
-      "glb_size_bytes": 112328,
-      "subsystem_count": 16
+      "glb_sha256": "56328d4c77b9fc7fc664b81c452b3bc05a35dd0fe6616379bac39f6aab9180f6",
+      "glb_size_bytes": 109172,
+      "subsystem_count": 17
     },
     {
       "part_id": "llm_gen_chest_armor_064_4655d6",
@@ -64782,8 +64857,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_064_c22518.glb",
-          "sha256_hash": "75a6fd1d7c9376d1b21828653d174c1f59180a20718506024921a3dfab72e392",
-          "file_size_bytes": 367872,
+          "sha256_hash": "3b831a3791f938c3d67175e97978acf47c66a796d9cdbc68ca8d2c89924ac1b9",
+          "file_size_bytes": 367704,
           "compression": "meshopt"
         }
       },
@@ -64836,7 +64911,10 @@
         ],
         "topology_hash": "26fcf122e9ca83eb",
         "composition_key": "swept_samurai_wing_pauldrons+forward_sensor_pod+exia_gn_cyan+g_01d971"
-      }
+      },
+      "glb_sha256": "3b831a3791f938c3d67175e97978acf47c66a796d9cdbc68ca8d2c89924ac1b9",
+      "glb_size_bytes": 367704,
+      "subsystem_count": 36
     },
     {
       "part_id": "llm_gen_waist_ordnance_064_797733",
@@ -65166,8 +65244,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_aux_weapon_064_a921a1.glb",
-          "sha256_hash": "58558de2e4508cc354e12f75cb89601a942a46671fef3ce0a9a286e34bf5c126",
-          "file_size_bytes": 103004,
+          "sha256_hash": "145241e7549e3c78349c63c440b5853024060ae3d7c2a8a9515757beb795093c",
+          "file_size_bytes": 103056,
           "compression": "meshopt"
         }
       },
@@ -65225,8 +65303,8 @@
         "topology_hash": "636587563b929ff2",
         "composition_key": "heavy_beam_magnum_cannon+extended_sniper_scope+underbarrel_grenade_launcher+strike_freedom_royal+g_c5bb7d"
       },
-      "glb_sha256": "58558de2e4508cc354e12f75cb89601a942a46671fef3ce0a9a286e34bf5c126",
-      "glb_size_bytes": 103004,
+      "glb_sha256": "145241e7549e3c78349c63c440b5853024060ae3d7c2a8a9515757beb795093c",
+      "glb_size_bytes": 103056,
       "subsystem_count": 13
     },
     {
@@ -65547,8 +65625,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_065_b2b584.glb",
-          "sha256_hash": "40bd7c7729e74c637efa710ccc5c75d82aca171839a607687d946e2e04b5ebde",
-          "file_size_bytes": 126004,
+          "sha256_hash": "8741d06faaca0f9fc1a48d84792adaaca37846c63314cc06dd7cbf636b649041",
+          "file_size_bytes": 121448,
           "compression": "meshopt"
         }
       },
@@ -65605,8 +65683,8 @@
         "topology_hash": "41a8e4e7c3e260fd",
         "composition_key": "ew_dual_blade_recon_dome+rear_cooling_crest+twin_vfin_antennae+strike_freedom_royal+g_49af6d"
       },
-      "glb_sha256": "40bd7c7729e74c637efa710ccc5c75d82aca171839a607687d946e2e04b5ebde",
-      "glb_size_bytes": 126004,
+      "glb_sha256": "8741d06faaca0f9fc1a48d84792adaaca37846c63314cc06dd7cbf636b649041",
+      "glb_size_bytes": 121448,
       "subsystem_count": 18
     },
     {
@@ -66448,8 +66526,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_065_9813ed.glb",
-          "sha256_hash": "49a96d8ce612a1d7e6bb27bd137f886a9a2bce9ae5a6399177284a4be9d835b3",
-          "file_size_bytes": 324184,
+          "sha256_hash": "10e266a108577e29e7a8a7319133f423c0040893a6dd44c3d7a54adf33e8b64c",
+          "file_size_bytes": 327072,
           "compression": "meshopt"
         }
       },
@@ -66498,7 +66576,10 @@
         ],
         "topology_hash": "9f56fc193a60b7a6",
         "composition_key": "quad_xwing_aero_binder+lower_propellant_tanks+quad_micro_verniers+exia_gn_cyan+acc_white+g_660cc3@s1.0200"
-      }
+      },
+      "glb_sha256": "10e266a108577e29e7a8a7319133f423c0040893a6dd44c3d7a54adf33e8b64c",
+      "glb_size_bytes": 327072,
+      "subsystem_count": 48
     },
     {
       "part_id": "llm_gen_head_sensor_066_ad3c4a",
@@ -66568,8 +66649,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_066_ad3c4a.glb",
-          "sha256_hash": "57d67b23a0d1fec6bd574de2fa4d8525aaa0ff544cc3ce82fe8c2a64cdba4386",
-          "file_size_bytes": 139408,
+          "sha256_hash": "2b4d3bcaf22fa3dc9875be5b1b5d10b8ac8517d5dca9046011225ef0a75f60e5",
+          "file_size_bytes": 140356,
           "compression": "meshopt"
         }
       },
@@ -66623,8 +66704,8 @@
         "topology_hash": "bcbc74be75df0329",
         "composition_key": "sniper_optical_visor_hood+dual_temple_vulcans+twin_sensor_ears+twin_vfin_antennae+sazabi_verka+acc_crimson+g_e13035@s1.0100"
       },
-      "glb_sha256": "57d67b23a0d1fec6bd574de2fa4d8525aaa0ff544cc3ce82fe8c2a64cdba4386",
-      "glb_size_bytes": 139408,
+      "glb_sha256": "2b4d3bcaf22fa3dc9875be5b1b5d10b8ac8517d5dca9046011225ef0a75f60e5",
+      "glb_size_bytes": 140356,
       "subsystem_count": 20
     },
     {
@@ -67457,8 +67538,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_dorsal_pack_066_7ae759.glb",
-          "sha256_hash": "fafb5c75d8d154edf599384a2d575d8d3f5ede908b0a154b9999f417bb5069c2",
-          "file_size_bytes": 275636,
+          "sha256_hash": "9d946a8c2de17111c6baf2201c9af884d717b2cac382ddd9e7578b6ec88ea3b5",
+          "file_size_bytes": 279392,
           "compression": "meshopt"
         }
       },
@@ -67510,7 +67591,10 @@
         ],
         "topology_hash": "13a57345880e59cc",
         "composition_key": "six_wing_seraph_angel_binders+center_stabilizer_tail+twin_over_shoulder_cannons+strike_freedom_royal+g_f80e1f"
-      }
+      },
+      "glb_sha256": "9d946a8c2de17111c6baf2201c9af884d717b2cac382ddd9e7578b6ec88ea3b5",
+      "glb_size_bytes": 279392,
+      "subsystem_count": 47
     },
     {
       "part_id": "llm_gen_head_sensor_067_43cc0c",
@@ -67580,8 +67664,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_067_43cc0c.glb",
-          "sha256_hash": "ee381d7528bb6b1960e03367ce52c93bc1fdde1f5bb9abad511a3842fe860082",
-          "file_size_bytes": 123972,
+          "sha256_hash": "f5f3c0aba2d6a30ace344b4c8f802ca42de8fbc2ca435366b62fd6dc4b1423dc",
+          "file_size_bytes": 119572,
           "compression": "meshopt"
         }
       },
@@ -67632,8 +67716,8 @@
         "topology_hash": "b5205fd360c5a549",
         "composition_key": "horned_oni_assault_crest+rear_cooling_crest+twin_vfin_antennae+sinanju_gloss_red+g_b5e306"
       },
-      "glb_sha256": "ee381d7528bb6b1960e03367ce52c93bc1fdde1f5bb9abad511a3842fe860082",
-      "glb_size_bytes": 123972,
+      "glb_sha256": "f5f3c0aba2d6a30ace344b4c8f802ca42de8fbc2ca435366b62fd6dc4b1423dc",
+      "glb_size_bytes": 119572,
       "subsystem_count": 17
     },
     {
@@ -68093,8 +68177,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_leg_thrusters_067_56abb8.glb",
-          "sha256_hash": "29ad0cb8b940ecd70f6fe714d4dcaa12d37305a6ed347552f8f59978de6d0e04",
-          "file_size_bytes": 342048,
+          "sha256_hash": "292000fe0afce55a64e734a244c3ce73ffb922729c083e9a9eb3a3289b8c1b15",
+          "file_size_bytes": 342308,
           "compression": "meshopt"
         }
       },
@@ -68154,8 +68238,8 @@
         "topology_hash": "11e0da5faac30630",
         "composition_key": "aero_fin_interceptor_greaves+dual_ankle_verniers+upper_calf_fuel_cell+barbatos_iron+g_fd7f2a"
       },
-      "glb_sha256": "29ad0cb8b940ecd70f6fe714d4dcaa12d37305a6ed347552f8f59978de6d0e04",
-      "glb_size_bytes": 342048,
+      "glb_sha256": "292000fe0afce55a64e734a244c3ce73ffb922729c083e9a9eb3a3289b8c1b15",
+      "glb_size_bytes": 342308,
       "subsystem_count": 38
     },
     {
@@ -68611,8 +68695,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_head_sensor_068_dcf10d.glb",
-          "sha256_hash": "cdfa1dd754883755fa1c312ba35726008de8908d91153a09ae9dea7343ab2100",
-          "file_size_bytes": 109412,
+          "sha256_hash": "7901d0809a20c35fa97e208fef22ec8ff26b3d90b6b4718670e1ac48751504c8",
+          "file_size_bytes": 106460,
           "compression": "meshopt"
         }
       },
@@ -68662,7 +68746,10 @@
         ],
         "topology_hash": "5f78bf2ca3cdccc1",
         "composition_key": "asymmetric_monocle_targeter+rear_cooling_crest+twin_vfin_antennae+tallgeese_imperial+g_289764"
-      }
+      },
+      "glb_sha256": "7901d0809a20c35fa97e208fef22ec8ff26b3d90b6b4718670e1ac48751504c8",
+      "glb_size_bytes": 106460,
+      "subsystem_count": 15
     },
     {
       "part_id": "llm_gen_chest_armor_068_81a7be",
@@ -68851,8 +68938,8 @@
         },
         "asset_reference": {
           "relative_url": "models/parts/llm_gen_shoulder_pods_068_c6e47d.glb",
-          "sha256_hash": "74950c187bf8cee6ed953286fee93f876804dc5ea4b0ea06efc388138e1bcc7b",
-          "file_size_bytes": 368268,
+          "sha256_hash": "8cb06f72e55f21b4c4639c10a5b20153b01781737887b73821b88e7c40b128f6",
+          "file_size_bytes": 368132,
           "compression": "meshopt"
         }
       },
@@ -68903,7 +68990,10 @@
         ],
         "topology_hash": "87e7b4cf1f32a47d",
         "composition_key": "swept_samurai_wing_pauldrons+forward_sensor_pod+tallgeese_imperial+g_192452"
-      }
+      },
+      "glb_sha256": "8cb06f72e55f21b4c4639c10a5b20153b01781737887b73821b88e7c40b128f6",
+      "glb_size_bytes": 368132,
+      "subsystem_count": 36
     },
     {
       "part_id": "llm_gen_waist_ordnance_068_61cdc3",
