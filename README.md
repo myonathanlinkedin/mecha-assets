@@ -2,7 +2,7 @@
 
 > **Lean Public Binary Asset Store for the 3D Agentic Mecha WebGL Viewer**  
 > **Live 3D WebGL Engineering Hangar:** [https://myonathanlinkedin.github.io/mecha.html](https://myonathanlinkedin.github.io/mecha.html)  
-> **Last Synchronized:** `2026-11-25 10:20 UTC` • **Baselines:** `2` • **Active Modular GLBs:** `564`
+> **Last Synchronized:** `2026-11-25 11:02 UTC` • **Baselines:** `2` • **Active Modular GLBs:** `574`
 
 ---
 
@@ -21,7 +21,7 @@ mecha-assets/
 
 ---
 
-## 🦾 Active 8-Zone Modular Parts Catalog (564 Compiled GLBs)
+## 🦾 Active 8-Zone Modular Parts Catalog (574 Compiled GLBs)
 
 | Serial | Part Name | Body Zone (`UHIS`) | Physical Adapter | Mass | SHA-256 | Binary GLB |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
@@ -589,3 +589,13 @@ mecha-assets/
 | `GXM-GEN-WST-562` | **MSN-04 Sazabi Hip Missile & Railgun Grenade Pack** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 1,800 kg | `b643475ec90e…` | [`llm_gen_waist_ordnance_069_23fea5.glb`](models/parts/llm_gen_waist_ordnance_069_23fea5.glb) |
 | `GXM-GEN-LEG-563` | **FA-78 Full Armor Gundam Thunderbolt HP‑24 Calf Thruster Kit** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 950 kg | `7b9f22e300ca…` | [`llm_gen_leg_thrusters_069_3b4b9b.glb`](models/parts/llm_gen_leg_thrusters_069_3b4b9b.glb) |
 | `GXM-GEN-WPN-564` | **RX-78-02 Auxiliary Hyper Beam Lance Kit** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 1,200 kg | `2af174245fac…` | [`llm_gen_aux_weapon_069_1bb5ed.glb`](models/parts/llm_gen_aux_weapon_069_1bb5ed.glb) |
+| `GXM-GEN-SHD-565` | **OZ-00MS Tallgeese Super-Vernier Aero-Ram Shield** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 1,850 kg | `88d5dd22c3e9…` | [`llm_gen_aux_shield_069_55d7b4.glb`](models/parts/llm_gen_aux_shield_069_55d7b4.glb) |
+| `GXM-GEN-DPK-566` | **Victory 2 Gundam Dorsal Propulsion Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 1,800 kg | `a6590f826df0…` | [`llm_gen_dorsal_pack_069_a1c62e.glb`](models/parts/llm_gen_dorsal_pack_069_a1c62e.glb) |
+| `GXM-GEN-HED-567` | **RMS-119 EWAC Zack Recon Head Sensor** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 850 kg | `7a52aaa3076c…` | [`llm_gen_head_sensor_070_eabc1e.glb`](models/parts/llm_gen_head_sensor_070_eabc1e.glb) |
+| `GXM-GEN-CHS-568` | **MS-09 Dom Hover-Reactor Pectoral** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 4,200 kg | `64a29eb5399c…` | [`llm_gen_chest_armor_070_cbe51e.glb`](models/parts/llm_gen_chest_armor_070_cbe51e.glb) |
+| `GXM-GEN-SHL-569` | **GAT-X102 Duel Igelstellung CIWS Shoulder Pods** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 850 kg | `109825a7060a…` | [`llm_gen_shoulder_pods_070_142ace.glb`](models/parts/llm_gen_shoulder_pods_070_142ace.glb) |
+| `GXM-GEN-WST-570` | **RX-0 Unicorn HP-13 Heavy-Fortress Waist Pack** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 1,800 kg | `dba712d8ff11…` | [`llm_gen_waist_ordnance_070_5baeac.glb`](models/parts/llm_gen_waist_ordnance_070_5baeac.glb) |
+| `GXM-GEN-LEG-571` | **XXXG-01H Heavyarms HP‑24 Hover Thruster Kit** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 4,200 kg | `4e9a0bc200a7…` | [`llm_gen_leg_thrusters_070_1a6671.glb`](models/parts/llm_gen_leg_thrusters_070_1a6671.glb) |
+| `GXM-GEN-WPN-572` | **RX-78-02 Auxiliary Beam Sniper Mk.IV** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 2,100 kg | `194af793aa37…` | [`llm_gen_aux_weapon_070_dc5c1d.glb`](models/parts/llm_gen_aux_weapon_070_dc5c1d.glb) |
+| `GXM-GEN-SHD-573` | **XXXG-01SR Sandrock Desert Breacher Buckler** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 1,850 kg | `9231a4c76d58…` | [`llm_gen_aux_shield_070_53554f.glb`](models/parts/llm_gen_aux_shield_070_53554f.glb) |
+| `GXM-GEN-DPK-574` | **RX-93-ν2 Hi-ν Fin‑Funnel Dorsal Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 950 kg | `1ac2f4e4f195…` | [`llm_gen_dorsal_pack_070_c9763b.glb`](models/parts/llm_gen_dorsal_pack_070_c9763b.glb) |
