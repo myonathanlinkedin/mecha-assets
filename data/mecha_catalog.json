@@ -2,7 +2,7 @@
   "version": "2.0.0",
   "asset_repository": "https://github.com/myonathanlinkedin/mecha-assets",
   "asset_cdn_base_url": "https://raw.githubusercontent.com/myonathanlinkedin/mecha-assets/main",
-  "last_synced": "2026-11-25T05:08:09.956177+00:00",
+  "last_synced": "2026-11-25T05:17:41.705119+00:00",
   "baselines": [
     {
       "id": "baseline_gundam_frame_v1",
@@ -46,8 +46,8 @@
         "HP-25",
         "HP-26"
       ],
-      "glb_sha256": "bbc54b0ebc4073c7ec97c04cbef6ff028b443591a6540660682c230ff96c5856",
-      "glb_size_bytes": 1839184
+      "glb_sha256": "6bfa1ed548d33910f91da6d68543213bb820c3900fd172ee2e20fc221fe7407a",
+      "glb_size_bytes": 1858624
     },
     {
       "id": "baseline_rival_heavy_frame_v1",
@@ -90,7 +90,7 @@
       ]
     }
   ],
-  "last_synthesized_utc": "2026-11-25T05:08:09Z",
+  "last_synthesized_utc": "2026-11-25T05:17:41Z",
   "manifest_tier": "public_cdn_sanitized",
   "modular_parts": [
     {
