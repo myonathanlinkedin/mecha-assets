@@ -159,7 +159,7 @@
         "format": "binary_gltf_glb",
         "asset_reference": {
           "relative_url": "models/parts/mission_pack_type_a_aero.glb",
-          "sha256_hash": "3e03f136c39709c5d3c42d7b355e1105066820d31961ebb2fff268432ce97bcd",
+          "sha256_hash": "4bfa8dc45e799a2fc9ea9e7766c052d9ef8c47f9c8b60af2b3e6cc42981630ce",
           "file_size_bytes": 258160,
           "compression": "meshopt"
         },
