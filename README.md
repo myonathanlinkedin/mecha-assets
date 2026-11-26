@@ -2,7 +2,7 @@
 
 > **Lean Public Binary Asset Store for the 3D Agentic Mecha WebGL Viewer**  
 > **Live 3D WebGL Engineering Hangar:** [https://myonathanlinkedin.github.io/mecha.html](https://myonathanlinkedin.github.io/mecha.html)  
-> **Last Synchronized:** `2026-11-26 03:02 UTC` • **Baselines:** `2` • **Active Modular GLBs:** `644`
+> **Last Synchronized:** `2026-11-26 05:02 UTC` • **Baselines:** `2` • **Active Modular GLBs:** `654`
 
 ---
 
@@ -21,7 +21,7 @@ mecha-assets/
 
 ---
 
-## 🦾 Active 8-Zone Modular Parts Catalog (644 Compiled GLBs)
+## 🦾 Active 8-Zone Modular Parts Catalog (654 Compiled GLBs)
 
 | Serial | Part Name | Body Zone (`UHIS`) | Physical Adapter | Mass | SHA-256 | Binary GLB |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
@@ -669,3 +669,13 @@ mecha-assets/
 | `GXM-GEN-WST-642` | **F91 Formula Project Hip Thruster & Rail Pack** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 820 kg | `85138d4bae98…` | [`llm_gen_waist_ordnance_079_815eee.glb`](models/parts/llm_gen_waist_ordnance_079_815eee.glb) |
 | `GXM-GEN-LEG-643` | **RX-78-02 Side-7 Evacuation Aero-Greaves Kit** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 850 kg | `b22d9b4ff121…` | [`llm_gen_leg_thrusters_079_ce8b5d.glb`](models/parts/llm_gen_leg_thrusters_079_ce8b5d.glb) |
 | `GXM-GEN-WPN-644` | **RX-78-02 Side-7 Bunker Piercer Lance** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 850 kg | `6bc392b21695…` | [`llm_gen_aux_weapon_079_1ff278.glb`](models/parts/llm_gen_aux_weapon_079_1ff278.glb) |
+| `GXM-GEN-SHD-645` | **RX-0 Unicorn Gundam Hathaway I-Field Vernier Buckler** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 1,850 kg | `4afe9bdb64ed…` | [`llm_gen_aux_shield_079_7b8ba8.glb`](models/parts/llm_gen_aux_shield_079_7b8ba8.glb) |
+| `GXM-GEN-DPK-646` | **MSN-06S Sinanju Dorsal Funnel Halo Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 1,200 kg | `1fd31840513a…` | [`llm_gen_dorsal_pack_079_d6fc83.glb`](models/parts/llm_gen_dorsal_pack_079_d6fc83.glb) |
+| `GXM-GEN-HED-647` | **RGM-79SP GM Sniper II Compound Visor Crown** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 850 kg | `212c16038a97…` | [`llm_gen_head_sensor_080_40a7ff.glb`](models/parts/llm_gen_head_sensor_080_40a7ff.glb) |
+| `GXM-GEN-CHS-648` | **FA-78-1 Full Armor Gundam Pectoral Mega-Emitter Pack** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 3,400 kg | `55e51ec6c4d1…` | [`llm_gen_chest_armor_080_4cfbde.glb`](models/parts/llm_gen_chest_armor_080_4cfbde.glb) |
+| `GXM-GEN-SHL-649` | **XXXG-01H2 Heavyarms Custom Spiked Ram Shoulder Pods** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 2,000 kg | `d039da937bcd…` | [`llm_gen_shoulder_pods_080_e621f8.glb`](models/parts/llm_gen_shoulder_pods_080_e621f8.glb) |
+| `GXM-GEN-WST-650` | **Hyaku Shiki HP‑13 Beam Waist Pack** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 720 kg | `8ba67beb0474…` | [`llm_gen_waist_ordnance_080_f4a275.glb`](models/parts/llm_gen_waist_ordnance_080_f4a275.glb) |
+| `GXM-GEN-LEG-651` | **RX-78-02 Hyper Hover Calf Thruster Kit** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 950 kg | `a17acc03e4dc…` | [`llm_gen_leg_thrusters_080_64bd05.glb`](models/parts/llm_gen_leg_thrusters_080_64bd05.glb) |
+| `GXM-GEN-WPN-652` | **RX-78-02 Side-7 Bunker-Piercing Siege Mace** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 1,850 kg | `ee230652f138…` | [`llm_gen_aux_weapon_080_9e73b5.glb`](models/parts/llm_gen_aux_weapon_080_9e73b5.glb) |
+| `GXM-GEN-SHD-653` | **RX-0[N] Banshee Norn Lion-Mode Forearm Buckler** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 840 kg | `970860759fae…` | [`llm_gen_aux_shield_080_f41381.glb`](models/parts/llm_gen_aux_shield_080_f41381.glb) |
+| `GXM-GEN-DPK-654` | **ZGMF-X09A Justice Fatum-00 HiMAT Thrust Array** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 1,850 kg | `661f47083e8f…` | [`llm_gen_dorsal_pack_080_bb8b6c.glb`](models/parts/llm_gen_dorsal_pack_080_bb8b6c.glb) |
