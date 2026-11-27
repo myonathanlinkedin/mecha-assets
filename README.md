@@ -2,7 +2,7 @@
 
 > **Lean Public Binary Asset Store for the 3D Agentic Mecha WebGL Viewer**  
 > **Live 3D WebGL Engineering Hangar:** [https://myonathanlinkedin.github.io/mecha.html](https://myonathanlinkedin.github.io/mecha.html)  
-> **Last Synchronized:** `2026-11-27 19:02 UTC` • **Baselines:** `2` • **Active Modular GLBs:** `844`
+> **Last Synchronized:** `2026-11-27 21:02 UTC` • **Baselines:** `2` • **Active Modular GLBs:** `854`
 
 ---
 
@@ -21,7 +21,7 @@ mecha-assets/
 
 ---
 
-## 🦾 Active 8-Zone Modular Parts Catalog (844 Compiled GLBs)
+## 🦾 Active 8-Zone Modular Parts Catalog (854 Compiled GLBs)
 
 | Serial | Part Name | Body Zone (`UHIS`) | Physical Adapter | Mass | SHA-256 | Binary GLB |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
@@ -869,3 +869,13 @@ mecha-assets/
 | `GXM-GEN-WST-842` | **ASW-G-08 Barbatos Lupus Close-Combat Waist Pack** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 850 kg | `c2dfe31b7fc8…` | [`llm_gen_waist_ordnance_104_0821fe.glb`](models/parts/llm_gen_waist_ordnance_104_0821fe.glb) |
 | `GXM-GEN-LEG-843` | **RX-78-02 Hyper Aero Thruster Kit** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 800 kg | `27b6278f66e9…` | [`llm_gen_leg_thrusters_104_b7aaaf.glb`](models/parts/llm_gen_leg_thrusters_104_b7aaaf.glb) |
 | `GXM-GEN-WPN-844` | **RX-78-02 Auxiliary Sniper Railgun Mk.III** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 1,800 kg | `a836c6ea8783…` | [`llm_gen_aux_weapon_104_ea0d3c.glb`](models/parts/llm_gen_aux_weapon_104_ea0d3c.glb) |
+| `GXM-GEN-SHD-845` | **RGM-79[G] Luna-Titanium Breacher Buckler** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 1,850 kg | `359375fcd854…` | [`llm_gen_aux_shield_104_d3acf5.glb`](models/parts/llm_gen_aux_shield_104_d3acf5.glb) |
+| `GXM-GEN-DPK-846` | **RX-78GP01-Fb Zephyranthes Full‑Burner Dorsal Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 950 kg | `00ac453ad04f…` | [`llm_gen_dorsal_pack_104_4b65d7.glb`](models/parts/llm_gen_dorsal_pack_104_4b65d7.glb) |
+| `GXM-GEN-HED-847` | **GN-002 Gundam Dynames Head Sensor AWACS Crown Kit** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 600 kg | `7d21ae50c98f…` | [`llm_gen_head_sensor_105_30e869.glb`](models/parts/llm_gen_head_sensor_105_30e869.glb) |
+| `GXM-GEN-CHS-848` | **RX-0 FA Unicorn Psycho-Frame Pectoral Shield** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 1,850 kg | `ff2e5353ef5f…` | [`llm_gen_chest_armor_105_a04edb.glb`](models/parts/llm_gen_chest_armor_105_a04edb.glb) |
+| `GXM-GEN-SHL-849` | **RGM-89S Stark Jegan Quad Missile Shoulder Pods** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 1,350 kg | `583800ff13c2…` | [`llm_gen_shoulder_pods_105_2cb0a5.glb`](models/parts/llm_gen_shoulder_pods_105_2cb0a5.glb) |
+| `GXM-GEN-WST-850` | **ZGMF-X20A Strike Freedom Waist Rail‑DRAGOON Pack** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 3,500 kg | `3c555f49aed6…` | [`llm_gen_waist_ordnance_105_4f634e.glb`](models/parts/llm_gen_waist_ordnance_105_4f634e.glb) |
+| `GXM-GEN-LEG-851` | **RX-78-02 Hathaway Hyper‑Prop Calf Thruster Kit** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 850 kg | `b8a79108fa22…` | [`llm_gen_leg_thrusters_105_78a150.glb`](models/parts/llm_gen_leg_thrusters_105_78a150.glb) |
+| `GXM-GEN-WPN-852` | **RX-78-02 Side-7 Vernier Twin-Blade Glaive** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 840 kg | `b47892188ecf…` | [`llm_gen_aux_weapon_105_a0830e.glb`](models/parts/llm_gen_aux_weapon_105_a0830e.glb) |
+| `GXM-GEN-SHD-853` | **ZGMF-X20A Hyper-Deuterion Aero-Ram Guard** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 1,850 kg | `87b5bc51010e…` | [`llm_gen_aux_shield_105_a723da.glb`](models/parts/llm_gen_aux_shield_105_a723da.glb) |
+| `GXM-GEN-DPK-854` | **00 Raiser Twin‑Drive Dorsal Funnel Halo Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 1,250 kg | `8c555aa8d242…` | [`llm_gen_dorsal_pack_105_df27e9.glb`](models/parts/llm_gen_dorsal_pack_105_df27e9.glb) |
