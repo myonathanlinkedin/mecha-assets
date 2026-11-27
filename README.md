@@ -2,7 +2,7 @@
 
 > **Lean Public Binary Asset Store for the 3D Agentic Mecha WebGL Viewer**  
 > **Live 3D WebGL Engineering Hangar:** [https://myonathanlinkedin.github.io/mecha.html](https://myonathanlinkedin.github.io/mecha.html)  
-> **Last Synchronized:** `2026-11-27 01:02 UTC` • **Baselines:** `2` • **Active Modular GLBs:** `754`
+> **Last Synchronized:** `2026-11-27 03:02 UTC` • **Baselines:** `2` • **Active Modular GLBs:** `764`
 
 ---
 
@@ -21,7 +21,7 @@ mecha-assets/
 
 ---
 
-## 🦾 Active 8-Zone Modular Parts Catalog (754 Compiled GLBs)
+## 🦾 Active 8-Zone Modular Parts Catalog (764 Compiled GLBs)
 
 | Serial | Part Name | Body Zone (`UHIS`) | Physical Adapter | Mass | SHA-256 | Binary GLB |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
@@ -779,3 +779,13 @@ mecha-assets/
 | `GXM-GEN-CHS-752` | **ASW-G-11 Gusion Rebake Adaptive V‑Crest Armor** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 950 kg | `0a9944b10336…` | [`llm_gen_chest_armor_093_049705.glb`](models/parts/llm_gen_chest_armor_093_049705.glb) |
 | `GXM-GEN-SHL-753` | **RX-77-2 Guncannon Bazooka Shield Pauldrons** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 1,850 kg | `460d0da54186…` | [`llm_gen_shoulder_pods_093_3eb7bc.glb`](models/parts/llm_gen_shoulder_pods_093_3eb7bc.glb) |
 | `GXM-GEN-WST-754` | **Heavyarms HP‑13 Missile‑Grenade Ambac Pack** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 1,200 kg | `274ad08dde29…` | [`llm_gen_waist_ordnance_093_4f81b1.glb`](models/parts/llm_gen_waist_ordnance_093_4f81b1.glb) |
+| `GXM-GEN-LEG-755` | **RX-78-02 Hyper Mobility Leg Thruster Kit** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 800 kg | `76e87cf9c24a…` | [`llm_gen_leg_thrusters_093_38b39c.glb`](models/parts/llm_gen_leg_thrusters_093_38b39c.glb) |
+| `GXM-GEN-WPN-756` | **RX-78-02 Side-7 Vernier Plasma Battleaxe** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 850 kg | `bea0e5b5144e…` | [`llm_gen_aux_weapon_093_4820a4.glb`](models/parts/llm_gen_aux_weapon_093_4820a4.glb) |
+| `GXM-GEN-SHD-757` | **MSN-04 Sazabi Heavy Assault Forearm Shield** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 1,200 kg | `98143ef4b3e6…` | [`llm_gen_aux_shield_093_b1a70d.glb`](models/parts/llm_gen_aux_shield_093_b1a70d.glb) |
+| `GXM-GEN-DPK-758` | **RX-160S Byarlant Custom Atmospheric Thruster Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 1,800 kg | `8d507baef73c…` | [`llm_gen_dorsal_pack_093_a1471a.glb`](models/parts/llm_gen_dorsal_pack_093_a1471a.glb) |
+| `GXM-GEN-HED-759` | **ASW-G-08 Barbatos Reactor AWACS Crown** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 850 kg | `d4d26a05ae40…` | [`llm_gen_head_sensor_094_cab977.glb`](models/parts/llm_gen_head_sensor_094_cab977.glb) |
+| `GXM-GEN-CHS-760` | **RX-78GP01 Zephyranthes Pectoral Shield** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 1,200 kg | `eaac8ee1a3c3…` | [`llm_gen_chest_armor_094_c5e170.glb`](models/parts/llm_gen_chest_armor_094_c5e170.glb) |
+| `GXM-GEN-SHL-761` | **ZGMF-X09A Justice HiMAT Fatum Shoulder Pods** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 1,850 kg | `c3c2021a1c29…` | [`llm_gen_shoulder_pods_094_e98064.glb`](models/parts/llm_gen_shoulder_pods_094_e98064.glb) |
+| `GXM-GEN-WST-762` | **Stark Jegan HP‑13 Anti‑Ship Waist Pack** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 1,200 kg | `a3dc2a10673f…` | [`llm_gen_waist_ordnance_094_7db155.glb`](models/parts/llm_gen_waist_ordnance_094_7db155.glb) |
+| `GXM-GEN-LEG-763` | **RX-78-02 Gouflite HP‑24 Advanced Boost Greaves Kit** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 1,800 kg | `da35f9dfe8ef…` | [`llm_gen_leg_thrusters_094_c7b248.glb`](models/parts/llm_gen_leg_thrusters_094_c7b248.glb) |
+| `GXM-GEN-WPN-764` | **RX-78-02 Side-7 Mega-Particle Precision Magnum** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 1,850 kg | `c0a6e0798e9d…` | [`llm_gen_aux_weapon_094_8fb555.glb`](models/parts/llm_gen_aux_weapon_094_8fb555.glb) |
