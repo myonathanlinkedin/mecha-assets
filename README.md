@@ -2,7 +2,7 @@
 
 > **Lean Public Binary Asset Store for the 3D Agentic Mecha WebGL Viewer**  
 > **Live 3D WebGL Engineering Hangar:** [https://myonathanlinkedin.github.io/mecha.html](https://myonathanlinkedin.github.io/mecha.html)  
-> **Last Synchronized:** `2026-11-28 13:02 UTC` • **Baselines:** `2` • **Active Modular GLBs:** `934`
+> **Last Synchronized:** `2026-11-28 15:02 UTC` • **Baselines:** `2` • **Active Modular GLBs:** `944`
 
 ---
 
@@ -21,7 +21,7 @@ mecha-assets/
 
 ---
 
-## 🦾 Active 8-Zone Modular Parts Catalog (934 Compiled GLBs)
+## 🦾 Active 8-Zone Modular Parts Catalog (944 Compiled GLBs)
 
 | Serial | Part Name | Body Zone (`UHIS`) | Physical Adapter | Mass | SHA-256 | Binary GLB |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
@@ -959,3 +959,13 @@ mecha-assets/
 | `GXM-GEN-WPN-932` | **RX-78-02 Auxiliary Mega Warhammer Mk.I** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 1,800 kg | `0a627a6a7efe…` | [`llm_gen_aux_weapon_115_55215d.glb`](models/parts/llm_gen_aux_weapon_115_55215d.glb) |
 | `GXM-GEN-SHD-933` | **GAT-X207 Mirage Colloid Aero-Ram Guard** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 1,850 kg | `cbf07ee437c0…` | [`llm_gen_aux_shield_115_6da4d7.glb`](models/parts/llm_gen_aux_shield_115_6da4d7.glb) |
 | `GXM-GEN-DPK-934` | **RX-160S Byarlant Custom Dorsal Propulsion Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 1,200 kg | `748dc3d58812…` | [`llm_gen_dorsal_pack_115_8330ab.glb`](models/parts/llm_gen_dorsal_pack_115_8330ab.glb) |
+| `GXM-GEN-HED-935` | **LM314V21 Victory 2 Core-Block Cranial Array** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 500 kg | `aa71efc8a3a4…` | [`llm_gen_head_sensor_116_327b47.glb`](models/parts/llm_gen_head_sensor_116_327b47.glb) |
+| `GXM-GEN-CHS-936` | **PMX-003 The-O Spatial Rib Cuirass** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 1,850 kg | `4cd9416d869f…` | [`llm_gen_chest_armor_116_d13891.glb`](models/parts/llm_gen_chest_armor_116_d13891.glb) |
+| `GXM-GEN-SHL-937` | **MSN-06S Sinanju Zenith Shoulder Pods** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 5,800 kg | `671fbd36cd41…` | [`llm_gen_shoulder_pods_116_ee0363.glb`](models/parts/llm_gen_shoulder_pods_116_ee0363.glb) |
+| `GXM-GEN-WST-938` | **GN-003 Kyrios Hip‑Waist Pack** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 1,200 kg | `acd070a45e39…` | [`llm_gen_waist_ordnance_116_edfc10.glb`](models/parts/llm_gen_waist_ordnance_116_edfc10.glb) |
+| `GXM-GEN-LEG-939` | **RX-78-02 HP‑24 Calf Fuel Booster Kit** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 950 kg | `c474530e0b8a…` | [`llm_gen_leg_thrusters_116_d83eb4.glb`](models/parts/llm_gen_leg_thrusters_116_d83eb4.glb) |
+| `GXM-GEN-WPN-940` | **RX-78-02 Auxiliary Beam Magnum Quad Mk.I** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 2,800 kg | `7daa913191d9…` | [`llm_gen_aux_weapon_116_e26604.glb`](models/parts/llm_gen_aux_weapon_116_e26604.glb) |
+| `GXM-GEN-SHD-941` | **GN-002 Dynames GN Aero-Ram Forearm Shield** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 850 kg | `12ec446ef5f4…` | [`llm_gen_aux_shield_116_944a22.glb`](models/parts/llm_gen_aux_shield_116_944a22.glb) |
+| `GXM-GEN-DPK-942` | **Freedom Gundam High‑Mobility Wing‑Binder Dorsal Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 1,200 kg | `2b6ab1d3393d…` | [`llm_gen_dorsal_pack_116_7120ae.glb`](models/parts/llm_gen_dorsal_pack_116_7120ae.glb) |
+| `GXM-GEN-HED-943` | **ZGMF-X56S Impulse Gundam Head Sensor Array Kit** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 650 kg | `3d5f4e12c171…` | [`llm_gen_head_sensor_117_ab576c.glb`](models/parts/llm_gen_head_sensor_117_ab576c.glb) |
+| `GXM-GEN-CHS-944` | **PMX-003 The-O Golden Mega‑Rib Plastron** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 1,300 kg | `0c23952a8f75…` | [`llm_gen_chest_armor_117_d24f27.glb`](models/parts/llm_gen_chest_armor_117_d24f27.glb) |
