@@ -2,7 +2,7 @@
 
 > **Lean Public Binary Asset Store for the 3D Agentic Mecha WebGL Viewer**  
 > **Live 3D WebGL Engineering Hangar:** [https://myonathanlinkedin.github.io/mecha.html](https://myonathanlinkedin.github.io/mecha.html)  
-> **Last Synchronized:** `2026-11-27 23:02 UTC` • **Baselines:** `2` • **Active Modular GLBs:** `864`
+> **Last Synchronized:** `2026-11-28 01:02 UTC` • **Baselines:** `2` • **Active Modular GLBs:** `874`
 
 ---
 
@@ -21,7 +21,7 @@ mecha-assets/
 
 ---
 
-## 🦾 Active 8-Zone Modular Parts Catalog (864 Compiled GLBs)
+## 🦾 Active 8-Zone Modular Parts Catalog (874 Compiled GLBs)
 
 | Serial | Part Name | Body Zone (`UHIS`) | Physical Adapter | Mass | SHA-256 | Binary GLB |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
@@ -889,3 +889,13 @@ mecha-assets/
 | `GXM-GEN-DPK-862` | **Destiny Gundam Twin Rail Artillery Dorsal Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 1,180 kg | `01ba8fcc2cbe…` | [`llm_gen_dorsal_pack_106_d77965.glb`](models/parts/llm_gen_dorsal_pack_106_d77965.glb) |
 | `GXM-GEN-HED-863` | **RX-105 Ξ Gundam Head Sensor Crown Kit** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 850 kg | `1dca5c928c1e…` | [`llm_gen_head_sensor_107_846084.glb`](models/parts/llm_gen_head_sensor_107_846084.glb) |
 | `GXM-GEN-CHS-864` | **F91 Gundam F91 Formula Project Pectoral Shroud** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 850 kg | `e41586c19fdc…` | [`llm_gen_chest_armor_107_b5a06b.glb`](models/parts/llm_gen_chest_armor_107_b5a06b.glb) |
+| `GXM-GEN-SHL-865` | **MS-18E Kämpfer Assault Missile Surge Pods** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 1,200 kg | `874837b5ce86…` | [`llm_gen_shoulder_pods_107_dfea04.glb`](models/parts/llm_gen_shoulder_pods_107_dfea04.glb) |
+| `GXM-GEN-WST-866` | **FA-78-1 Full Armor FSWS Hip Arsenal Pack** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 1,850 kg | `aaa3337764e4…` | [`llm_gen_waist_ordnance_107_a53d11.glb`](models/parts/llm_gen_waist_ordnance_107_a53d11.glb) |
+| `GXM-GEN-LEG-867` | **RX-78-02 GOUF HP‑24 Hyper Thruster Kit** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 780 kg | `d9262ce7905a…` | [`llm_gen_leg_thrusters_107_3b386f.glb`](models/parts/llm_gen_leg_thrusters_107_3b386f.glb) |
+| `GXM-GEN-WPN-868` | **RX-78-02 Auxiliary Plasma Glaive Mk.II** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 2,100 kg | `0dfee699cdfb…` | [`llm_gen_aux_weapon_107_522d19.glb`](models/parts/llm_gen_aux_weapon_107_522d19.glb) |
+| `GXM-GEN-SHD-869` | **GN-001 Exia GN Shear-Mantle Aux Shield** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 850 kg | `60fd6015ed86…` | [`llm_gen_aux_shield_107_9835ae.glb`](models/parts/llm_gen_aux_shield_107_9835ae.glb) |
+| `GXM-GEN-DPK-870` | **ZGMF-X13A Providence DRAGOON Twin‑Rail Dorsal Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 1,200 kg | `4f3867312283…` | [`llm_gen_dorsal_pack_107_a8a2ff.glb`](models/parts/llm_gen_dorsal_pack_107_a8a2ff.glb) |
+| `GXM-GEN-HED-871` | **RX-121-1 Gundam TR-1 Hazel Custom Head Sensor Crown** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 850 kg | `725d4b6b8d3c…` | [`llm_gen_head_sensor_108_8027b4.glb`](models/parts/llm_gen_head_sensor_108_8027b4.glb) |
+| `GXM-GEN-CHS-872` | **RX-78NT-1 Newtype Sensor Chest Armor** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 1,200 kg | `f6082a09fdb8…` | [`llm_gen_chest_armor_108_1ed210.glb`](models/parts/llm_gen_chest_armor_108_1ed210.glb) |
+| `GXM-GEN-SHL-873` | **RX-93-ν2 Hi-ν Gundam Fin Funnel Recon Pauldrons** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 850 kg | `8f9a73b4c51a…` | [`llm_gen_shoulder_pods_108_45f7f5.glb`](models/parts/llm_gen_shoulder_pods_108_45f7f5.glb) |
+| `GXM-GEN-WST-874` | **RX-93 ν Gundam HP‑13 Missile‑Rail Waist Pack** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 1,200 kg | `a92c8e3faccf…` | [`llm_gen_waist_ordnance_108_d02a24.glb`](models/parts/llm_gen_waist_ordnance_108_d02a24.glb) |
