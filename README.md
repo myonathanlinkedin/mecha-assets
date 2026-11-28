@@ -2,7 +2,7 @@
 
 > **Lean Public Binary Asset Store for the 3D Agentic Mecha WebGL Viewer**  
 > **Live 3D WebGL Engineering Hangar:** [https://myonathanlinkedin.github.io/mecha.html](https://myonathanlinkedin.github.io/mecha.html)  
-> **Last Synchronized:** `2026-11-28 01:02 UTC` • **Baselines:** `2` • **Active Modular GLBs:** `874`
+> **Last Synchronized:** `2026-11-28 03:02 UTC` • **Baselines:** `2` • **Active Modular GLBs:** `884`
 
 ---
 
@@ -21,7 +21,7 @@ mecha-assets/
 
 ---
 
-## 🦾 Active 8-Zone Modular Parts Catalog (874 Compiled GLBs)
+## 🦾 Active 8-Zone Modular Parts Catalog (884 Compiled GLBs)
 
 | Serial | Part Name | Body Zone (`UHIS`) | Physical Adapter | Mass | SHA-256 | Binary GLB |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
@@ -899,3 +899,13 @@ mecha-assets/
 | `GXM-GEN-CHS-872` | **RX-78NT-1 Newtype Sensor Chest Armor** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 1,200 kg | `f6082a09fdb8…` | [`llm_gen_chest_armor_108_1ed210.glb`](models/parts/llm_gen_chest_armor_108_1ed210.glb) |
 | `GXM-GEN-SHL-873` | **RX-93-ν2 Hi-ν Gundam Fin Funnel Recon Pauldrons** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 850 kg | `8f9a73b4c51a…` | [`llm_gen_shoulder_pods_108_45f7f5.glb`](models/parts/llm_gen_shoulder_pods_108_45f7f5.glb) |
 | `GXM-GEN-WST-874` | **RX-93 ν Gundam HP‑13 Missile‑Rail Waist Pack** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 1,200 kg | `a92c8e3faccf…` | [`llm_gen_waist_ordnance_108_d02a24.glb`](models/parts/llm_gen_waist_ordnance_108_d02a24.glb) |
+| `GXM-GEN-LEG-875` | **RX-78-02 Hathaway Flash Vector Calf Kit** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 850 kg | `dadd12014613…` | [`llm_gen_leg_thrusters_108_fcb053.glb`](models/parts/llm_gen_leg_thrusters_108_fcb053.glb) |
+| `GXM-GEN-WPN-876` | **RX-78-02 Auxiliary Heavy Beam Magnum Kit** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 1,200 kg | `4ce6bec97d3b…` | [`llm_gen_aux_weapon_108_ebe4b9.glb`](models/parts/llm_gen_aux_weapon_108_ebe4b9.glb) |
+| `GXM-GEN-SHD-877` | **YMS-15 Gyan Mine-Rack Bunker Guard** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 1,850 kg | `92353ad04e39…` | [`llm_gen_aux_shield_108_35a4f9.glb`](models/parts/llm_gen_aux_shield_108_35a4f9.glb) |
+| `GXM-GEN-DPK-878` | **GSX-401FW Stargazer Orbital Endurance Booster** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 1,850 kg | `eefcaa2d3b86…` | [`llm_gen_dorsal_pack_108_4d66ed.glb`](models/parts/llm_gen_dorsal_pack_108_4d66ed.glb) |
+| `GXM-GEN-HED-879` | **RGM-79EW EWAC GM Passive Radome Recon Cranial** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 850 kg | `4bb0496ef0a7…` | [`llm_gen_head_sensor_109_16ab84.glb`](models/parts/llm_gen_head_sensor_109_16ab84.glb) |
+| `GXM-GEN-CHS-880` | **GN‑005 Virtue Heavy‑Artillery Chest Armor** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 950 kg | `62e2a5429953…` | [`llm_gen_chest_armor_109_26d19f.glb`](models/parts/llm_gen_chest_armor_109_26d19f.glb) |
+| `GXM-GEN-SHL-881` | **RX-78GP02A Physalis Nuclear Buster Pauldrons** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 4,850 kg | `7d659fc065b6…` | [`llm_gen_shoulder_pods_109_23d178.glb`](models/parts/llm_gen_shoulder_pods_109_23d178.glb) |
+| `GXM-GEN-WST-882` | **MS-09 Dom Rocket Hip Pack** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 1,200 kg | `e83e00d8c761…` | [`llm_gen_waist_ordnance_109_b1235d.glb`](models/parts/llm_gen_waist_ordnance_109_b1235d.glb) |
+| `GXM-GEN-LEG-883` | **RX-78-02 Hathaway Aero-Boost Calf Thruster Kit** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 1,200 kg | `268e9ef785cc…` | [`llm_gen_leg_thrusters_109_1a9917.glb`](models/parts/llm_gen_leg_thrusters_109_1a9917.glb) |
+| `GXM-GEN-WPN-884` | **RX-78-02 Auxiliary Kinetic Warblade Mk.I** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 1,800 kg | `3c44cb61abd3…` | [`llm_gen_aux_weapon_109_cd97e4.glb`](models/parts/llm_gen_aux_weapon_109_cd97e4.glb) |
