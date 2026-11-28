@@ -2,7 +2,7 @@
 
 > **Lean Public Binary Asset Store for the 3D Agentic Mecha WebGL Viewer**  
 > **Live 3D WebGL Engineering Hangar:** [https://myonathanlinkedin.github.io/mecha.html](https://myonathanlinkedin.github.io/mecha.html)  
-> **Last Synchronized:** `2026-11-28 17:02 UTC` • **Baselines:** `2` • **Active Modular GLBs:** `954`
+> **Last Synchronized:** `2026-11-28 19:03 UTC` • **Baselines:** `2` • **Active Modular GLBs:** `964`
 
 ---
 
@@ -21,7 +21,7 @@ mecha-assets/
 
 ---
 
-## 🦾 Active 8-Zone Modular Parts Catalog (954 Compiled GLBs)
+## 🦾 Active 8-Zone Modular Parts Catalog (964 Compiled GLBs)
 
 | Serial | Part Name | Body Zone (`UHIS`) | Physical Adapter | Mass | SHA-256 | Binary GLB |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
@@ -979,3 +979,13 @@ mecha-assets/
 | `GXM-GEN-CHS-952` | **ORX-005 Gaplant Magnet-Coat Rib Cuirass** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 1,850 kg | `29c1bfc9538b…` | [`llm_gen_chest_armor_118_ecb868.glb`](models/parts/llm_gen_chest_armor_118_ecb868.glb) |
 | `GXM-GEN-SHL-953` | **Astray Red Frame Twin Mega Beam Shoulder Pods** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 950 kg | `d89a6dbf23b2…` | [`llm_gen_shoulder_pods_118_e87abb.glb`](models/parts/llm_gen_shoulder_pods_118_e87abb.glb) |
 | `GXM-GEN-WST-954` | **RX-105 Ξ Gundam Minovsky Field Waist Pack** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 1,200 kg | `2d09f51322ac…` | [`llm_gen_waist_ordnance_118_4283b6.glb`](models/parts/llm_gen_waist_ordnance_118_4283b6.glb) |
+| `GXM-GEN-LEG-955` | **RX-78-02 Hathaway Flash GOUF Thruster Greaves Kit** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 950 kg | `d5f118dd58cf…` | [`llm_gen_leg_thrusters_118_8b4632.glb`](models/parts/llm_gen_leg_thrusters_118_8b4632.glb) |
+| `GXM-GEN-WPN-956` | **RX-78-02 Gundam Tri Barrel Extended Sniper Scope (Strike Freedom Royal)** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 4,150 kg | `e3f63664075b…` | [`llm_gen_aux_weapon_118_6d3b39.glb`](models/parts/llm_gen_aux_weapon_118_6d3b39.glb) |
+| `GXM-GEN-SHD-957` | **MS-07B-3 Gouf Custom Spike Guard** | `aux_shield` (`HP-07`) | `ADP-HP07-FOREARM` | 1,150 kg | `86c81e7fbc33…` | [`llm_gen_aux_shield_118_9678b3.glb`](models/parts/llm_gen_aux_shield_118_9678b3.glb) |
+| `GXM-GEN-DPK-958` | **MSN-06S Sinanju Psy-Comm Dorsal Pack** | `dorsal_pack` (`HP-00`) | `ADP-HP00-DORSAL` | 1,200 kg | `d236fcb952b0…` | [`llm_gen_dorsal_pack_118_5b4f9c.glb`](models/parts/llm_gen_dorsal_pack_118_5b4f9c.glb) |
+| `GXM-GEN-HED-959` | **RX-78GP03S Stamen Orchis Fire‑Control Sensor Array** | `head_sensor` (`HP-01`) | `ADP-HP01-CRANIAL` | 1,200 kg | `a46e39d7da9c…` | [`llm_gen_head_sensor_119_32f9d1.glb`](models/parts/llm_gen_head_sensor_119_32f9d1.glb) |
+| `GXM-GEN-CHS-960` | **XVX-016 Gundam Aerial EMT Turbine Pectoral** | `chest_armor` (`HP-09`) | `ADP-HP09-PECTORAL` | 850 kg | `0025b200461b…` | [`llm_gen_chest_armor_119_afa185.glb`](models/parts/llm_gen_chest_armor_119_afa185.glb) |
+| `GXM-GEN-SHL-961` | **YMS-15 Gyan Swept Samurai Forward Sensor Pod (Destiny Phantom)** | `shoulder_pods` (`HP-03`) | `ADP-HP03-SHOULDER` | 3,340 kg | `42dfc1855b01…` | [`llm_gen_shoulder_pods_119_375413.glb`](models/parts/llm_gen_shoulder_pods_119_375413.glb) |
+| `GXM-GEN-WST-962` | **GAT-X105 Strike Gundam Long‑Range Launcher Waist Pack** | `waist_ordnance` (`HP-13`) | `ADP-HP13-WAIST` | 950 kg | `523456331aa4…` | [`llm_gen_waist_ordnance_119_22bd42.glb`](models/parts/llm_gen_waist_ordnance_119_22bd42.glb) |
+| `GXM-GEN-LEG-963` | **RX-78-02 Gundam Knee Spike Outer Aero Stabilizer (Destiny Phantom)** | `leg_thrusters` (`HP-24`) | `ADP-HP24-CALF` | 3,540 kg | `178ef1ac4357…` | [`llm_gen_leg_thrusters_119_10a475.glb`](models/parts/llm_gen_leg_thrusters_119_10a475.glb) |
+| `GXM-GEN-WPN-964` | **RX-78-02 Auxiliary Beam Glaive Vanguard Kit** | `aux_weapon` (`HP-11`) | `ADP-HP11-WEAPON` | 800 kg | `90d2318f14b1…` | [`llm_gen_aux_weapon_119_c5842f.glb`](models/parts/llm_gen_aux_weapon_119_c5842f.glb) |
